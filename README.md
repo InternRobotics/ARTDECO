@@ -6,6 +6,8 @@
 [Guanghao Li*](https://lightingooo.github.io/), [Kerui Ren*](https://cskrren.github.io/), [Linning Xu](https://eveneveno.github.io/lnxu/),
 [Zhewen Zheng](https://github.com/QuantumEPR), [Changjian Jiang](https://scholar.google.com/citations?hl=en&user=V4miywEAAAAJ), [Xin Gao](https://gaoxin492.github.io/), [Bo Dai](https://daibo.info/), [Jian Pu<sup>†</sup>](https://scholar.google.com/citations?user=9pUCoOkAAAAJ&hl=en), [Mulin Yu<sup>†</sup>](https://mulinyu.github.io/), [Jiangmiao Pang](https://oceanpang.github.io/) <br/>
 
+[2026.01.26] Our paper is accepted by ICLR 2026.
+
 ## Frontend and Backend Modules
 ![img](assets/pipeline1.png)
 (a) Frontend: Images are captured from the scene and streamed into the front-end part. Each incoming frame is aligned with the latest keyframe using a matching module to compute pixel correspondences. Based on the correspondence ratio and pixel displacement, the frame is classified as a keyframe, a mapper frame, or a common frame. The selected frame, along with its pose and point cloud, is then passed to the back-end. (b) Backend: For each new keyframe, a loop-detection module evaluates its similarity with previous keyframes. If a loop is detected, the most relevant candidates are refined and connected in the factor graph; otherwise, the keyframe is linked only to recent frames. Finally, global pose optimization is performed with Gauss–Newton, and other frames are adjusted accordingly. We instantiate the matching module with MASt3R and the loop-detection module with Pi3.
