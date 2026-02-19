@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "in3d"
+version = "0.0.1"
+dynamic = ["dependencies"]
+
+# [tool.setuptools.dynamic]
+# dependencies = { file = ["requirements.txt"] }
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["in3d"]
+exclude = ["thirdparty", "resources"]
+namespaces = false

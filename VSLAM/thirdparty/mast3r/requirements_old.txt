@@ -1,0 +1,3 @@
+scikit-learn
+-e ./dust3r/croco/models/curope
+-e ./asmk

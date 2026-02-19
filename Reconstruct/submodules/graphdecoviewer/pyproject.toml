@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "graphdecoviewer"
+version = "0.1.1"
+authors = [
+    { name="Ishaan Shah", email="ishaan.shah@inria.fr" },
+    { name="Andreas Meuleman", email="andreas.meuleman@inria.fr" },
+    { name="Alexandre Lanvin", email="alexandre.lanvin@inria.fr" },
+    { name="George Drettakis", email="george.drettakis@inria.fr" }
+]
+description = "A framework for creating viewers for 3D algorithms."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+dependencies = [
+    "numpy",
+    "imgui-bundle",
+    "PyOpenGL",
+    "websockets",
+    "glfw",
+    "cuda-python; sys_platform != 'darwin'"
+]
+
+[project.urls]
+Homepage = "https://github.com/graphdeco-inria/graphdecoviewer"

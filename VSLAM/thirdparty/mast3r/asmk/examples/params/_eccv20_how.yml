@@ -1,0 +1,40 @@
+# Common parameters for HOW descriptors
+
+demo_how:
+  data_folder: data # Data path relative to the package root (can be absolute path)
+  exp_folder: data/experiments # Experiment path relative to the package root (can be absolute path)
+  eval_datasets: [roxford5k, rparis6k] # Datasets to evaluate on
+  eval_features: null # Name of the local features for evaluation (will be downloaded for each dataset)
+  codebook_dataset: sfm120k_subset20k # Dataset to train the codebook on
+  codebook_features: null # Name of the local features to train the codebook on (will be downloaded for codebook_dataset)
+
+# General properties
+
+index:
+  gpu_id: 0 # Gpu id to use, None to run on cpu
+
+# Steps
+
+train_codebook:
+  codebook:
+    size: "64k" # Number of visual words (i.e. clusters of local features) in the codebook
+
+build_ivf:
+  kernel:
+    binary: True # Binarization option in the asmk
+  ivf:
+    use_idf: False # IDF weighting in the inverted file
+
+  quantize:
+    multiple_assignment: 1 # Number of assignments for the db vectors
+  aggregate: {}
+
+query_ivf:
+  quantize:
+    multiple_assignment: 5 # Number of assignments for the query vectors
+  aggregate: {}
+  search:
+    topk: null # Limit the number of results (db images) returned for each query (null means unlimited)
+  similarity:
+    similarity_threshold: 0.0 # Feature similarity threshold
+    alpha: 3.0 # Feature similarity exponent

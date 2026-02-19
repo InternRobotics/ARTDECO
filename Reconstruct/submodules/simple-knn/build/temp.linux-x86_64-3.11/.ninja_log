@@ -1,0 +1,7 @@
+# ninja log v7
+5	8424	1756818204059597222	/cpfs/shared/aigc/renkerui/Artdeco-V1/Reconstruct/submodules/simple-knn/build/temp.linux-x86_64-3.11/simple_knn.o	317cb9933839f835
+2	18671	1756818204057073000	/cpfs/shared/aigc/renkerui/Artdeco-V1/Reconstruct/submodules/simple-knn/build/temp.linux-x86_64-3.11/ext.o	a513ddd1c87e5e00
+6	34358	1756818204061597216	/cpfs/shared/aigc/renkerui/Artdeco-V1/Reconstruct/submodules/simple-knn/build/temp.linux-x86_64-3.11/spatial.o	6e3a6f872f8668b1
+8	8445	1757073314435643632	/cpfs/user/renkerui/Artdeco-V1/Reconstruct/submodules/simple-knn/build/temp.linux-x86_64-3.11/simple_knn.o	589b0b455ea2beeb
+4	18242	1757073314433475000	/cpfs/user/renkerui/Artdeco-V1/Reconstruct/submodules/simple-knn/build/temp.linux-x86_64-3.11/ext.o	52ff60bdb790cd96
+9	33511	1757073314436643629	/cpfs/user/renkerui/Artdeco-V1/Reconstruct/submodules/simple-knn/build/temp.linux-x86_64-3.11/spatial.o	3ca437beb915ed94

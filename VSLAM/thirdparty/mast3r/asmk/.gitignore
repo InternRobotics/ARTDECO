@@ -1,0 +1,5 @@
+# Byte-compiled files
+__pycache__/
+
+# C extensions
+*.so

@@ -1,0 +1,1 @@
+cythonize *.pyx

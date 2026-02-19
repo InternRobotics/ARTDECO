@@ -1,0 +1,50 @@
+
+image:
+  - Ubuntu
+  - Visual Studio 2015
+  - macos-catalina
+
+environment:
+  matrix:
+    - CIBW_BUILD: "cp311-*"
+    - CIBW_BUILD: "cp310-*"
+    - CIBW_BUILD: "cp39-*"
+    - CIBW_BUILD: "cp38-*"
+    - CIBW_BUILD: "cp37-*"
+    - CIBW_BUILD: "cp36-*"
+
+    - CIBW_BUILD: "pp39-*"
+    - CIBW_BUILD: "pp38-*"
+    - CIBW_BUILD: "pp37-*"
+
+stack: python 3.7
+
+init:
+- cmd: set PATH=C:\Python37;C:\Python37\Scripts;%PATH%
+
+install:  |
+  python --version
+  git submodule update --init --recursive
+  python -m pip install cibuildwheel==2.12.1
+
+build_script: python -m cibuildwheel --output-dir dist
+
+on_success:
+  - ps: |
+      if ($env:APPVEYOR_REPO_BRANCH -eq "master")
+      {
+         python -m pip install dropbox
+         python ci/dropbox_upload.py $(python setup.py --version)
+      }
+      else
+      {
+         Write-Host "Not a master branch. Upload skipped."
+      }
+
+artifacts:
+  - path: "dist\\*.whl"
+    name: Wheels
+
+# TODO: tmp - set this back to true
+matrix:
+  fast_finish: false

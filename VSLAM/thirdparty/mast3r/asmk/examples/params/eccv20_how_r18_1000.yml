@@ -1,0 +1,7 @@
+# Demo scenario for HOW descriptors with Resnet 18 backbone
+
+__template__: _eccv20_how.yml
+
+demo_how:
+  eval_features: how_r18_1000
+  codebook_features: how_r18_1000

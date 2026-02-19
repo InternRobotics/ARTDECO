@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "asmk"
+version = "0.1"
+authors = [{ name = "Tomas Jenicek" }, { name = "Giorgos Tolias" }]
+description = "ASMK Python implementation for ECCV'20 paper \"Learning and aggregating deep local descriptors for instance-level recognition"
+dependencies = ["numpy", "pyaml", "faiss-cpu"]
+
+
+[tool.setuptools]
+packages = { find = { where = ["."], include = ["asmk"], namespaces = false } }
