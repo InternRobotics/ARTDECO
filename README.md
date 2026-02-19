@@ -7,6 +7,7 @@
 
 ## 📢 News
 **[2026.02.19]** 🚀 Training code is officially released!
+
 **[2026.01.26]** 🎉 Our paper has been accepted by **ICLR 2026**.
 
 ## 🏗️ System Architecture
