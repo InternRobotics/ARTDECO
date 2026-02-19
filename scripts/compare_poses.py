@@ -3,8 +3,8 @@ import numpy as np
 import torch
 from scipy.spatial.transform import Rotation as R
 from pathlib import Path
-slam_frame_path = Path('/cpfs01/user/zhengzhewen/repos/Artdeco-V1/results/shared_results/self_captured_baselines/08_05_canon-r8/MVI_0636/artdeco-norigidtransform/slam/frame_poses')
-map_frame_path = Path('/cpfs01/user/zhengzhewen/repos/Artdeco-V1/results/shared_results/self_captured_baselines/08_05_canon-r8/MVI_0636/artdeco-norigidtransform/onthefly.txt')
+slam_frame_path = Path('/path/to/slam/frame_poses')
+map_frame_path = Path('/path/to/onthefly.txt')
 
 slam_frame_dict = {}
 map_frame_dict = {}
