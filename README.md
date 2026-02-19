@@ -1,22 +1,13 @@
 # ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation
 
-
-
 [![Project Website](https://img.shields.io/badge/ARTDECO-Website-4CAF50?logo=googlechrome&logoColor=white)](https://city-super.github.io/artdeco/)
-
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2510.08551)
 
+[Guanghao Li*](https://lightingooo.github.io/), [Kerui Ren*](https://cskrren.github.io/), [Linning Xu](https://eveneveno.github.io/lnxu/), [Zhewen Zheng](https://github.com/QuantumEPR), [Changjian Jiang](https://scholar.google.com/citations?hl=en&user=V4miywEAAAAJ), [Xin Gao](https://gaoxin492.github.io/), [Bo Dai](https://daibo.info/), [Jian Pu<sup>†</sup>](https://scholar.google.com/citations?user=9pUCoOkAAAAJ&hl=en), [Mulin Yu<sup>†</sup>](https://mulinyu.github.io/), [Jiangmiao Pang](https://oceanpang.github.io/) <br/>
 
-
-[Guanghao Li*](https://lightingooo.github.io/), [Kerui Ren*](https://cskrren.github.io/), [Linning Xu](https://eveneveno.github.io/lnxu/),
-
-[Zhewen Zheng](https://github.com/QuantumEPR), [Changjian Jiang](https://scholar.google.com/citations?hl=en&user=V4miywEAAAAJ), [Xin Gao](https://gaoxin492.github.io/), [Bo Dai](https://daibo.info/), [Jian Pu<sup>†</sup>](https://scholar.google.com/citations?user=9pUCoOkAAAAJ&hl=en), [Mulin Yu<sup>†</sup>](https://mulinyu.github.io/), [Jiangmiao Pang](https://oceanpang.github.io/) <br/>
 ## 📢 News
-
 **[2026.02.19]** 🚀 Training code is officially released!
 **[2026.01.26]** 🎉 Our paper has been accepted by **ICLR 2026**.
-
----
 
 ## 🏗️ System Architecture
 ### Frontend and Backend Modules
