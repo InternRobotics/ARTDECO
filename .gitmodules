@@ -1,0 +1,18 @@
+[submodule "submodules/fused-ssim"]
+	path = Reconstruct/submodules/fused-ssim
+	url = https://github.com/rahul-goel/fused-ssim
+[submodule "submodules/graphdecoviewer"]
+	path = Reconstruct/submodules/graphdecoviewer
+	url = https://github.com/graphdeco-inria/graphdecoviewer.git
+[submodule "VSLAM/thirdparty/eigen"]
+	path = VSLAM/thirdparty/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "VSLAM/thirdparty/in3d/thirdparty/pyimgui"]
+	path = VSLAM/thirdparty/in3d/thirdparty/pyimgui
+	url = https://github.com/pyimgui/pyimgui.git
+[submodule "Reconstruct/submodules/MoGe"]
+	path = Reconstruct/submodules/MoGe
+	url = https://github.com/microsoft/MoGe.git
+[submodule "Reconstruct/submodules/Pi3"]
+	path = Reconstruct/submodules/Pi3
+	url = https://github.com/yyfz/Pi3.git

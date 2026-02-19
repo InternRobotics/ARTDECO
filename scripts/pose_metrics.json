@@ -1,0 +1,5672 @@
+{
+    "00777c41d4": {
+        "mean_angle": 8.722262014897199,
+        "max_angle": 125.77144797400418,
+        "mean_translation": 0.12189241642222498,
+        "max_translation": 1.5030846198061112
+    },
+    "00a231a370": {
+        "mean_angle": 3.0698583940887074,
+        "max_angle": 165.33694169514473,
+        "mean_translation": 0.023085361937795906,
+        "max_translation": 1.5705237763364461
+    },
+    "00dd871005": {
+        "mean_angle": 4.336443988885733,
+        "max_angle": 179.0040514319421,
+        "mean_translation": 0.05674685539627439,
+        "max_translation": 3.4220812995040104
+    },
+    "01ce24e652": {
+        "mean_angle": 1.617487967651194,
+        "max_angle": 12.853336543734274,
+        "mean_translation": 0.013597514209248696,
+        "max_translation": 0.07048246990608596
+    },
+    "020312de8d": {
+        "mean_angle": 4.890365120100566,
+        "max_angle": 152.13956941330977,
+        "mean_translation": 0.06116541082091615,
+        "max_translation": 3.952343290233222
+    },
+    "02455b3d20": {
+        "mean_angle": 4.195525902987106,
+        "max_angle": 170.02003946090773,
+        "mean_translation": 0.05438858080525991,
+        "max_translation": 3.278322242973953
+    },
+    "0271889ec0": {
+        "mean_angle": 1.5804919115040315,
+        "max_angle": 173.78119424599356,
+        "mean_translation": 0.020106948257830243,
+        "max_translation": 4.224806229898214
+    },
+    "027cd6ea0f": {
+        "mean_angle": 1.224806271931539,
+        "max_angle": 91.12231475989769,
+        "mean_translation": 0.012465945454320795,
+        "max_translation": 1.3001039975531603
+    },
+    "02c2ddee2a": {
+        "mean_angle": 2.564783304848293,
+        "max_angle": 127.87572376929238,
+        "mean_translation": 0.014982661226843191,
+        "max_translation": 1.2394352375961353
+    },
+    "02f25e5fee": {
+        "mean_angle": 2.131603096450607,
+        "max_angle": 149.4308925842328,
+        "mean_translation": 0.014908494170106666,
+        "max_translation": 1.1358892429461127
+    },
+    "033d0b9343": {
+        "mean_angle": 3.904823602946853,
+        "max_angle": 176.98798547888728,
+        "mean_translation": 0.03174678281127524,
+        "max_translation": 1.7486693170358765
+    },
+    "036bce3393": {
+        "mean_angle": 8.670621360307393,
+        "max_angle": 161.77400507677663,
+        "mean_translation": 0.09845655260987157,
+        "max_translation": 2.155844676067849
+    },
+    "0373d65cce": {
+        "mean_angle": 4.737003776140686,
+        "max_angle": 145.34372819206615,
+        "mean_translation": 0.04700253098557983,
+        "max_translation": 1.8753609787190786
+    },
+    "0452249a1e": {
+        "mean_angle": 1.8469521595100378,
+        "max_angle": 6.1013002623123365,
+        "mean_translation": 0.011595543093207598,
+        "max_translation": 0.03843419704825759
+    },
+    "04c23ccd1d": {
+        "mean_angle": 1.446501176126218,
+        "max_angle": 22.044255575354434,
+        "mean_translation": 0.00961012099288819,
+        "max_translation": 0.13258532617083274
+    },
+    "04d0dc245b": {
+        "mean_angle": 5.372067444103895,
+        "max_angle": 168.22447050086214,
+        "mean_translation": 0.051640010902817876,
+        "max_translation": 2.02647174720736
+    },
+    "04df8734b7": {
+        "mean_angle": 0.8980837948865564,
+        "max_angle": 8.107090115225224,
+        "mean_translation": 0.007780837497542642,
+        "max_translation": 0.08080063163949289
+    },
+    "0529d56cce": {
+        "mean_angle": 13.396296394168402,
+        "max_angle": 137.32479901194552,
+        "mean_translation": 0.15247093054354627,
+        "max_translation": 1.7000938877628997
+    },
+    "052d72e137": {
+        "mean_angle": 0.6936543450414976,
+        "max_angle": 33.37555957202741,
+        "mean_translation": 0.00865639556812079,
+        "max_translation": 0.5574201820878929
+    },
+    "053a94cf68": {
+        "mean_angle": 5.335521442038638,
+        "max_angle": 144.38013844288886,
+        "mean_translation": 0.0434857577630575,
+        "max_translation": 1.5131286118613612
+    },
+    "05d3c8c6f0": {
+        "mean_angle": 1.229997115726334,
+        "max_angle": 108.20121755648111,
+        "mean_translation": 0.008481017352507652,
+        "max_translation": 0.8184884280303661
+    },
+    "062e5a23a6": {
+        "mean_angle": 3.4077394964530026,
+        "max_angle": 157.78356140551963,
+        "mean_translation": 0.020964929814911944,
+        "max_translation": 1.6307578343569191
+    },
+    "0658da5bc0": {
+        "mean_angle": 2.9587732263595354,
+        "max_angle": 94.39522879513456,
+        "mean_translation": 0.03093989086536857,
+        "max_translation": 0.9182774811959875
+    },
+    "067e2e4e61": {
+        "mean_angle": 1.471295992637109,
+        "max_angle": 10.309352792597892,
+        "mean_translation": 0.016192715894436847,
+        "max_translation": 0.13104540302645937
+    },
+    "068ba2946c": {
+        "mean_angle": 2.978715126542754,
+        "max_angle": 7.458573141852392,
+        "mean_translation": 0.021274985486430035,
+        "max_translation": 0.06376604618318925
+    },
+    "06a3d79b68": {
+        "mean_angle": 8.996048911558123,
+        "max_angle": 106.39532392553346,
+        "mean_translation": 0.10238090808404386,
+        "max_translation": 2.379627069863063
+    },
+    "06b5863f73": {
+        "mean_angle": 1.933781789861764,
+        "max_angle": 60.769344050882324,
+        "mean_translation": 0.018583131817421324,
+        "max_translation": 0.3532881763066126
+    },
+    "06bc6d1b24": {
+        "mean_angle": 3.642435477380973,
+        "max_angle": 26.883499234855183,
+        "mean_translation": 0.02653130596373316,
+        "max_translation": 0.22644655233405311
+    },
+    "06bd2cf800": {
+        "mean_angle": 3.3230878721061736,
+        "max_angle": 109.50713732007232,
+        "mean_translation": 0.01943427895313112,
+        "max_translation": 0.8019543906848375
+    },
+    "076c822ecc": {
+        "mean_angle": 7.958959455939792,
+        "max_angle": 154.94900850993938,
+        "mean_translation": 0.18056715913094223,
+        "max_translation": 8.38999653762746
+    },
+    "0796447f4b": {
+        "mean_angle": 1.7930452197934879,
+        "max_angle": 130.5805191567699,
+        "mean_translation": 0.010460742396525875,
+        "max_translation": 0.8736702175356068
+    },
+    "079a326597": {
+        "mean_angle": 5.5676642135362835,
+        "max_angle": 83.30806335184015,
+        "mean_translation": 0.06564839908963024,
+        "max_translation": 1.1050878322889335
+    },
+    "07b8312ea9": {
+        "mean_angle": 2.1401637818615136,
+        "max_angle": 179.57785120819437,
+        "mean_translation": 0.020428220081995484,
+        "max_translation": 1.902237770348764
+    },
+    "07e6f56969": {
+        "mean_angle": 6.269009461442275,
+        "max_angle": 173.61752646921317,
+        "mean_translation": 0.03272067009174984,
+        "max_translation": 1.8937471982290413
+    },
+    "07f5b601ee": {
+        "mean_angle": 14.14623387107746,
+        "max_angle": 170.07025669466069,
+        "mean_translation": 0.1564741114534884,
+        "max_translation": 1.4730431232705892
+    },
+    "07ff1c45bb": {
+        "mean_angle": 8.915340457194128,
+        "max_angle": 85.30782969506073,
+        "mean_translation": 0.09390006405020505,
+        "max_translation": 1.7385504008711976
+    },
+    "086f09d6e3": {
+        "mean_angle": 4.873458268335094,
+        "max_angle": 175.49902743180692,
+        "mean_translation": 0.03683916945734891,
+        "max_translation": 1.70702579896188
+    },
+    "08bbbdcc3d": {
+        "mean_angle": 18.568382527677716,
+        "max_angle": 167.0986365383099,
+        "mean_translation": 0.2813252893113632,
+        "max_translation": 5.874283150291142
+    },
+    "08bd80ce2a": {
+        "mean_angle": 2.978443410225129,
+        "max_angle": 159.25856488469833,
+        "mean_translation": 0.043002195711167715,
+        "max_translation": 5.237071860416778
+    },
+    "09a6767fc2": {
+        "mean_angle": 4.481460264715808,
+        "max_angle": 44.7826571265941,
+        "mean_translation": 0.016475896872619574,
+        "max_translation": 0.2632766305906457
+    },
+    "09bced689e": {
+        "mean_angle": 14.724744360492103,
+        "max_angle": 153.68411613663235,
+        "mean_translation": 0.14996289495756016,
+        "max_translation": 1.1604033767232251
+    },
+    "09c1414f1b": {
+        "mean_angle": 1.628408093744376,
+        "max_angle": 142.63506305390663,
+        "mean_translation": 0.026521697035284567,
+        "max_translation": 4.202075831936358
+    },
+    "09d6e808b4": {
+        "mean_angle": 3.833708655902941,
+        "max_angle": 12.611921440705547,
+        "mean_translation": 0.02674620858061168,
+        "max_translation": 0.06654759355769996
+    },
+    "0a184cf634": {
+        "mean_angle": 7.6699914672858,
+        "max_angle": 173.5519695660051,
+        "mean_translation": 0.07539855049338226,
+        "max_translation": 1.257921264859916
+    },
+    "0a5c013435": {
+        "mean_angle": 14.013316027660682,
+        "max_angle": 159.55661148585966,
+        "mean_translation": 0.08596429699477255,
+        "max_translation": 1.5420065000990342
+    },
+    "0a76e06478": {
+        "mean_angle": 1.5764979055329231,
+        "max_angle": 5.452607615366278,
+        "mean_translation": 0.0212299224637689,
+        "max_translation": 0.0853108573114313
+    },
+    "0a7cc12c0e": {
+        "mean_angle": 6.681322456146151,
+        "max_angle": 143.74364844906566,
+        "mean_translation": 0.07772355171310018,
+        "max_translation": 1.9381668237287542
+    },
+    "0affa0f99f": {
+        "mean_angle": 1.038925241308556,
+        "max_angle": 54.404758390752605,
+        "mean_translation": 0.006259430314652176,
+        "max_translation": 0.33698917094241004
+    },
+    "0b031f3119": {
+        "mean_angle": 15.949671427497796,
+        "max_angle": 63.66378707954501,
+        "mean_translation": 0.21269755536175478,
+        "max_translation": 1.335086197168792
+    },
+    "0b0bb941b7": {
+        "mean_angle": 4.21924670197026,
+        "max_angle": 22.7543747499796,
+        "mean_translation": 0.029612001395113965,
+        "max_translation": 0.4426903993619746
+    },
+    "0c5385e84b": {
+        "mean_angle": 15.78131811074727,
+        "max_angle": 129.06901211834415,
+        "mean_translation": 0.14175435014872456,
+        "max_translation": 0.7895110396443843
+    },
+    "0c6c7145ba": {
+        "mean_angle": 2.1039952368487818,
+        "max_angle": 175.45214339271973,
+        "mean_translation": 0.023180733818362203,
+        "max_translation": 2.844704402777731
+    },
+    "0c7962bd64": {
+        "mean_angle": 4.067161992019519,
+        "max_angle": 128.42414579951352,
+        "mean_translation": 0.023341225205798795,
+        "max_translation": 1.4401573485930987
+    },
+    "0caa1ae59a": {
+        "mean_angle": 5.945034413588555,
+        "max_angle": 173.5088773066175,
+        "mean_translation": 0.037939410572358924,
+        "max_translation": 0.48180077526598636
+    },
+    "0cf2e9402d": {
+        "mean_angle": 6.303579483346067,
+        "max_angle": 146.8492754669011,
+        "mean_translation": 0.08481587545013305,
+        "max_translation": 0.9742381057889147
+    },
+    "0d2ee665be": {
+        "mean_angle": 23.875972684039372,
+        "max_angle": 176.61802602529775,
+        "mean_translation": 0.23815784986909452,
+        "max_translation": 3.906052111676453
+    },
+    "0d41f3a279": {
+        "mean_angle": 10.643050193083816,
+        "max_angle": 158.256145502542,
+        "mean_translation": 0.08075916162496512,
+        "max_translation": 0.6322916742197163
+    },
+    "0d8ead0038": {
+        "mean_angle": 1.3362782506978275,
+        "max_angle": 19.419347139297887,
+        "mean_translation": 0.009196326528900166,
+        "max_translation": 0.20364133847294763
+    },
+    "0dce89ab21": {
+        "mean_angle": 5.086300507246129,
+        "max_angle": 11.743730327079819,
+        "mean_translation": 0.021054506332601503,
+        "max_translation": 0.07351467950432179
+    },
+    "0e100756bf": {
+        "mean_angle": 1.0573016872660606,
+        "max_angle": 29.70388223175803,
+        "mean_translation": 0.006174758218883483,
+        "max_translation": 0.15178389772477452
+    },
+    "0e28968c1f": {
+        "mean_angle": 5.079407032515601,
+        "max_angle": 167.40354630005265,
+        "mean_translation": 0.03809858537066686,
+        "max_translation": 1.5140708052835836
+    },
+    "0e350246d3": {
+        "mean_angle": 2.8015596743807176,
+        "max_angle": 7.943006210376551,
+        "mean_translation": 0.016695808414892325,
+        "max_translation": 0.05273007469051541
+    },
+    "0e75f3c4d9": {
+        "mean_angle": 10.820209884453794,
+        "max_angle": 168.52587702945496,
+        "mean_translation": 0.176707898608006,
+        "max_translation": 2.0090704788083347
+    },
+    "0e900bcc5c": {
+        "mean_angle": 2.543841257687084,
+        "max_angle": 54.34183982520402,
+        "mean_translation": 0.02218053021395978,
+        "max_translation": 0.2246913208065753
+    },
+    "0eba3981c9": {
+        "mean_angle": 3.6924715291372463,
+        "max_angle": 144.60508491036435,
+        "mean_translation": 0.02993661030248716,
+        "max_translation": 2.1329889338503114
+    },
+    "0f0191b10b": {
+        "mean_angle": 12.579886394267106,
+        "max_angle": 175.45586924563673,
+        "mean_translation": 0.18100767455913086,
+        "max_translation": 4.533415740739581
+    },
+    "0f25f24a4f": {
+        "mean_angle": 10.990620189631981,
+        "max_angle": 179.20790672865618,
+        "mean_translation": 0.19986711475398558,
+        "max_translation": 7.434155508548877
+    },
+    "0f3474b837": {
+        "mean_angle": 2.2548980575801423,
+        "max_angle": 24.627300191060087,
+        "mean_translation": 0.019206195811558864,
+        "max_translation": 0.20896746582526576
+    },
+    "0f69aefe3d": {
+        "mean_angle": 3.2290749132842254,
+        "max_angle": 174.76953467676668,
+        "mean_translation": 0.018605508647169033,
+        "max_translation": 0.5841662964975288
+    },
+    "0fa1fdd47b": {
+        "mean_angle": 1.6283920137585044,
+        "max_angle": 50.30172233092028,
+        "mean_translation": 0.009063443234866077,
+        "max_translation": 0.07201652741180897
+    },
+    "0fe8539661": {
+        "mean_angle": 7.702098928243509,
+        "max_angle": 154.31434066875258,
+        "mean_translation": 0.2626619779449817,
+        "max_translation": 12.51511248413535
+    },
+    "10242d1eaf": {
+        "mean_angle": 4.658216793174522,
+        "max_angle": 179.12218390682355,
+        "mean_translation": 0.031910853141206744,
+        "max_translation": 3.5556605503853946
+    },
+    "104acbf7d2": {
+        "mean_angle": 7.702625125803017,
+        "max_angle": 170.0165233956665,
+        "mean_translation": 0.0709301122370682,
+        "max_translation": 1.6327851596223142
+    },
+    "108ec0b806": {
+        "mean_angle": 8.27867529163393,
+        "max_angle": 177.26576357405594,
+        "mean_translation": 0.08254777704499985,
+        "max_translation": 2.7569958224949107
+    },
+    "10c8ab99f4": {
+        "mean_angle": 1.4057751774190415,
+        "max_angle": 6.262332820551985,
+        "mean_translation": 0.009826109489204891,
+        "max_translation": 0.033899155330600436
+    },
+    "10eda02798": {
+        "mean_angle": 3.139260635503862,
+        "max_angle": 174.24090388245315,
+        "mean_translation": 0.012771032154910492,
+        "max_translation": 0.5596601955862078
+    },
+    "1117299565": {
+        "mean_angle": 3.674906063542867,
+        "max_angle": 15.919966258309449,
+        "mean_translation": 0.019797585064309703,
+        "max_translation": 0.34789044465475855
+    },
+    "114e349224": {
+        "mean_angle": 2.8647830255097246,
+        "max_angle": 7.157583187232635,
+        "mean_translation": 0.0128395288129579,
+        "max_translation": 0.047028867885175435
+    },
+    "116456116b": {
+        "mean_angle": 10.407038511010448,
+        "max_angle": 71.17364808836196,
+        "mean_translation": 0.12101784754860541,
+        "max_translation": 1.90222713179071
+    },
+    "11fc9df3a0": {
+        "mean_angle": 4.784159481694915,
+        "max_angle": 179.58938841935972,
+        "mean_translation": 0.02885479753220436,
+        "max_translation": 2.3888565906265664
+    },
+    "1204e08f17": {
+        "mean_angle": 9.578526198269255,
+        "max_angle": 117.18417330175004,
+        "mean_translation": 0.12946709282931723,
+        "max_translation": 2.7116132452844277
+    },
+    "120acffd90": {
+        "mean_angle": 5.792918082849706,
+        "max_angle": 176.5586284055049,
+        "mean_translation": 0.0566211113655792,
+        "max_translation": 5.982221707539275
+    },
+    "124a6e789b": {
+        "mean_angle": 4.279813700033455,
+        "max_angle": 174.2689310735911,
+        "mean_translation": 0.05691522936231911,
+        "max_translation": 5.576729877804013
+    },
+    "126d03d821": {
+        "mean_angle": 1.018726135727379,
+        "max_angle": 52.399571060364956,
+        "mean_translation": 0.014462957693373584,
+        "max_translation": 4.2644604070387295
+    },
+    "12b2b1c6d9": {
+        "mean_angle": 1.5244986727339698,
+        "max_angle": 177.57887051368698,
+        "mean_translation": 0.017235832054676558,
+        "max_translation": 2.9952780472445664
+    },
+    "12c0f7a7da": {
+        "mean_angle": 2.142800389969296,
+        "max_angle": 6.7562076135531255,
+        "mean_translation": 0.016978668649782456,
+        "max_translation": 0.0559659385598925
+    },
+    "13285009a4": {
+        "mean_angle": 4.432956316377499,
+        "max_angle": 175.13014651586644,
+        "mean_translation": 0.07012525304352808,
+        "max_translation": 6.640010633771676
+    },
+    "132cb783ed": {
+        "mean_angle": 3.821737584313352,
+        "max_angle": 175.34475244696606,
+        "mean_translation": 0.01746058260927565,
+        "max_translation": 0.8539027475571044
+    },
+    "1366d5ae89": {
+        "mean_angle": 9.59851068464305,
+        "max_angle": 146.8125443869147,
+        "mean_translation": 0.09543636033705355,
+        "max_translation": 1.1476303277951707
+    },
+    "13b4efaf62": {
+        "mean_angle": 3.775103569954054,
+        "max_angle": 117.234397105485,
+        "mean_translation": 0.01927297046973025,
+        "max_translation": 1.4210135088981999
+    },
+    "13c3e046d7": {
+        "mean_angle": 5.555651232921576,
+        "max_angle": 177.68637747003743,
+        "mean_translation": 0.07173886765047713,
+        "max_translation": 3.5332252477824673
+    },
+    "151178afd7": {
+        "mean_angle": 10.685036453952003,
+        "max_angle": 168.72323098102723,
+        "mean_translation": 0.3506182649342108,
+        "max_translation": 10.35334475227828
+    },
+    "154c3e10d9": {
+        "mean_angle": 8.911730255464702,
+        "max_angle": 144.5058595586033,
+        "mean_translation": 0.09727258453405907,
+        "max_translation": 2.6104109154216117
+    },
+    "15c4aa5bbb": {
+        "mean_angle": 2.240125812852279,
+        "max_angle": 9.156204446979764,
+        "mean_translation": 0.024892645307290084,
+        "max_translation": 0.28109563962210043
+    },
+    "16c9bd2e1e": {
+        "mean_angle": 5.575068700279223,
+        "max_angle": 106.49079051164065,
+        "mean_translation": 0.06460560856282503,
+        "max_translation": 1.5734205836268615
+    },
+    "17268bec90": {
+        "mean_angle": 2.7138134983331774,
+        "max_angle": 50.2661067303474,
+        "mean_translation": 0.01948307911252557,
+        "max_translation": 0.8763785015928228
+    },
+    "1730c7d709": {
+        "mean_angle": 4.199869431109641,
+        "max_angle": 162.25528062248003,
+        "mean_translation": 0.03956300678423332,
+        "max_translation": 2.5784427989108947
+    },
+    "17a5e7d36c": {
+        "mean_angle": 1.4443568279893575,
+        "max_angle": 3.7579126722405256,
+        "mean_translation": 0.012226855334718434,
+        "max_translation": 0.03063562234369043
+    },
+    "17c5e6a336": {
+        "mean_angle": 6.682110235413967,
+        "max_angle": 176.7938740930964,
+        "mean_translation": 0.04245414075550146,
+        "max_translation": 2.996816926421973
+    },
+    "182932a4f3": {
+        "mean_angle": 1.3929606552254545,
+        "max_angle": 128.7721659301922,
+        "mean_translation": 0.012666349570598028,
+        "max_translation": 3.8645817049814357
+    },
+    "1831b3823a": {
+        "mean_angle": 8.15019894360482,
+        "max_angle": 140.6802162640537,
+        "mean_translation": 0.07478754873818433,
+        "max_translation": 1.9426304876457594
+    },
+    "1841a0b525": {
+        "mean_angle": 7.016880638157838,
+        "max_angle": 165.2897633737581,
+        "mean_translation": 0.10719443016797471,
+        "max_translation": 2.289400052807365
+    },
+    "18fd041970": {
+        "mean_angle": 8.14774340024779,
+        "max_angle": 38.188135680907415,
+        "mean_translation": 0.10527730399741406,
+        "max_translation": 1.1119838566731923
+    },
+    "192ab15daf": {
+        "mean_angle": 1.2902219981194871,
+        "max_angle": 173.97553232754944,
+        "mean_translation": 0.017537451471076437,
+        "max_translation": 3.260372792671379
+    },
+    "193672f661": {
+        "mean_angle": 1.2520369818440533,
+        "max_angle": 24.460926813138517,
+        "mean_translation": 0.013047504106442656,
+        "max_translation": 0.8400623352454561
+    },
+    "196876abd7": {
+        "mean_angle": 0.8474824522639134,
+        "max_angle": 171.1693756205664,
+        "mean_translation": 0.009492669711681632,
+        "max_translation": 1.7159615682493778
+    },
+    "19cfd590f4": {
+        "mean_angle": 5.4966509026083985,
+        "max_angle": 69.53446611083585,
+        "mean_translation": 0.030790319504264058,
+        "max_translation": 0.27942317506129777
+    },
+    "1a130d092a": {
+        "mean_angle": 9.37514655480279,
+        "max_angle": 38.63019803516335,
+        "mean_translation": 0.08504716606507154,
+        "max_translation": 0.9048120808011376
+    },
+    "1a22a99186": {
+        "mean_angle": 2.4568655981024814,
+        "max_angle": 51.893320608681634,
+        "mean_translation": 0.019100185607293624,
+        "max_translation": 0.1382913816807453
+    },
+    "1a3100752b": {
+        "mean_angle": 2.3004076811363126,
+        "max_angle": 82.04781359686191,
+        "mean_translation": 0.017190146318484662,
+        "max_translation": 0.3747245205847722
+    },
+    "1a8e0d78c0": {
+        "mean_angle": 10.125247947838439,
+        "max_angle": 175.605976519754,
+        "mean_translation": 0.12069970650843527,
+        "max_translation": 2.755814065855862
+    },
+    "1ada7a0617": {
+        "mean_angle": 12.53136607573043,
+        "max_angle": 90.27810959581203,
+        "mean_translation": 0.1421562442495735,
+        "max_translation": 1.8494846388596629
+    },
+    "1ae9e5d2a6": {
+        "mean_angle": 12.446596207075594,
+        "max_angle": 93.98949506313312,
+        "mean_translation": 0.15872037698713728,
+        "max_translation": 1.3837023860993767
+    },
+    "1b379f1114": {
+        "mean_angle": 2.572726332422833,
+        "max_angle": 166.28422870514152,
+        "mean_translation": 0.06194303202307751,
+        "max_translation": 6.585560331221975
+    },
+    "1b75758486": {
+        "mean_angle": 6.576674504371819,
+        "max_angle": 148.3486224206394,
+        "mean_translation": 0.07118900918463508,
+        "max_translation": 2.3648140663919923
+    },
+    "1b9692f0c7": {
+        "mean_angle": 16.30172848075521,
+        "max_angle": 172.68880705717297,
+        "mean_translation": 0.1573685774390161,
+        "max_translation": 2.6735936902280777
+    },
+    "1bb93d185e": {
+        "mean_angle": 0.6746578363890333,
+        "max_angle": 16.141297587120796,
+        "mean_translation": 0.00756524719929052,
+        "max_translation": 0.21562907347133678
+    },
+    "1be2c31cac": {
+        "mean_angle": 5.159968078990548,
+        "max_angle": 157.21676044302757,
+        "mean_translation": 0.0498711345352063,
+        "max_translation": 1.513474308058104
+    },
+    "1c08823a41": {
+        "mean_angle": 0.6399732947485826,
+        "max_angle": 5.943203863123647,
+        "mean_translation": 0.007573082372061124,
+        "max_translation": 0.0756514012747677
+    },
+    "1c4b893630": {
+        "mean_angle": 2.190587674365342,
+        "max_angle": 85.56994066631827,
+        "mean_translation": 0.021874126317931192,
+        "max_translation": 1.8295302649418628
+    },
+    "1c7a683c92": {
+        "mean_angle": 4.857037816388526,
+        "max_angle": 152.33949042657275,
+        "mean_translation": 0.05551939148831509,
+        "max_translation": 3.890031388726354
+    },
+    "1cbb105c6a": {
+        "mean_angle": 1.4687075970629606,
+        "max_angle": 4.500932124042383,
+        "mean_translation": 0.02059934443484252,
+        "max_translation": 0.43520052868424686
+    },
+    "1cefb55d50": {
+        "mean_angle": 7.636580166692843,
+        "max_angle": 171.56310123619815,
+        "mean_translation": 0.09194209365058763,
+        "max_translation": 6.215158162596016
+    },
+    "1d003b07bd": {
+        "mean_angle": 9.239156338043435,
+        "max_angle": 176.46753912074186,
+        "mean_translation": 0.09303306745621974,
+        "max_translation": 5.4266494320396115
+    },
+    "1d34f56de8": {
+        "mean_angle": 3.6466663374392363,
+        "max_angle": 154.3145018588004,
+        "mean_translation": 0.04252584159561048,
+        "max_translation": 5.599119946658242
+    },
+    "1e52e4c88f": {
+        "mean_angle": 4.7843154933288226,
+        "max_angle": 176.31214455107437,
+        "mean_translation": 0.054023467777561035,
+        "max_translation": 2.3696124332606874
+    },
+    "1eacc65607": {
+        "mean_angle": 3.681874361447969,
+        "max_angle": 142.16522039567312,
+        "mean_translation": 0.042200359132671894,
+        "max_translation": 0.6084039691619417
+    },
+    "1f7cbbdde1": {
+        "mean_angle": 5.080755524572833,
+        "max_angle": 143.43312502522426,
+        "mean_translation": 0.05815919462222295,
+        "max_translation": 2.0261858997615554
+    },
+    "1fb6538f81": {
+        "mean_angle": 2.4525642778658856,
+        "max_angle": 14.203127293353887,
+        "mean_translation": 0.018477718287198023,
+        "max_translation": 0.2825696852096932
+    },
+    "20207b4844": {
+        "mean_angle": 3.45009046993072,
+        "max_angle": 158.27224185413763,
+        "mean_translation": 0.02273390394100149,
+        "max_translation": 2.416090757779932
+    },
+    "206bccc898": {
+        "mean_angle": 2.924684506236683,
+        "max_angle": 5.233646182780637,
+        "mean_translation": 0.020668746327943997,
+        "max_translation": 0.05583147853763648
+    },
+    "20871b98f3": {
+        "mean_angle": 2.85261424634155,
+        "max_angle": 163.7633253628562,
+        "mean_translation": 0.028869362753219427,
+        "max_translation": 2.08417731831884
+    },
+    "20ff72df6e": {
+        "mean_angle": 0.9825009932537973,
+        "max_angle": 41.511672730195606,
+        "mean_translation": 0.007426049759626786,
+        "max_translation": 0.19524864164587935
+    },
+    "210f741378": {
+        "mean_angle": 15.451068997497563,
+        "max_angle": 130.65549643874093,
+        "mean_translation": 0.21580989074346235,
+        "max_translation": 4.516342296013258
+    },
+    "2150596d57": {
+        "mean_angle": 1.690305364312408,
+        "max_angle": 177.47911715884825,
+        "mean_translation": 0.022119439205065657,
+        "max_translation": 4.044931868621883
+    },
+    "21532e059d": {
+        "mean_angle": 1.4391713133796673,
+        "max_angle": 5.333916733632696,
+        "mean_translation": 0.016512493826746834,
+        "max_translation": 0.061808511802542376
+    },
+    "2162a7cf14": {
+        "mean_angle": 9.440978005143213,
+        "max_angle": 135.49456585219008,
+        "mean_translation": 0.14100615622419146,
+        "max_translation": 3.143415343820907
+    },
+    "216b9e55e8": {
+        "mean_angle": 1.4181072581787826,
+        "max_angle": 25.491230812616617,
+        "mean_translation": 0.011440450901869598,
+        "max_translation": 0.3399242654969686
+    },
+    "21c5ee0ca5": {
+        "mean_angle": 2.3822722590201875,
+        "max_angle": 178.6841787637832,
+        "mean_translation": 0.03547918616335223,
+        "max_translation": 5.585331204598474
+    },
+    "21d970d8de": {
+        "mean_angle": 25.157174900524694,
+        "max_angle": 177.96974479725523,
+        "mean_translation": 0.4677045433470746,
+        "max_translation": 6.168324797940963
+    },
+    "2267ee32f3": {
+        "mean_angle": 1.091361656765382,
+        "max_angle": 12.167415888177215,
+        "mean_translation": 0.009579628205140321,
+        "max_translation": 0.04602800380481791
+    },
+    "2284bf5c9d": {
+        "mean_angle": 3.347982060518354,
+        "max_angle": 101.18430410136303,
+        "mean_translation": 0.03781314678995313,
+        "max_translation": 1.0706092587970106
+    },
+    "238b940049": {
+        "mean_angle": 4.157866641489995,
+        "max_angle": 162.96083228982647,
+        "mean_translation": 0.04164176580148698,
+        "max_translation": 0.8714031059152972
+    },
+    "246fe09e98": {
+        "mean_angle": 1.0073094258306874,
+        "max_angle": 142.63409945448055,
+        "mean_translation": 0.011908114402734742,
+        "max_translation": 3.1946325830723343
+    },
+    "2489b7f4fe": {
+        "mean_angle": 8.654568246715604,
+        "max_angle": 77.88431287744702,
+        "mean_translation": 0.1107170713345005,
+        "max_translation": 2.2010264960785393
+    },
+    "24b248e676": {
+        "mean_angle": 0.8290247136759804,
+        "max_angle": 53.99989010238366,
+        "mean_translation": 0.009749817996263505,
+        "max_translation": 1.1583576158707
+    },
+    "251443268c": {
+        "mean_angle": 3.587045172604701,
+        "max_angle": 178.50993958196153,
+        "mean_translation": 0.03253609514301397,
+        "max_translation": 2.2270115930384167
+    },
+    "25927bb04c": {
+        "mean_angle": 12.47916893980317,
+        "max_angle": 112.8593757426803,
+        "mean_translation": 0.12456655660202356,
+        "max_translation": 2.1206975876040794
+    },
+    "25aa952aa3": {
+        "mean_angle": 11.860840764607458,
+        "max_angle": 129.97738407059776,
+        "mean_translation": 0.10747553744867948,
+        "max_translation": 1.2730229908964992
+    },
+    "25bae29ab3": {
+        "mean_angle": 4.3961337985170985,
+        "max_angle": 13.152340958993355,
+        "mean_translation": 0.02287707560570788,
+        "max_translation": 0.08487489846630929
+    },
+    "25bde9e167": {
+        "mean_angle": 6.711872409063509,
+        "max_angle": 158.2891011819526,
+        "mean_translation": 0.06691906913551404,
+        "max_translation": 1.3195597488479593
+    },
+    "25f3b7a318": {
+        "mean_angle": 7.078725449707872,
+        "max_angle": 172.13766540644977,
+        "mean_translation": 0.05354393886992943,
+        "max_translation": 1.0916104770828199
+    },
+    "260db9cf5a": {
+        "mean_angle": 6.438453182640984,
+        "max_angle": 144.93537713515994,
+        "mean_translation": 0.0706594244929071,
+        "max_translation": 1.441052899049437
+    },
+    "260fa55d50": {
+        "mean_angle": 11.053563218405662,
+        "max_angle": 176.1404799020272,
+        "mean_translation": 0.15081988820441777,
+        "max_translation": 4.663382267610859
+    },
+    "2634683a9f": {
+        "mean_angle": 1.2497091086336618,
+        "max_angle": 7.312539880654433,
+        "mean_translation": 0.013031272172309073,
+        "max_translation": 0.11057596740995346
+    },
+    "268513240f": {
+        "mean_angle": 2.283901692216442,
+        "max_angle": 178.95138543808864,
+        "mean_translation": 0.03998786027981231,
+        "max_translation": 2.6680332703070677
+    },
+    "269fa95eb3": {
+        "mean_angle": 4.854352668142077,
+        "max_angle": 174.29765381417428,
+        "mean_translation": 0.079387642395521,
+        "max_translation": 3.119032954858232
+    },
+    "270ada6f0d": {
+        "mean_angle": 4.933179405692338,
+        "max_angle": 169.81803441018852,
+        "mean_translation": 0.05000790784159024,
+        "max_translation": 4.300680769785884
+    },
+    "2748de13fb": {
+        "mean_angle": 3.901313698999127,
+        "max_angle": 10.15688996520889,
+        "mean_translation": 0.016171897039709563,
+        "max_translation": 0.06540471740328214
+    },
+    "2779f8f9e2": {
+        "mean_angle": 1.440095453676997,
+        "max_angle": 20.420796838607416,
+        "mean_translation": 0.014585438639100657,
+        "max_translation": 0.17442321953684561
+    },
+    "27be88d408": {
+        "mean_angle": 1.013382307102487,
+        "max_angle": 3.6565989303104582,
+        "mean_translation": 0.009592623499006647,
+        "max_translation": 0.031841139769147014
+    },
+    "27dd4da69e": {
+        "mean_angle": 16.208437332022687,
+        "max_angle": 152.8017551610725,
+        "mean_translation": 0.1861221815114841,
+        "max_translation": 0.9401109623988523
+    },
+    "281ba69af1": {
+        "mean_angle": 7.916435832771566,
+        "max_angle": 178.10704872992673,
+        "mean_translation": 0.0768473539334164,
+        "max_translation": 5.503760012316162
+    },
+    "281bc17764": {
+        "mean_angle": 6.238773933455714,
+        "max_angle": 114.42217467715408,
+        "mean_translation": 0.06782965911584304,
+        "max_translation": 1.743112115916066
+    },
+    "285efbc7cf": {
+        "mean_angle": 12.07891159115672,
+        "max_angle": 95.73754000679689,
+        "mean_translation": 0.1330162291943749,
+        "max_translation": 0.6935904106526002
+    },
+    "286b55a2bf": {
+        "mean_angle": 9.456179631707274,
+        "max_angle": 120.82842919666277,
+        "mean_translation": 0.07638094280980567,
+        "max_translation": 1.1477689671181275
+    },
+    "28a9ee4557": {
+        "mean_angle": 6.575563329239362,
+        "max_angle": 23.984921719966287,
+        "mean_translation": 0.07251636674857743,
+        "max_translation": 0.34795406613943514
+    },
+    "28fec555cd": {
+        "mean_angle": 0.8716167501881738,
+        "max_angle": 20.001345456780957,
+        "mean_translation": 0.008707776835062466,
+        "max_translation": 1.090961479732998
+    },
+    "290ef3f2c9": {
+        "mean_angle": 7.455110104019335,
+        "max_angle": 172.4577306105388,
+        "mean_translation": 0.07555474385946187,
+        "max_translation": 1.5531686469395756
+    },
+    "2970e95b65": {
+        "mean_angle": 6.32611883496995,
+        "max_angle": 157.3232123514582,
+        "mean_translation": 0.104652151953007,
+        "max_translation": 6.215826184333508
+    },
+    "29b18b8c4f": {
+        "mean_angle": 2.9245058525284167,
+        "max_angle": 177.9002715883601,
+        "mean_translation": 0.0246519982272096,
+        "max_translation": 2.563601686923064
+    },
+    "29b607c6d5": {
+        "mean_angle": 1.860405865775627,
+        "max_angle": 5.994040440664162,
+        "mean_translation": 0.027508501921605585,
+        "max_translation": 0.34695667156773646
+    },
+    "29c7afafed": {
+        "mean_angle": 3.923666113597532,
+        "max_angle": 151.10409427198337,
+        "mean_translation": 0.02855359612276658,
+        "max_translation": 1.5102585657203909
+    },
+    "2a1a3afad9": {
+        "mean_angle": 8.478058334784981,
+        "max_angle": 173.06625117871513,
+        "mean_translation": 0.09553572242636581,
+        "max_translation": 2.0842201976543997
+    },
+    "2a1b555966": {
+        "mean_angle": 1.7185703932880054,
+        "max_angle": 179.26102784795125,
+        "mean_translation": 0.024418869009909618,
+        "max_translation": 5.1630893158932825
+    },
+    "2a496183e1": {
+        "mean_angle": 9.916391484617789,
+        "max_angle": 161.19500540166337,
+        "mean_translation": 0.09595865051993901,
+        "max_translation": 0.9186037894286122
+    },
+    "2ab7bea148": {
+        "mean_angle": 0.9852432411175168,
+        "max_angle": 143.17967276226122,
+        "mean_translation": 0.010215105660962108,
+        "max_translation": 4.416770178515973
+    },
+    "2b1dc6d6a5": {
+        "mean_angle": 8.885834754148336,
+        "max_angle": 153.0947978822764,
+        "mean_translation": 0.0836498647250183,
+        "max_translation": 1.880250969290572
+    },
+    "2b5ef64cad": {
+        "mean_angle": 7.285537250972399,
+        "max_angle": 175.40405348115132,
+        "mean_translation": 0.08472201336039228,
+        "max_translation": 6.407744596129281
+    },
+    "2b71155e0d": {
+        "mean_angle": 1.099286895318816,
+        "max_angle": 92.78426573434109,
+        "mean_translation": 0.010105958712190274,
+        "max_translation": 0.73156583932121
+    },
+    "2c7c10379b": {
+        "mean_angle": 2.0952326484497483,
+        "max_angle": 168.77951026789376,
+        "mean_translation": 0.0357954869371304,
+        "max_translation": 4.212249247890663
+    },
+    "2d2e873aa0": {
+        "mean_angle": 7.194172796595764,
+        "max_angle": 79.38821057704273,
+        "mean_translation": 0.0796119917098153,
+        "max_translation": 1.400584875842765
+    },
+    "2d58610dce": {
+        "mean_angle": 1.0932800108453653,
+        "max_angle": 146.40252800841583,
+        "mean_translation": 0.012055271054054194,
+        "max_translation": 1.496674473348433
+    },
+    "2e5c249de3": {
+        "mean_angle": 3.4960613572875254,
+        "max_angle": 146.37295027074444,
+        "mean_translation": 0.020697089713828186,
+        "max_translation": 1.2491517011853817
+    },
+    "2e67a32314": {
+        "mean_angle": 8.371091904644848,
+        "max_angle": 175.9326285395003,
+        "mean_translation": 0.08933414396438377,
+        "max_translation": 0.752300115085008
+    },
+    "2e74812d00": {
+        "mean_angle": 5.9339699250262194,
+        "max_angle": 125.54411230682358,
+        "mean_translation": 0.07112512872606391,
+        "max_translation": 1.2362319781168545
+    },
+    "2ebbca3e57": {
+        "mean_angle": 2.612792000501214,
+        "max_angle": 20.845971979766365,
+        "mean_translation": 0.019261568068102437,
+        "max_translation": 0.15034973831977433
+    },
+    "2f5996ff01": {
+        "mean_angle": 1.7824027521888888,
+        "max_angle": 174.94217011345725,
+        "mean_translation": 0.014829957982611783,
+        "max_translation": 1.3776810548164644
+    },
+    "2f6f83ea1f": {
+        "mean_angle": 4.239157015242824,
+        "max_angle": 179.96533427607895,
+        "mean_translation": 0.03468665328683675,
+        "max_translation": 2.6364604416698176
+    },
+    "302a7f6b67": {
+        "mean_angle": 10.579011678619832,
+        "max_angle": 108.50876415237498,
+        "mean_translation": 0.11336958953536765,
+        "max_translation": 1.2587114723674757
+    },
+    "303745abc7": {
+        "mean_angle": 2.1738977412894975,
+        "max_angle": 145.1044191238827,
+        "mean_translation": 0.02009825000682276,
+        "max_translation": 2.8536154919363064
+    },
+    "307e3262f1": {
+        "mean_angle": 2.2226154624900936,
+        "max_angle": 167.77194899873783,
+        "mean_translation": 0.03682254047979185,
+        "max_translation": 6.526744785050507
+    },
+    "30966f4c6e": {
+        "mean_angle": 9.447309970188817,
+        "max_angle": 170.5537939530456,
+        "mean_translation": 0.11054135092213187,
+        "max_translation": 0.4731785178061484
+    },
+    "30f4a2b44d": {
+        "mean_angle": 10.016660667353614,
+        "max_angle": 51.492479255385035,
+        "mean_translation": 0.12538630289683306,
+        "max_translation": 1.4607958974189177
+    },
+    "3134f5f3d6": {
+        "mean_angle": 10.640829135943559,
+        "max_angle": 178.64117492798013,
+        "mean_translation": 0.20205820184594,
+        "max_translation": 4.812165863471467
+    },
+    "31a2c91c43": {
+        "mean_angle": 4.865613119004669,
+        "max_angle": 150.76812304944036,
+        "mean_translation": 0.045356225981872285,
+        "max_translation": 0.7411500327163919
+    },
+    "320c3af000": {
+        "mean_angle": 5.09734662137584,
+        "max_angle": 176.78928789956885,
+        "mean_translation": 0.051574465609570214,
+        "max_translation": 3.452343407970447
+    },
+    "32280ecbca": {
+        "mean_angle": 3.618087998917078,
+        "max_angle": 163.10822980233053,
+        "mean_translation": 0.04135352736652015,
+        "max_translation": 5.219979828250474
+    },
+    "324d07a5b3": {
+        "mean_angle": 6.158009199372593,
+        "max_angle": 137.77588127227085,
+        "mean_translation": 0.06905153960799604,
+        "max_translation": 1.665183441497114
+    },
+    "3391ff8a71": {
+        "mean_angle": 4.257735736396163,
+        "max_angle": 148.75145203003456,
+        "mean_translation": 0.03521069447742549,
+        "max_translation": 1.5754008146502667
+    },
+    "33f78338cd": {
+        "mean_angle": 4.542650912007599,
+        "max_angle": 153.35306182321023,
+        "mean_translation": 0.03965072945085168,
+        "max_translation": 3.2712282966830695
+    },
+    "3423e509af": {
+        "mean_angle": 2.741439753975126,
+        "max_angle": 176.97703776026898,
+        "mean_translation": 0.03492229387371971,
+        "max_translation": 4.054567063381128
+    },
+    "35050f41c5": {
+        "mean_angle": 5.75273877060224,
+        "max_angle": 149.07353326792955,
+        "mean_translation": 0.07138930550351597,
+        "max_translation": 6.302719794739896
+    },
+    "3549335582": {
+        "mean_angle": 1.757994086742032,
+        "max_angle": 6.795091630081571,
+        "mean_translation": 0.015337114699392938,
+        "max_translation": 0.07777706607543043
+    },
+    "354e4a0a50": {
+        "mean_angle": 2.266355804000249,
+        "max_angle": 55.31748752112752,
+        "mean_translation": 0.016431107665857026,
+        "max_translation": 0.8433910947860846
+    },
+    "355e5e32db": {
+        "mean_angle": 5.448893999954273,
+        "max_angle": 158.33844394479868,
+        "mean_translation": 0.10797042779680112,
+        "max_translation": 4.481794246510379
+    },
+    "3583c4c70f": {
+        "mean_angle": 1.2012380021094795,
+        "max_angle": 108.74409650660976,
+        "mean_translation": 0.017581008730603084,
+        "max_translation": 2.4046381764807996
+    },
+    "3597f00367": {
+        "mean_angle": 3.8261983858960464,
+        "max_angle": 9.945192742973367,
+        "mean_translation": 0.022254039913607748,
+        "max_translation": 0.07187351991334634
+    },
+    "35f2120068": {
+        "mean_angle": 1.5665902869858015,
+        "max_angle": 47.23306849674644,
+        "mean_translation": 0.016202924365523595,
+        "max_translation": 0.8878166905599801
+    },
+    "364f01bc18": {
+        "mean_angle": 1.8158646483014496,
+        "max_angle": 171.08116567600462,
+        "mean_translation": 0.03516050056006217,
+        "max_translation": 6.7257318125170285
+    },
+    "373ac8fbdd": {
+        "mean_angle": 1.9073386002132953,
+        "max_angle": 172.7064685859489,
+        "mean_translation": 0.03150677330658161,
+        "max_translation": 6.954476368866418
+    },
+    "37562e7f48": {
+        "mean_angle": 4.206028298857355,
+        "max_angle": 164.05867963923959,
+        "mean_translation": 0.029769631686065674,
+        "max_translation": 1.861238381421481
+    },
+    "3799bd47b3": {
+        "mean_angle": 4.757928392592055,
+        "max_angle": 10.976422021273985,
+        "mean_translation": 0.021466737774281527,
+        "max_translation": 0.06998397085872023
+    },
+    "37c9538a2b": {
+        "mean_angle": 1.1134636428931375,
+        "max_angle": 76.87761237524656,
+        "mean_translation": 0.017951299586066654,
+        "max_translation": 1.1710194709744082
+    },
+    "37ea1c52f0": {
+        "mean_angle": 12.667499672299103,
+        "max_angle": 116.06904487889399,
+        "mean_translation": 0.17225641899021282,
+        "max_translation": 1.2483986165264256
+    },
+    "3864514494": {
+        "mean_angle": 8.159045805623705,
+        "max_angle": 87.5256410370184,
+        "mean_translation": 0.09939107735527253,
+        "max_translation": 2.0459663898210647
+    },
+    "3878be46f0": {
+        "mean_angle": 2.093424330472829,
+        "max_angle": 177.84650537685366,
+        "mean_translation": 0.012295126609458132,
+        "max_translation": 0.836726023285866
+    },
+    "38d58a7a31": {
+        "mean_angle": 17.377954632679295,
+        "max_angle": 175.9369780100446,
+        "mean_translation": 0.18473108498677293,
+        "max_translation": 1.755783656531361
+    },
+    "38fcf02d0b": {
+        "mean_angle": 1.023591192437586,
+        "max_angle": 69.11957047864058,
+        "mean_translation": 0.008225531021007444,
+        "max_translation": 0.25797123771637426
+    },
+    "390eda9157": {
+        "mean_angle": 1.9437130217543677,
+        "max_angle": 169.18426594136943,
+        "mean_translation": 0.03123776919155072,
+        "max_translation": 5.533737193021039
+    },
+    "3928249b53": {
+        "mean_angle": 6.673101971836581,
+        "max_angle": 37.309698949110064,
+        "mean_translation": 0.08715402361402029,
+        "max_translation": 0.9643548341893257
+    },
+    "394a542a19": {
+        "mean_angle": 4.070456843531746,
+        "max_angle": 123.98152404613447,
+        "mean_translation": 0.0502449550546557,
+        "max_translation": 2.593369364109434
+    },
+    "39580e2a43": {
+        "mean_angle": 1.299243567937027,
+        "max_angle": 3.4021029277926043,
+        "mean_translation": 0.010125931523518233,
+        "max_translation": 0.024192350942731124
+    },
+    "39705fbdf1": {
+        "mean_angle": 2.9810603449041584,
+        "max_angle": 173.05466114207408,
+        "mean_translation": 0.03160306293511612,
+        "max_translation": 4.2597753567623435
+    },
+    "39e6ee46df": {
+        "mean_angle": 21.23663550659891,
+        "max_angle": 146.7457677373218,
+        "mean_translation": 0.20926667318716274,
+        "max_translation": 1.611621182442962
+    },
+    "39f36da05b": {
+        "mean_angle": 13.959650230160742,
+        "max_angle": 153.77117166349512,
+        "mean_translation": 0.16498268965464524,
+        "max_translation": 2.610124644054982
+    },
+    "3a161a857d": {
+        "mean_angle": 14.585112524517797,
+        "max_angle": 145.14162269222183,
+        "mean_translation": 0.14418704946859506,
+        "max_translation": 1.1435734731199958
+    },
+    "3a3745a437": {
+        "mean_angle": 1.428561295715731,
+        "max_angle": 3.5355382602242083,
+        "mean_translation": 0.010809762179827395,
+        "max_translation": 0.031945820840188516
+    },
+    "3a43c7b8d2": {
+        "mean_angle": 1.4356002899606601,
+        "max_angle": 154.55601025891048,
+        "mean_translation": 0.018284919929474164,
+        "max_translation": 3.759467941195203
+    },
+    "3a520af32a": {
+        "mean_angle": 0.7230481052791511,
+        "max_angle": 7.364689334223412,
+        "mean_translation": 0.008926454822615082,
+        "max_translation": 0.0678227185008115
+    },
+    "3aa115e55e": {
+        "mean_angle": 4.355115465035813,
+        "max_angle": 177.93179923648913,
+        "mean_translation": 0.034558257409276975,
+        "max_translation": 5.898673414730581
+    },
+    "3b50ff5f35": {
+        "mean_angle": 0.8552038491762975,
+        "max_angle": 30.748418741990864,
+        "mean_translation": 0.007808004528591784,
+        "max_translation": 0.16074372562887917
+    },
+    "3b753d9ae8": {
+        "mean_angle": 3.966755620266307,
+        "max_angle": 9.012139405626113,
+        "mean_translation": 0.021493726699287452,
+        "max_translation": 0.07322458219473735
+    },
+    "3b90310b1c": {
+        "mean_angle": 3.391666879996686,
+        "max_angle": 143.17500879883255,
+        "mean_translation": 0.019599800547984884,
+        "max_translation": 0.4709119182169229
+    },
+    "3c8d535d49": {
+        "mean_angle": 6.680311980699878,
+        "max_angle": 176.4161010416394,
+        "mean_translation": 0.09320887058226174,
+        "max_translation": 5.546712440446012
+    },
+    "3c95c89d61": {
+        "mean_angle": 5.411312702310805,
+        "max_angle": 173.75129855919624,
+        "mean_translation": 0.06590960689998959,
+        "max_translation": 2.0275807632495813
+    },
+    "3caf4324fd": {
+        "mean_angle": 3.0072514376596033,
+        "max_angle": 106.37281512274613,
+        "mean_translation": 0.05104400814643781,
+        "max_translation": 9.649935084499083
+    },
+    "3cb9f85891": {
+        "mean_angle": 0.8379359394081431,
+        "max_angle": 10.872157228157972,
+        "mean_translation": 0.009206828681367553,
+        "max_translation": 0.06635332633060777
+    },
+    "3cbb18c391": {
+        "mean_angle": 1.0422545225778543,
+        "max_angle": 5.382117969539906,
+        "mean_translation": 0.010040143920987073,
+        "max_translation": 0.03499877129514537
+    },
+    "3ce6d36ab5": {
+        "mean_angle": 0.9897971235288725,
+        "max_angle": 115.65000280180973,
+        "mean_translation": 0.012617383911256606,
+        "max_translation": 1.3133500647195524
+    },
+    "3ce88cdad2": {
+        "mean_angle": 1.255448939681042,
+        "max_angle": 5.598395994661446,
+        "mean_translation": 0.01204234259253066,
+        "max_translation": 0.04456126162946654
+    },
+    "3d0b7d4b4e": {
+        "mean_angle": 4.116941858211265,
+        "max_angle": 27.95132501297343,
+        "mean_translation": 0.017530264032978398,
+        "max_translation": 0.12590980778019809
+    },
+    "3d838ee1ab": {
+        "mean_angle": 4.523798358562516,
+        "max_angle": 174.8754992985419,
+        "mean_translation": 0.03407359255291163,
+        "max_translation": 6.749256334235844
+    },
+    "3db0a1c8f3": {
+        "mean_angle": 8.579591872352713,
+        "max_angle": 178.08057498038983,
+        "mean_translation": 0.1745884783581702,
+        "max_translation": 6.922203051024854
+    },
+    "3e6ceea56c": {
+        "mean_angle": 5.367043037070586,
+        "max_angle": 61.90162592597419,
+        "mean_translation": 0.08423691984194806,
+        "max_translation": 1.72879541047703
+    },
+    "3e7e4b07c4": {
+        "mean_angle": 2.7100305030748206,
+        "max_angle": 28.623679114401938,
+        "mean_translation": 0.022433910478553927,
+        "max_translation": 0.11703476778421623
+    },
+    "3e8bba0176": {
+        "mean_angle": 8.286636252539909,
+        "max_angle": 162.21636662882707,
+        "mean_translation": 0.08748070073031375,
+        "max_translation": 2.558317214541318
+    },
+    "3e928dc2f6": {
+        "mean_angle": 1.9518124702597786,
+        "max_angle": 95.57215110231361,
+        "mean_translation": 0.01603007554467835,
+        "max_translation": 1.2450856517433837
+    },
+    "3e9a598891": {
+        "mean_angle": 4.3678930205245035,
+        "max_angle": 105.58131946162533,
+        "mean_translation": 0.03242297714881858,
+        "max_translation": 3.9951691452873646
+    },
+    "3eba679830": {
+        "mean_angle": 3.750913252008246,
+        "max_angle": 11.353530534431506,
+        "mean_translation": 0.018676229045107854,
+        "max_translation": 0.07050974348342731
+    },
+    "3ee9d33aef": {
+        "mean_angle": 3.2475554088424716,
+        "max_angle": 136.75252526986313,
+        "mean_translation": 0.015366952938387865,
+        "max_translation": 0.651385111772706
+    },
+    "3f15a9266d": {
+        "mean_angle": 1.0476645175897288,
+        "max_angle": 4.458982041058708,
+        "mean_translation": 0.012443930588604771,
+        "max_translation": 0.05210710680733491
+    },
+    "3f1e1610de": {
+        "mean_angle": 6.188942439757878,
+        "max_angle": 140.20620207820852,
+        "mean_translation": 0.08756403987908964,
+        "max_translation": 1.6573648350620565
+    },
+    "3f6ee92fd7": {
+        "mean_angle": 3.620729208241123,
+        "max_angle": 168.0235932878181,
+        "mean_translation": 0.0250451380003915,
+        "max_translation": 1.2806457413160408
+    },
+    "3ff873c77e": {
+        "mean_angle": 2.26845692254188,
+        "max_angle": 176.99122994471625,
+        "mean_translation": 0.02412383865372308,
+        "max_translation": 4.2515676857035505
+    },
+    "40aec5fffa": {
+        "mean_angle": 13.732329269733706,
+        "max_angle": 154.46505042082137,
+        "mean_translation": 0.13947275051225874,
+        "max_translation": 0.7434941998814153
+    },
+    "40b56bf310": {
+        "mean_angle": 8.970596700380753,
+        "max_angle": 74.24981192288914,
+        "mean_translation": 0.11878106902874976,
+        "max_translation": 1.1121382053423103
+    },
+    "410c470782": {
+        "mean_angle": 9.857430033114959,
+        "max_angle": 177.74760061140591,
+        "mean_translation": 0.11126718664736442,
+        "max_translation": 7.3324284702461995
+    },
+    "4117a4f02c": {
+        "mean_angle": 7.414312260052627,
+        "max_angle": 174.74330077995407,
+        "mean_translation": 0.053211173001191055,
+        "max_translation": 1.4836136451486686
+    },
+    "413085a827": {
+        "mean_angle": 3.970113329061029,
+        "max_angle": 54.29508519370941,
+        "mean_translation": 0.04049918085212601,
+        "max_translation": 0.9739866169105952
+    },
+    "419cbe7c11": {
+        "mean_angle": 3.49189209038484,
+        "max_angle": 134.6177669803926,
+        "mean_translation": 0.053049602031536164,
+        "max_translation": 3.4930297958764496
+    },
+    "41b00feddb": {
+        "mean_angle": 9.697202330710137,
+        "max_angle": 109.68341209727124,
+        "mean_translation": 0.11951082936052927,
+        "max_translation": 4.0820841085781545
+    },
+    "41eb967018": {
+        "mean_angle": 5.272622141296208,
+        "max_angle": 171.5322299493132,
+        "mean_translation": 0.059867174449837274,
+        "max_translation": 3.3096165053694198
+    },
+    "4291be3b44": {
+        "mean_angle": 1.06009896630673,
+        "max_angle": 28.746559826003548,
+        "mean_translation": 0.012742747757352093,
+        "max_translation": 0.4774237619560711
+    },
+    "4318f8bb3c": {
+        "mean_angle": 5.486706494053297,
+        "max_angle": 175.0156660704063,
+        "mean_translation": 0.057777752314320245,
+        "max_translation": 2.151749423762501
+    },
+    "4380e4646a": {
+        "mean_angle": 8.606317085881185,
+        "max_angle": 179.58207351435362,
+        "mean_translation": 0.09506235948685653,
+        "max_translation": 2.916638094338825
+    },
+    "43cd995c51": {
+        "mean_angle": 4.37221649454748,
+        "max_angle": 9.337542681900167,
+        "mean_translation": 0.019904954008487,
+        "max_translation": 0.0777279583209344
+    },
+    "4422722c49": {
+        "mean_angle": 5.359588912481431,
+        "max_angle": 175.24197168988977,
+        "mean_translation": 0.06769414117978674,
+        "max_translation": 2.280024455575617
+    },
+    "4423a61d09": {
+        "mean_angle": 5.924063193845756,
+        "max_angle": 165.7804661878736,
+        "mean_translation": 0.06382043447185712,
+        "max_translation": 6.055106252907425
+    },
+    "442b144761": {
+        "mean_angle": 3.9175217792926227,
+        "max_angle": 9.982470829241105,
+        "mean_translation": 0.01882653141428636,
+        "max_translation": 0.12223809558537495
+    },
+    "44c85584ae": {
+        "mean_angle": 1.0504426151549273,
+        "max_angle": 115.34440506495409,
+        "mean_translation": 0.011173307875690782,
+        "max_translation": 0.7435768499524272
+    },
+    "4517d988d8": {
+        "mean_angle": 1.3001114894770287,
+        "max_angle": 169.56002369305298,
+        "mean_translation": 0.017550955868966524,
+        "max_translation": 6.613570664594604
+    },
+    "45b0dac5e3": {
+        "mean_angle": 7.226088095793268,
+        "max_angle": 99.64035200328924,
+        "mean_translation": 0.06341305846887649,
+        "max_translation": 1.5423571782377665
+    },
+    "45ba9ea301": {
+        "mean_angle": 3.3180169224844707,
+        "max_angle": 8.931423451404731,
+        "mean_translation": 0.013264880485228963,
+        "max_translation": 0.1397488444443038
+    },
+    "45d2e33be1": {
+        "mean_angle": 8.138498777398254,
+        "max_angle": 90.34617977104737,
+        "mean_translation": 0.0739841463850139,
+        "max_translation": 1.1648052796902248
+    },
+    "46001f434d": {
+        "mean_angle": 6.509563581390959,
+        "max_angle": 64.19340897149813,
+        "mean_translation": 0.03185293323359197,
+        "max_translation": 0.11261077929340572
+    },
+    "4610b2104c": {
+        "mean_angle": 3.0554349699408934,
+        "max_angle": 159.5331073578399,
+        "mean_translation": 0.03600496623824888,
+        "max_translation": 2.395725715297931
+    },
+    "46638cfd0f": {
+        "mean_angle": 1.4371587502626797,
+        "max_angle": 4.309954083054438,
+        "mean_translation": 0.021392496329680735,
+        "max_translation": 0.05589453511453105
+    },
+    "469f112e38": {
+        "mean_angle": 5.997694742583969,
+        "max_angle": 175.05668212565075,
+        "mean_translation": 0.03883929591026131,
+        "max_translation": 2.8235357060237245
+    },
+    "47b37eb6f9": {
+        "mean_angle": 7.205163355949408,
+        "max_angle": 149.5632726100017,
+        "mean_translation": 0.1795281336965282,
+        "max_translation": 5.077682112089706
+    },
+    "47c1209b9e": {
+        "mean_angle": 1.267226456353461,
+        "max_angle": 67.3058817374698,
+        "mean_translation": 0.014804171827022115,
+        "max_translation": 2.4680894145814265
+    },
+    "47eb87b5bb": {
+        "mean_angle": 10.669508237195027,
+        "max_angle": 157.48262701144185,
+        "mean_translation": 0.10957835679283401,
+        "max_translation": 2.788582136692446
+    },
+    "4808c4a397": {
+        "mean_angle": 1.1702400566307836,
+        "max_angle": 139.32308674634484,
+        "mean_translation": 0.015635616172965276,
+        "max_translation": 3.4582496399855973
+    },
+    "480ddaadc0": {
+        "mean_angle": 9.125300541241767,
+        "max_angle": 153.63071334207424,
+        "mean_translation": 0.07594983806049169,
+        "max_translation": 1.7639076148331752
+    },
+    "484ad681df": {
+        "mean_angle": 1.3241859765112194,
+        "max_angle": 12.374562966150808,
+        "mean_translation": 0.016350659423477132,
+        "max_translation": 0.21386882365924195
+    },
+    "48573f4c95": {
+        "mean_angle": 4.418287676496132,
+        "max_angle": 151.19306092337914,
+        "mean_translation": 0.0470933117347018,
+        "max_translation": 2.499537925520725
+    },
+    "48701abb21": {
+        "mean_angle": 5.14661775160763,
+        "max_angle": 13.012391137967729,
+        "mean_translation": 0.03341466809778069,
+        "max_translation": 0.14644647979346498
+    },
+    "4897e95232": {
+        "mean_angle": 4.157235580428529,
+        "max_angle": 62.64971745068703,
+        "mean_translation": 0.03918165620160424,
+        "max_translation": 0.712083226772115
+    },
+    "48da625e8c": {
+        "mean_angle": 1.4153833769630626,
+        "max_angle": 177.73767400962612,
+        "mean_translation": 0.013889358291344803,
+        "max_translation": 1.5363450119183928
+    },
+    "497588b572": {
+        "mean_angle": 10.120137289713371,
+        "max_angle": 30.33098201605797,
+        "mean_translation": 0.13884073513226414,
+        "max_translation": 0.2951500164015145
+    },
+    "49789448b8": {
+        "mean_angle": 3.105961057855149,
+        "max_angle": 46.32583937765446,
+        "mean_translation": 0.022004529490533907,
+        "max_translation": 0.38291582209093683
+    },
+    "49a82360aa": {
+        "mean_angle": 9.703348225833052,
+        "max_angle": 172.06944030936825,
+        "mean_translation": 0.11949319949684994,
+        "max_translation": 2.973962175106648
+    },
+    "49fe768553": {
+        "mean_angle": 0.9768264789615057,
+        "max_angle": 135.31738175129422,
+        "mean_translation": 0.014138349350278138,
+        "max_translation": 1.5241989999542167
+    },
+    "4a1a3a7dc5": {
+        "mean_angle": 8.444934657873105,
+        "max_angle": 64.78800155551119,
+        "mean_translation": 0.090235301473402,
+        "max_translation": 1.9130025826738455
+    },
+    "4aef651da7": {
+        "mean_angle": 3.1291514191593306,
+        "max_angle": 36.62380456244085,
+        "mean_translation": 0.021917728616922986,
+        "max_translation": 0.1695709424727115
+    },
+    "4ba22fa7e4": {
+        "mean_angle": 13.89251386561044,
+        "max_angle": 100.14494975340588,
+        "mean_translation": 0.16506464752687328,
+        "max_translation": 0.8195344984258819
+    },
+    "4c141d5b1b": {
+        "mean_angle": 1.6593147055367667,
+        "max_angle": 3.582515517813258,
+        "mean_translation": 0.014985043555153324,
+        "max_translation": 0.04174017885570697
+    },
+    "4c5c60fa76": {
+        "mean_angle": 10.995856191967947,
+        "max_angle": 162.84141715231343,
+        "mean_translation": 0.15082037129484296,
+        "max_translation": 4.292769500641765
+    },
+    "4cd52670aa": {
+        "mean_angle": 4.144845521463774,
+        "max_angle": 171.01653271011597,
+        "mean_translation": 0.05320545151127648,
+        "max_translation": 5.993631069451343
+    },
+    "4d451d9c36": {
+        "mean_angle": 5.162527395825731,
+        "max_angle": 179.06889246359358,
+        "mean_translation": 0.05044277386121127,
+        "max_translation": 2.4004298934172748
+    },
+    "4e0b8cbd33": {
+        "mean_angle": 2.2076441730738248,
+        "max_angle": 179.5464616077927,
+        "mean_translation": 0.04339277426289408,
+        "max_translation": 10.612827361715748
+    },
+    "4e2db5058c": {
+        "mean_angle": 5.121857958923318,
+        "max_angle": 177.906557678306,
+        "mean_translation": 0.045320207716771935,
+        "max_translation": 5.049483058888486
+    },
+    "4e9ab3ec88": {
+        "mean_angle": 5.864813935397606,
+        "max_angle": 178.522865383942,
+        "mean_translation": 0.049270072695255074,
+        "max_translation": 2.394070588186354
+    },
+    "4ea827f5a1": {
+        "mean_angle": 2.328247118636312,
+        "max_angle": 179.52620530203902,
+        "mean_translation": 0.016042515533191044,
+        "max_translation": 0.9091208491219012
+    },
+    "4ef75031e3": {
+        "mean_angle": 9.68169384814577,
+        "max_angle": 159.37920803804278,
+        "mean_translation": 0.14833950145919964,
+        "max_translation": 2.484103546224892
+    },
+    "4f144c7489": {
+        "mean_angle": 3.6262835070576087,
+        "max_angle": 53.63643796915316,
+        "mean_translation": 0.036185843818186327,
+        "max_translation": 1.0759763982275024
+    },
+    "4f341f3af0": {
+        "mean_angle": 5.304648950684924,
+        "max_angle": 167.8273854382272,
+        "mean_translation": 0.07717165736317398,
+        "max_translation": 8.203015187236964
+    },
+    "504cf57907": {
+        "mean_angle": 2.690736800588736,
+        "max_angle": 124.28414812030947,
+        "mean_translation": 0.021304521059440924,
+        "max_translation": 0.46499575306572244
+    },
+    "50809ea0d8": {
+        "mean_angle": 4.764173686091429,
+        "max_angle": 159.28570028002216,
+        "mean_translation": 0.05080206253386697,
+        "max_translation": 2.057362039330668
+    },
+    "511061232": {
+        "mean_angle": 4.8094758008423835,
+        "max_angle": 110.87355004384602,
+        "mean_translation": 0.0291566948389708,
+        "max_translation": 2.2160132561206956
+    },
+    "5166da6131": {
+        "mean_angle": 4.887085001631328,
+        "max_angle": 154.52927003445433,
+        "mean_translation": 0.04291728765958655,
+        "max_translation": 1.7609976091252149
+    },
+    "51bdbf173f": {
+        "mean_angle": 1.517521557623901,
+        "max_angle": 4.367491195323361,
+        "mean_translation": 0.012016090187323221,
+        "max_translation": 0.03359709011546424
+    },
+    "51dc4178bd": {
+        "mean_angle": 1.5925672428226596,
+        "max_angle": 162.22239392930743,
+        "mean_translation": 0.021051413394391972,
+        "max_translation": 3.111390954720271
+    },
+    "523657b4d0": {
+        "mean_angle": 4.437231773676166,
+        "max_angle": 11.801437484396796,
+        "mean_translation": 0.024372022446622836,
+        "max_translation": 0.10215580561763742
+    },
+    "52599ae063": {
+        "mean_angle": 6.64609684199537,
+        "max_angle": 93.44475886166265,
+        "mean_translation": 0.09849064900036147,
+        "max_translation": 1.5613120941286347
+    },
+    "5334a4164a": {
+        "mean_angle": 3.115993846782327,
+        "max_angle": 174.34167978033034,
+        "mean_translation": 0.037836165008096896,
+        "max_translation": 2.447408955168533
+    },
+    "5371eff4f9": {
+        "mean_angle": 15.514594650808403,
+        "max_angle": 157.39786965420902,
+        "mean_translation": 0.15931832443534916,
+        "max_translation": 1.3952936138744239
+    },
+    "53755e535e": {
+        "mean_angle": 4.961119677745565,
+        "max_angle": 113.6683195160494,
+        "mean_translation": 0.049157811406420004,
+        "max_translation": 1.9896256111903332
+    },
+    "53bd1b3b05": {
+        "mean_angle": 3.3973649407663142,
+        "max_angle": 165.47716959411017,
+        "mean_translation": 0.020534670280899368,
+        "max_translation": 0.24756040940713214
+    },
+    "546292a9db": {
+        "mean_angle": 7.719239401715216,
+        "max_angle": 152.91096363730924,
+        "mean_translation": 0.1038543226501502,
+        "max_translation": 1.2792493631383663
+    },
+    "54b005d19d": {
+        "mean_angle": 5.234722939139612,
+        "max_angle": 171.23037708217876,
+        "mean_translation": 0.038134692676886975,
+        "max_translation": 5.350930891561283
+    },
+    "54b6127146": {
+        "mean_angle": 1.725109093028151,
+        "max_angle": 15.460351333796265,
+        "mean_translation": 0.019183654693466837,
+        "max_translation": 0.1268550978982371
+    },
+    "54bca9597e": {
+        "mean_angle": 10.954263181178508,
+        "max_angle": 105.2942780300887,
+        "mean_translation": 0.15094914559462747,
+        "max_translation": 1.0335437422224778
+    },
+    "55b2bf8036": {
+        "mean_angle": 3.953527923629381,
+        "max_angle": 150.8852683613562,
+        "mean_translation": 0.057089989387042225,
+        "max_translation": 3.273883702048496
+    },
+    "5654092cc2": {
+        "mean_angle": 2.6252898878061717,
+        "max_angle": 165.4297185758352,
+        "mean_translation": 0.024012480409493178,
+        "max_translation": 1.367518359738098
+    },
+    "5656608266": {
+        "mean_angle": 8.817122031141048,
+        "max_angle": 166.17577265861698,
+        "mean_translation": 0.08615992600970154,
+        "max_translation": 3.3361179488329613
+    },
+    "56669a70bc": {
+        "mean_angle": 1.715173933198956,
+        "max_angle": 21.04408801560288,
+        "mean_translation": 0.011505982850569292,
+        "max_translation": 0.10425252980796754
+    },
+    "569f99f881": {
+        "mean_angle": 9.934381503839417,
+        "max_angle": 71.1139671877787,
+        "mean_translation": 0.1291946915963701,
+        "max_translation": 0.8696185956747107
+    },
+    "56a0ec536c": {
+        "mean_angle": 17.1962424196977,
+        "max_angle": 168.21233678390885,
+        "mean_translation": 0.1901875473449804,
+        "max_translation": 3.3467253559873584
+    },
+    "5748ce6f01": {
+        "mean_angle": 2.3775432001292427,
+        "max_angle": 152.1084020722654,
+        "mean_translation": 0.03997574862131109,
+        "max_translation": 2.56132082703088
+    },
+    "578511c8a9": {
+        "mean_angle": 11.631090679495832,
+        "max_angle": 173.44024175665913,
+        "mean_translation": 0.16490341768217195,
+        "max_translation": 3.2430935029061603
+    },
+    "57d9fecae9": {
+        "mean_angle": 1.1511476062141701,
+        "max_angle": 6.310821066991456,
+        "mean_translation": 0.009401503204638355,
+        "max_translation": 0.2742521118276947
+    },
+    "58960ff105": {
+        "mean_angle": 2.0007947827751327,
+        "max_angle": 9.993904972460255,
+        "mean_translation": 0.010667429532214756,
+        "max_translation": 0.08910929127214612
+    },
+    "589f5c7c58": {
+        "mean_angle": 3.021380391836609,
+        "max_angle": 8.165002379770156,
+        "mean_translation": 0.012205013850513662,
+        "max_translation": 0.06508326294480939
+    },
+    "58d446b708": {
+        "mean_angle": 4.653207841396771,
+        "max_angle": 10.893841110465743,
+        "mean_translation": 0.02142454835434734,
+        "max_translation": 0.06379892672554315
+    },
+    "58f6a5c5ec": {
+        "mean_angle": 2.4161447454085323,
+        "max_angle": 6.780706031315628,
+        "mean_translation": 0.019884139164518557,
+        "max_translation": 0.05977280764340369
+    },
+    "5942004064": {
+        "mean_angle": 11.083481820674852,
+        "max_angle": 177.99934452814068,
+        "mean_translation": 0.1436280797658889,
+        "max_translation": 4.598705710341957
+    },
+    "59e3f1ea37": {
+        "mean_angle": 11.987689185950146,
+        "max_angle": 151.45209603600884,
+        "mean_translation": 0.14110368403212273,
+        "max_translation": 2.5334683831495615
+    },
+    "5a269ba6fe": {
+        "mean_angle": 14.750019728676875,
+        "max_angle": 91.7949377024057,
+        "mean_translation": 0.16204701618832518,
+        "max_translation": 1.8400331032322927
+    },
+    "5a9cdde1ba": {
+        "mean_angle": 0.599490051566019,
+        "max_angle": 9.117816565272609,
+        "mean_translation": 0.00717746269996403,
+        "max_translation": 0.07739361552213127
+    },
+    "5aeac3800a": {
+        "mean_angle": 1.8831953306952163,
+        "max_angle": 4.9153252200323845,
+        "mean_translation": 0.014470302790135824,
+        "max_translation": 0.052965374254862786
+    },
+    "5b0a310211": {
+        "mean_angle": 2.5603655127956695,
+        "max_angle": 177.90677280029368,
+        "mean_translation": 0.02238054120386327,
+        "max_translation": 1.6035957426018619
+    },
+    "5b38982d25": {
+        "mean_angle": 4.542735486996905,
+        "max_angle": 176.64174719229976,
+        "mean_translation": 0.03882137727903096,
+        "max_translation": 4.257595016422791
+    },
+    "5bc6227191": {
+        "mean_angle": 4.886734009016856,
+        "max_angle": 169.27623983864171,
+        "mean_translation": 0.034978669757993866,
+        "max_translation": 1.294772025856325
+    },
+    "5c21213f16": {
+        "mean_angle": 2.984167047446647,
+        "max_angle": 73.43883765916779,
+        "mean_translation": 0.020763507262397424,
+        "max_translation": 0.8502703832260073
+    },
+    "5c215ef3b0": {
+        "mean_angle": 2.0074344681884524,
+        "max_angle": 171.77761702816812,
+        "mean_translation": 0.02098538032422991,
+        "max_translation": 3.2440112748772445
+    },
+    "5d152fab1b": {
+        "mean_angle": 9.151731303698607,
+        "max_angle": 171.9374729929353,
+        "mean_translation": 0.17068159723095114,
+        "max_translation": 2.398766718385496
+    },
+    "5d591ff74d": {
+        "mean_angle": 3.964286782294788,
+        "max_angle": 165.20309730013722,
+        "mean_translation": 0.036600476219128236,
+        "max_translation": 2.668391862500154
+    },
+    "5d902f1593": {
+        "mean_angle": 3.56856134874714,
+        "max_angle": 179.81011194752256,
+        "mean_translation": 0.05023521737571035,
+        "max_translation": 8.38495702743979
+    },
+    "5ea3e738c3": {
+        "mean_angle": 3.698938666747209,
+        "max_angle": 156.2834835855884,
+        "mean_translation": 0.05185164206824158,
+        "max_translation": 5.794380580904814
+    },
+    "5eb31827b7": {
+        "mean_angle": 11.228799188144643,
+        "max_angle": 166.77587705841762,
+        "mean_translation": 0.12057391578754627,
+        "max_translation": 1.463255367275277
+    },
+    "5ee7c22ba0": {
+        "mean_angle": 7.745688014012489,
+        "max_angle": 178.4112726075687,
+        "mean_translation": 0.06894210880395586,
+        "max_translation": 1.3655907689383127
+    },
+    "5f0fb991a7": {
+        "mean_angle": 3.0473679865581027,
+        "max_angle": 96.16694582832329,
+        "mean_translation": 0.02822784304390985,
+        "max_translation": 2.522194758505587
+    },
+    "5f99900f09": {
+        "mean_angle": 1.5987169192363018,
+        "max_angle": 5.310842727547885,
+        "mean_translation": 0.02991493182102926,
+        "max_translation": 0.06833256521140794
+    },
+    "5fb5d2dbf2": {
+        "mean_angle": 6.928948497246598,
+        "max_angle": 175.04689739660253,
+        "mean_translation": 0.10098071163139781,
+        "max_translation": 6.017094123947193
+    },
+    "5fd8addedf": {
+        "mean_angle": 4.303205192088967,
+        "max_angle": 161.73262062662812,
+        "mean_translation": 0.03944222388004968,
+        "max_translation": 2.2921471572863323
+    },
+    "603964346e": {
+        "mean_angle": 1.8151369375917281,
+        "max_angle": 5.063185601241031,
+        "mean_translation": 0.014990188666641072,
+        "max_translation": 0.037221241948588245
+    },
+    "610eff6509": {
+        "mean_angle": 2.946285008845863,
+        "max_angle": 153.26709607626185,
+        "mean_translation": 0.01808062041549814,
+        "max_translation": 1.4453683875862195
+    },
+    "6115eddb86": {
+        "mean_angle": 7.415976567995936,
+        "max_angle": 169.82694421179042,
+        "mean_translation": 0.06342357390103553,
+        "max_translation": 2.452745802907137
+    },
+    "6126572846": {
+        "mean_angle": 4.6607995124164034,
+        "max_angle": 10.871392247482135,
+        "mean_translation": 0.026404842208649137,
+        "max_translation": 0.07812652333126809
+    },
+    "612f70fe00": {
+        "mean_angle": 1.2953595442460173,
+        "max_angle": 4.705716985891756,
+        "mean_translation": 0.017125612158653932,
+        "max_translation": 0.059862981065685265
+    },
+    "617326da3e": {
+        "mean_angle": 6.692180424474529,
+        "max_angle": 142.2455584510733,
+        "mean_translation": 0.08549837405954451,
+        "max_translation": 4.281201870049646
+    },
+    "617dc40bca": {
+        "mean_angle": 3.547631914267201,
+        "max_angle": 7.71794275816838,
+        "mean_translation": 0.014952842968831362,
+        "max_translation": 0.0708415332738898
+    },
+    "618310ed87": {
+        "mean_angle": 3.7683226031765673,
+        "max_angle": 167.0104642424119,
+        "mean_translation": 0.03668020058789442,
+        "max_translation": 2.5375600400248812
+    },
+    "6183f0657d": {
+        "mean_angle": 1.6623510260731595,
+        "max_angle": 167.54642315265005,
+        "mean_translation": 0.017961887786988064,
+        "max_translation": 3.0281009689695244
+    },
+    "61adeff7d5": {
+        "mean_angle": 16.4484974347238,
+        "max_angle": 171.4596341866494,
+        "mean_translation": 0.25684549457317574,
+        "max_translation": 6.045331931705001
+    },
+    "623c973c56": {
+        "mean_angle": 3.1975830833348637,
+        "max_angle": 8.554415986037395,
+        "mean_translation": 0.025785730414145527,
+        "max_translation": 0.11275256474917254
+    },
+    "635852d56e": {
+        "mean_angle": 0.931785207150505,
+        "max_angle": 85.47894239709981,
+        "mean_translation": 0.00975217287204389,
+        "max_translation": 1.85179801407801
+    },
+    "637a27d04b": {
+        "mean_angle": 4.314750896795141,
+        "max_angle": 175.307341284359,
+        "mean_translation": 0.06397804102962476,
+        "max_translation": 6.2567789870246555
+    },
+    "6391f0f921": {
+        "mean_angle": 5.033878626732016,
+        "max_angle": 9.699444252077226,
+        "mean_translation": 0.022414187474908757,
+        "max_translation": 0.07065882270857995
+    },
+    "639f2c4d5a": {
+        "mean_angle": 2.473001240562877,
+        "max_angle": 7.898297570405103,
+        "mean_translation": 0.015985167190578565,
+        "max_translation": 0.043620715097849844
+    },
+    "6464461276": {
+        "mean_angle": 5.927877597376059,
+        "max_angle": 169.43591143176775,
+        "mean_translation": 0.06969931496438944,
+        "max_translation": 3.96343968343748
+    },
+    "64672b5bf5": {
+        "mean_angle": 3.190051304282097,
+        "max_angle": 57.2180431692281,
+        "mean_translation": 0.03247074047799131,
+        "max_translation": 1.2486798082056256
+    },
+    "646af5e14b": {
+        "mean_angle": 10.912872309855587,
+        "max_angle": 30.291337581856453,
+        "mean_translation": 0.12097968748000607,
+        "max_translation": 0.32283875824325087
+    },
+    "64b8886d68": {
+        "mean_angle": 2.3432844864918247,
+        "max_angle": 6.240133581277224,
+        "mean_translation": 0.01745421649132342,
+        "max_translation": 0.060212215864040616
+    },
+    "652d9cb0d7": {
+        "mean_angle": 1.3332355132618279,
+        "max_angle": 60.892897670174115,
+        "mean_translation": 0.011416431088991486,
+        "max_translation": 0.39825142160577065
+    },
+    "654a4f341b": {
+        "mean_angle": 6.829912795302708,
+        "max_angle": 179.45506813939411,
+        "mean_translation": 0.08698422098703351,
+        "max_translation": 12.61890138541318
+    },
+    "65aa268fcb": {
+        "mean_angle": 5.126649632253335,
+        "max_angle": 152.4301699248575,
+        "mean_translation": 0.05356286911827195,
+        "max_translation": 3.1981218935957267
+    },
+    "666d04a14a": {
+        "mean_angle": 1.1221728068449117,
+        "max_angle": 127.51257825632983,
+        "mean_translation": 0.018774568516737124,
+        "max_translation": 2.618800738360736
+    },
+    "66ba53719a": {
+        "mean_angle": 3.08248639764616,
+        "max_angle": 9.265259543509128,
+        "mean_translation": 0.02087245031004838,
+        "max_translation": 0.13358004101998974
+    },
+    "66c98f4a9b": {
+        "mean_angle": 16.391755196156254,
+        "max_angle": 121.31534543054933,
+        "mean_translation": 0.12734347934960272,
+        "max_translation": 1.0003793539020887
+    },
+    "67ab69f888": {
+        "mean_angle": 3.914322575076205,
+        "max_angle": 175.08974500182964,
+        "mean_translation": 0.02736930218144574,
+        "max_translation": 2.2820525435113934
+    },
+    "67b177d4f6": {
+        "mean_angle": 2.1169454898145386,
+        "max_angle": 26.792814436545644,
+        "mean_translation": 0.019970989712586214,
+        "max_translation": 1.1873752105824402
+    },
+    "67d702f2e8": {
+        "mean_angle": 15.039316388409475,
+        "max_angle": 162.61851242352645,
+        "mean_translation": 0.17758496134406904,
+        "max_translation": 2.7267757990410115
+    },
+    "684d4da1fe": {
+        "mean_angle": 2.8070266700008135,
+        "max_angle": 84.26501871786351,
+        "mean_translation": 0.016192199132393028,
+        "max_translation": 0.8820976195776312
+    },
+    "6855e1ac32": {
+        "mean_angle": 3.5973382317051636,
+        "max_angle": 179.82085854678124,
+        "mean_translation": 0.03942323556903673,
+        "max_translation": 4.357613155891064
+    },
+    "68739bdf1f": {
+        "mean_angle": 2.4285859932434293,
+        "max_angle": 62.27317767523082,
+        "mean_translation": 0.023687650545860313,
+        "max_translation": 0.9493274040346522
+    },
+    "689fec23d7": {
+        "mean_angle": 10.181437973579419,
+        "max_angle": 109.77740598335303,
+        "mean_translation": 0.10535603754584677,
+        "max_translation": 0.3583091502654231
+    },
+    "696317583f": {
+        "mean_angle": 4.534632612268923,
+        "max_angle": 177.36263661631926,
+        "mean_translation": 0.022457662837219956,
+        "max_translation": 0.8252161621052373
+    },
+    "698c3bf2bb": {
+        "mean_angle": 1.419469567292011,
+        "max_angle": 109.59782097319801,
+        "mean_translation": 0.017223560378958943,
+        "max_translation": 1.3033075269330723
+    },
+    "69922a42d8": {
+        "mean_angle": 4.38691319499504,
+        "max_angle": 170.08503366502174,
+        "mean_translation": 0.04300135274670626,
+        "max_translation": 2.2518333448692225
+    },
+    "69e56cf0f8": {
+        "mean_angle": 1.0761878946831767,
+        "max_angle": 91.29771370840444,
+        "mean_translation": 0.013543578753423935,
+        "max_translation": 1.026408759957883
+    },
+    "69e5939669": {
+        "mean_angle": 14.73651252531965,
+        "max_angle": 175.20129899194944,
+        "mean_translation": 0.25319861103921315,
+        "max_translation": 6.983190822318571
+    },
+    "6a217fbcb0": {
+        "mean_angle": 0.7799563352144536,
+        "max_angle": 3.1980005169310353,
+        "mean_translation": 0.008898608042829433,
+        "max_translation": 0.07167402962016792
+    },
+    "6ad6cef000": {
+        "mean_angle": 6.331738317745705,
+        "max_angle": 174.82610324209526,
+        "mean_translation": 0.06296084147972252,
+        "max_translation": 3.9013790194469373
+    },
+    "6b19334aeb": {
+        "mean_angle": 6.46608094307349,
+        "max_angle": 12.145807784516526,
+        "mean_translation": 0.02651259766105816,
+        "max_translation": 0.07876609869043748
+    },
+    "6b40d1a939": {
+        "mean_angle": 0.9155593402048329,
+        "max_angle": 3.8811039989566725,
+        "mean_translation": 0.012074908884564108,
+        "max_translation": 0.042600520147575566
+    },
+    "6bd39ac392": {
+        "mean_angle": 4.1864737829705625,
+        "max_angle": 103.94142550982434,
+        "mean_translation": 0.055340922646983814,
+        "max_translation": 3.6103622607231696
+    },
+    "6c14d5fd01": {
+        "mean_angle": 1.7195519350448774,
+        "max_angle": 5.435954504260751,
+        "mean_translation": 0.012079071580395666,
+        "max_translation": 0.07226935398506329
+    },
+    "6c75a5290e": {
+        "mean_angle": 4.729843984900967,
+        "max_angle": 46.53489361608707,
+        "mean_translation": 0.027427381756144842,
+        "max_translation": 0.8474972617036861
+    },
+    "6cc2231b9c": {
+        "mean_angle": 10.087179948411173,
+        "max_angle": 163.22918840950175,
+        "mean_translation": 0.13112688675167147,
+        "max_translation": 2.9294053247273983
+    },
+    "6d89a7320d": {
+        "mean_angle": 14.270716792190505,
+        "max_angle": 144.04553416428027,
+        "mean_translation": 0.17915797880081538,
+        "max_translation": 1.6367406483765925
+    },
+    "6da1d5ab04": {
+        "mean_angle": 4.045194318493866,
+        "max_angle": 160.97044600563373,
+        "mean_translation": 0.02943349673917403,
+        "max_translation": 1.117425295890685
+    },
+    "6e420fd87a": {
+        "mean_angle": 5.841778938136147,
+        "max_angle": 140.23220233917067,
+        "mean_translation": 0.11569476716926849,
+        "max_translation": 3.4661118869822753
+    },
+    "6ea60e282a": {
+        "mean_angle": 4.32044178119881,
+        "max_angle": 140.35158656294502,
+        "mean_translation": 0.03861978325111694,
+        "max_translation": 2.5447237050418368
+    },
+    "6eb7f409ad": {
+        "mean_angle": 12.126331271822885,
+        "max_angle": 96.0356272059012,
+        "mean_translation": 0.13159668400909916,
+        "max_translation": 1.6935749145195007
+    },
+    "6ebe30292e": {
+        "mean_angle": 2.6093183941938465,
+        "max_angle": 160.34095375233414,
+        "mean_translation": 0.022992769831182175,
+        "max_translation": 1.237337414889386
+    },
+    "6ee2fc1070": {
+        "mean_angle": 3.5393715749416597,
+        "max_angle": 172.4988071357865,
+        "mean_translation": 0.03296551113111741,
+        "max_translation": 3.5326794985514596
+    },
+    "6ef2ac745a": {
+        "mean_angle": 3.9366950317175466,
+        "max_angle": 117.78423012031546,
+        "mean_translation": 0.028886869956547493,
+        "max_translation": 0.48349780318787966
+    },
+    "6f12492455": {
+        "mean_angle": 1.872068975951709,
+        "max_angle": 41.288075146042644,
+        "mean_translation": 0.024376161065903942,
+        "max_translation": 0.37675418619033657
+    },
+    "6f1848d1e3": {
+        "mean_angle": 12.326664122815782,
+        "max_angle": 164.01813917592293,
+        "mean_translation": 0.16562060930075864,
+        "max_translation": 2.2279272148370928
+    },
+    "6ffdcc3022": {
+        "mean_angle": 4.523636701903005,
+        "max_angle": 165.94329401331902,
+        "mean_translation": 0.046481075609490365,
+        "max_translation": 2.853624616412283
+    },
+    "7079b59642": {
+        "mean_angle": 7.451876561405707,
+        "max_angle": 51.83081435622118,
+        "mean_translation": 0.08977518340522112,
+        "max_translation": 1.9078971901304849
+    },
+    "70945f435a": {
+        "mean_angle": 2.855145958794722,
+        "max_angle": 6.36439533475353,
+        "mean_translation": 0.010321967617622428,
+        "max_translation": 0.028249656371464916
+    },
+    "709ab5bffe": {
+        "mean_angle": 6.173407368612627,
+        "max_angle": 93.0574805768715,
+        "mean_translation": 0.06810244796143712,
+        "max_translation": 1.0601618607502958
+    },
+    "70f0e494b2": {
+        "mean_angle": 3.968513322789866,
+        "max_angle": 25.441488733244526,
+        "mean_translation": 0.016120642205284204,
+        "max_translation": 0.16278057659408798
+    },
+    "7104910700": {
+        "mean_angle": 6.723269004189461,
+        "max_angle": 176.41092899447267,
+        "mean_translation": 0.048829623596260696,
+        "max_translation": 1.1333005603406567
+    },
+    "712b9ae775": {
+        "mean_angle": 12.172154382838473,
+        "max_angle": 177.56777827263565,
+        "mean_translation": 0.14671836007132488,
+        "max_translation": 2.9296030369880603
+    },
+    "712dc47104": {
+        "mean_angle": 15.590549004621709,
+        "max_angle": 131.41765790354285,
+        "mean_translation": 0.16850406081732305,
+        "max_translation": 1.0639776927450009
+    },
+    "717485935": {
+        "mean_angle": 3.569328688740246,
+        "max_angle": 134.59649424431288,
+        "mean_translation": 0.04162016639789776,
+        "max_translation": 5.668333028303358
+    },
+    "724c40236c": {
+        "mean_angle": 2.4938826836257526,
+        "max_angle": 155.8205886307696,
+        "mean_translation": 0.041921132095047095,
+        "max_translation": 4.058766605161363
+    },
+    "725b8f0cba": {
+        "mean_angle": 1.19330531418679,
+        "max_angle": 97.64552055239548,
+        "mean_translation": 0.01238052094219963,
+        "max_translation": 1.009926665475713
+    },
+    "728daff2a3": {
+        "mean_angle": 5.324054926306066,
+        "max_angle": 162.905391323669,
+        "mean_translation": 0.06094631432852961,
+        "max_translation": 1.7292332236801968
+    },
+    "72f527a47c": {
+        "mean_angle": 10.865668734559767,
+        "max_angle": 177.91960729551474,
+        "mean_translation": 0.16268917851174142,
+        "max_translation": 4.977933602317979
+    },
+    "734bd1a97e": {
+        "mean_angle": 3.956134864782449,
+        "max_angle": 25.908478122042094,
+        "mean_translation": 0.02039051797361488,
+        "max_translation": 1.120515020087166
+    },
+    "7357c3702a": {
+        "mean_angle": 3.685505077274588,
+        "max_angle": 177.08766477001396,
+        "mean_translation": 0.05623229680486716,
+        "max_translation": 2.92349035752004
+    },
+    "736536044": {
+        "mean_angle": 5.485607321365182,
+        "max_angle": 63.107301040437264,
+        "mean_translation": 0.03500709244644515,
+        "max_translation": 1.8077399373666998
+    },
+    "73f9370962": {
+        "mean_angle": 4.078253057250976,
+        "max_angle": 9.692739527513476,
+        "mean_translation": 0.024046059949256727,
+        "max_translation": 0.08898913193624823
+    },
+    "7543973e1a": {
+        "mean_angle": 4.805497877394523,
+        "max_angle": 10.286438219498928,
+        "mean_translation": 0.020511613161633985,
+        "max_translation": 0.05977912505844934
+    },
+    "755c495a31": {
+        "mean_angle": 3.936924617065117,
+        "max_angle": 22.53673874339511,
+        "mean_translation": 0.01734479267239372,
+        "max_translation": 0.09359558141737735
+    },
+    "75d29d69b8": {
+        "mean_angle": 2.9393016235016765,
+        "max_angle": 144.09097651515856,
+        "mean_translation": 0.035695034629213335,
+        "max_translation": 3.8141895544914353
+    },
+    "7692b88644": {
+        "mean_angle": 3.099007691786129,
+        "max_angle": 9.224982264388181,
+        "mean_translation": 0.01963964365601467,
+        "max_translation": 0.11316906417007451
+    },
+    "76f0eb2577": {
+        "mean_angle": 2.709748069335691,
+        "max_angle": 177.50260965507493,
+        "mean_translation": 0.030798695036155448,
+        "max_translation": 3.3866421339159447
+    },
+    "7739004a45": {
+        "mean_angle": 5.62066664628365,
+        "max_angle": 151.75320793999575,
+        "mean_translation": 0.029180236787225373,
+        "max_translation": 0.8115634407368253
+    },
+    "778769dad8": {
+        "mean_angle": 1.5511672814843245,
+        "max_angle": 5.398353712360283,
+        "mean_translation": 0.013969899266555116,
+        "max_translation": 0.04374613426625878
+    },
+    "77b40ce601": {
+        "mean_angle": 5.295180273703301,
+        "max_angle": 177.4002098017542,
+        "mean_translation": 0.04105089010975552,
+        "max_translation": 1.2698007192319218
+    },
+    "77fe971eba": {
+        "mean_angle": 0.820808948213294,
+        "max_angle": 7.046478137440373,
+        "mean_translation": 0.009438490784063584,
+        "max_translation": 0.04362619207524975
+    },
+    "781f5de0a8": {
+        "mean_angle": 0.8404588404544295,
+        "max_angle": 115.86707612688723,
+        "mean_translation": 0.011162265142582709,
+        "max_translation": 1.2979818096596805
+    },
+    "7831862f02": {
+        "mean_angle": 10.220688350976827,
+        "max_angle": 119.70237799842931,
+        "mean_translation": 0.13303281635941208,
+        "max_translation": 2.7389603721895326
+    },
+    "785e7504b9": {
+        "mean_angle": 5.819922339953303,
+        "max_angle": 173.47547346272094,
+        "mean_translation": 0.08559167770247163,
+        "max_translation": 2.9703505656075397
+    },
+    "791a5c253d": {
+        "mean_angle": 1.165455460726321,
+        "max_angle": 7.179714605373972,
+        "mean_translation": 0.01669409864190814,
+        "max_translation": 0.05668449377564242
+    },
+    "7968e15e5e": {
+        "mean_angle": 10.23962664891766,
+        "max_angle": 78.45187085838253,
+        "mean_translation": 0.09152426217845873,
+        "max_translation": 0.6403900338521814
+    },
+    "7977624358": {
+        "mean_angle": 2.0991905270125986,
+        "max_angle": 75.98902422606507,
+        "mean_translation": 0.027478937713053535,
+        "max_translation": 3.4823732264007723
+    },
+    "79eb3fbc63": {
+        "mean_angle": 0.9371404627917834,
+        "max_angle": 53.448312245414755,
+        "mean_translation": 0.012508439256563437,
+        "max_translation": 2.930029279037825
+    },
+    "7a0a669e90": {
+        "mean_angle": 4.088295818716038,
+        "max_angle": 159.39789770251986,
+        "mean_translation": 0.05927055508040468,
+        "max_translation": 4.913451647132453
+    },
+    "7a629f789c": {
+        "mean_angle": 0.6210267241465487,
+        "max_angle": 59.43634061340546,
+        "mean_translation": 0.007484136620525997,
+        "max_translation": 1.3086027001393257
+    },
+    "7a7980bb69": {
+        "mean_angle": 1.9482812472225834,
+        "max_angle": 178.36506985684963,
+        "mean_translation": 0.02134869735845681,
+        "max_translation": 1.5700452193870236
+    },
+    "7b04052ad0": {
+        "mean_angle": 4.751163044169816,
+        "max_angle": 178.79062989362507,
+        "mean_translation": 0.03415767843748983,
+        "max_translation": 2.329329551944302
+    },
+    "7b4a316aea": {
+        "mean_angle": 0.9216389532573082,
+        "max_angle": 2.444936331732598,
+        "mean_translation": 0.008202298164903823,
+        "max_translation": 0.030980774433211258
+    },
+    "7b4cb756d4": {
+        "mean_angle": 1.0930477075433367,
+        "max_angle": 75.01317935477583,
+        "mean_translation": 0.019048597265348154,
+        "max_translation": 2.597052868719178
+    },
+    "7b6477cb95": {
+        "mean_angle": 8.094020959615241,
+        "max_angle": 128.14230598120457,
+        "mean_translation": 0.07663590144863014,
+        "max_translation": 1.4375699791768735
+    },
+    "7b898d2d22": {
+        "mean_angle": 2.583562208480227,
+        "max_angle": 33.38696826392742,
+        "mean_translation": 0.020935930363886822,
+        "max_translation": 0.3120848634850699
+    },
+    "7bc286c1b6": {
+        "mean_angle": 9.973232402851167,
+        "max_angle": 141.14167495912864,
+        "mean_translation": 0.06485246523003463,
+        "max_translation": 0.5831493435949788
+    },
+    "7becc8122c": {
+        "mean_angle": 1.3701552749229353,
+        "max_angle": 111.36810490743716,
+        "mean_translation": 0.017515085464989387,
+        "max_translation": 3.860455360600469
+    },
+    "7c0ba828a9": {
+        "mean_angle": 3.0384488941066996,
+        "max_angle": 8.119947375275189,
+        "mean_translation": 0.023771022157534884,
+        "max_translation": 0.06778300835350479
+    },
+    "7c31a42404": {
+        "mean_angle": 3.544937717119052,
+        "max_angle": 74.44991353767318,
+        "mean_translation": 0.024679457201658074,
+        "max_translation": 0.2599682696563793
+    },
+    "7c31bccde5": {
+        "mean_angle": 1.1350682169708843,
+        "max_angle": 172.68466238266515,
+        "mean_translation": 0.012196331852638017,
+        "max_translation": 1.6896080151564095
+    },
+    "7cd2ac43b4": {
+        "mean_angle": 7.718052610994014,
+        "max_angle": 177.74030859663458,
+        "mean_translation": 0.05206732952904584,
+        "max_translation": 2.0303304414918166
+    },
+    "7d75c00a32": {
+        "mean_angle": 2.992673154298386,
+        "max_angle": 98.04731634618142,
+        "mean_translation": 0.019042501565782848,
+        "max_translation": 0.3778156801381933
+    },
+    "7d87b85065": {
+        "mean_angle": 7.676558663307243,
+        "max_angle": 117.40349965421821,
+        "mean_translation": 0.10487088904578759,
+        "max_translation": 1.5810647455845654
+    },
+    "7d8d37ca38": {
+        "mean_angle": 3.8523765946780353,
+        "max_angle": 8.901265650918868,
+        "mean_translation": 0.018303766684551314,
+        "max_translation": 0.07608983291312613
+    },
+    "7dab70c8c8": {
+        "mean_angle": 1.3402273305992483,
+        "max_angle": 4.327868306257624,
+        "mean_translation": 0.01777111159584931,
+        "max_translation": 0.07347952686827842
+    },
+    "7dfdff1b7d": {
+        "mean_angle": 11.190568216955974,
+        "max_angle": 88.69806906322229,
+        "mean_translation": 0.14059315559707056,
+        "max_translation": 2.2666262440518046
+    },
+    "7e09430da7": {
+        "mean_angle": 5.598975271017385,
+        "max_angle": 100.04517288589736,
+        "mean_translation": 0.0703718171121187,
+        "max_translation": 1.3965449567472812
+    },
+    "7e7d2e8640": {
+        "mean_angle": 1.2970193294625658,
+        "max_angle": 28.960716435691157,
+        "mean_translation": 0.01274504645034391,
+        "max_translation": 0.4804892220746989
+    },
+    "7eac902fd5": {
+        "mean_angle": 8.042166779941459,
+        "max_angle": 154.02766838032358,
+        "mean_translation": 0.05206607439861493,
+        "max_translation": 1.0811296920554068
+    },
+    "7ed0e10b52": {
+        "mean_angle": 2.0983521076175347,
+        "max_angle": 73.52837688171246,
+        "mean_translation": 0.013240325711595965,
+        "max_translation": 0.47786135232981
+    },
+    "7efa3f6b1b": {
+        "mean_angle": 0.8009013024253314,
+        "max_angle": 139.49216357136407,
+        "mean_translation": 0.009803047484133446,
+        "max_translation": 1.4709484766874013
+    },
+    "7f22d5ef1b": {
+        "mean_angle": 2.6416576957137314,
+        "max_angle": 22.848124427838542,
+        "mean_translation": 0.015722819576237064,
+        "max_translation": 0.6342806211922913
+    },
+    "7f4d173c9c": {
+        "mean_angle": 2.777153459152259,
+        "max_angle": 179.05551106803713,
+        "mean_translation": 0.038536019969961796,
+        "max_translation": 3.3079825125690983
+    },
+    "7f77abce34": {
+        "mean_angle": 26.66541359149264,
+        "max_angle": 172.53600639235708,
+        "mean_translation": 0.23878718342940605,
+        "max_translation": 1.891822467164417
+    },
+    "7f97f24691": {
+        "mean_angle": 1.335911225144119,
+        "max_angle": 62.825028173816165,
+        "mean_translation": 0.012796280729128369,
+        "max_translation": 0.22074564022704002
+    },
+    "7fb8ff20e9": {
+        "mean_angle": 3.051138406591654,
+        "max_angle": 6.273179797199939,
+        "mean_translation": 0.024751938519340367,
+        "max_translation": 0.07068927945041595
+    },
+    "7ffc86edf4": {
+        "mean_angle": 8.215012431791541,
+        "max_angle": 179.137703708362,
+        "mean_translation": 0.0760048497691265,
+        "max_translation": 3.697523386724172
+    },
+    "8013901416": {
+        "mean_angle": 1.412120822195237,
+        "max_angle": 145.2714023364188,
+        "mean_translation": 0.021589672917672054,
+        "max_translation": 2.377259160102793
+    },
+    "80ffca8a48": {
+        "mean_angle": 10.978308771174873,
+        "max_angle": 128.3404272825204,
+        "mean_translation": 0.12131216461750033,
+        "max_translation": 3.135024430984689
+    },
+    "8133208cb6": {
+        "mean_angle": 6.9258788438233285,
+        "max_angle": 152.9063509178207,
+        "mean_translation": 0.05442455713284136,
+        "max_translation": 3.4690723385886133
+    },
+    "816e996553": {
+        "mean_angle": 7.65273218061372,
+        "max_angle": 177.21195240601241,
+        "mean_translation": 0.0868729528599817,
+        "max_translation": 5.773271468767668
+    },
+    "81a82c3618": {
+        "mean_angle": 2.0669128818975118,
+        "max_angle": 150.37519241110172,
+        "mean_translation": 0.01269961067916422,
+        "max_translation": 0.9153454788575743
+    },
+    "824d9cfa6e": {
+        "mean_angle": 11.161475599611622,
+        "max_angle": 178.40032229102104,
+        "mean_translation": 0.10993074582981828,
+        "max_translation": 2.9995140167342913
+    },
+    "8254184bfc": {
+        "mean_angle": 5.248400542971253,
+        "max_angle": 132.81385769237664,
+        "mean_translation": 0.05909550209922138,
+        "max_translation": 1.3575981030253745
+    },
+    "825d228aec": {
+        "mean_angle": 2.446838724776753,
+        "max_angle": 82.82528787410905,
+        "mean_translation": 0.01850280073284629,
+        "max_translation": 0.7194749485319547
+    },
+    "82bf847c8b": {
+        "mean_angle": 4.070917699021412,
+        "max_angle": 22.455994088299608,
+        "mean_translation": 0.016232662240341998,
+        "max_translation": 0.14992966808856537
+    },
+    "82f448db76": {
+        "mean_angle": 4.464226798310861,
+        "max_angle": 16.486120418850696,
+        "mean_translation": 0.018863073320011,
+        "max_translation": 0.05717896276750856
+    },
+    "82ff39b7ef": {
+        "mean_angle": 4.121644236691319,
+        "max_angle": 160.6629842438905,
+        "mean_translation": 0.04674663594601021,
+        "max_translation": 1.9453968822262655
+    },
+    "836363121f": {
+        "mean_angle": 3.0508961970500983,
+        "max_angle": 8.915412772872257,
+        "mean_translation": 0.023924461149202856,
+        "max_translation": 0.07557740234622738
+    },
+    "84d71cada6": {
+        "mean_angle": 0.9314392675961715,
+        "max_angle": 25.94517126013896,
+        "mean_translation": 0.009244731223493821,
+        "max_translation": 0.3578672494501316
+    },
+    "85251de7d1": {
+        "mean_angle": 11.993145014562845,
+        "max_angle": 179.47388487181468,
+        "mean_translation": 0.08877423858727918,
+        "max_translation": 1.640320288700676
+    },
+    "85dc2702b7": {
+        "mean_angle": 4.863584513949922,
+        "max_angle": 9.763760689034095,
+        "mean_translation": 0.02125312418330629,
+        "max_translation": 0.07544387130139199
+    },
+    "867d97cf3d": {
+        "mean_angle": 1.2802753624813321,
+        "max_angle": 157.24325713029413,
+        "mean_translation": 0.016056756076561554,
+        "max_translation": 4.126672576404972
+    },
+    "871efc90fa": {
+        "mean_angle": 1.4553564586664876,
+        "max_angle": 149.1781819962986,
+        "mean_translation": 0.01882147190465537,
+        "max_translation": 4.193836058957906
+    },
+    "872268d1bf": {
+        "mean_angle": 1.0760036285991368,
+        "max_angle": 178.48834494099034,
+        "mean_translation": 0.012257453696921196,
+        "max_translation": 2.2298801335282734
+    },
+    "8737a0d1ad": {
+        "mean_angle": 3.0406510017487633,
+        "max_angle": 83.81699602830169,
+        "mean_translation": 0.03244797495015068,
+        "max_translation": 3.443715893484364
+    },
+    "87957b7c0b": {
+        "mean_angle": 2.772158230703328,
+        "max_angle": 176.27686568396695,
+        "mean_translation": 0.029357505838961215,
+        "max_translation": 2.7655043540725295
+    },
+    "87f6d7d564": {
+        "mean_angle": 16.16443304329004,
+        "max_angle": 177.2800084475062,
+        "mean_translation": 0.19512978569516656,
+        "max_translation": 2.452441704158082
+    },
+    "88627b561e": {
+        "mean_angle": 7.3264362733295645,
+        "max_angle": 176.02903341619188,
+        "mean_translation": 0.1198122423240829,
+        "max_translation": 7.904377384262631
+    },
+    "8890d0a267": {
+        "mean_angle": 6.4434892039100555,
+        "max_angle": 178.70502320366225,
+        "mean_translation": 0.0561339159644428,
+        "max_translation": 2.3160225698845593
+    },
+    "88cf747085": {
+        "mean_angle": 13.66213343226331,
+        "max_angle": 142.72445050323466,
+        "mean_translation": 0.10823091018129032,
+        "max_translation": 0.8563467336601537
+    },
+    "88f265fe25": {
+        "mean_angle": 8.011278371507187,
+        "max_angle": 157.18126038889616,
+        "mean_translation": 0.11240242639195276,
+        "max_translation": 2.985621945777136
+    },
+    "891865308a": {
+        "mean_angle": 2.0792732061836827,
+        "max_angle": 22.257786680802436,
+        "mean_translation": 0.014322157374698982,
+        "max_translation": 0.25556305786869166
+    },
+    "89214f3ca0": {
+        "mean_angle": 1.6336742057729727,
+        "max_angle": 15.83738174137307,
+        "mean_translation": 0.02550064990868877,
+        "max_translation": 0.3241090968360304
+    },
+    "893fb90e89": {
+        "mean_angle": 8.965396746588539,
+        "max_angle": 147.7864361431357,
+        "mean_translation": 0.11758564444698505,
+        "max_translation": 0.8286531395672533
+    },
+    "894dbd41f1": {
+        "mean_angle": 4.573062102232068,
+        "max_angle": 130.56408135439136,
+        "mean_translation": 0.04677614958228745,
+        "max_translation": 2.8286829659949664
+    },
+    "898a7dfd0c": {
+        "mean_angle": 1.6612079409792462,
+        "max_angle": 6.837081269156304,
+        "mean_translation": 0.026467988722003514,
+        "max_translation": 0.0739287235075859
+    },
+    "8a20d62ac0": {
+        "mean_angle": 1.676781795510133,
+        "max_angle": 176.83524831886956,
+        "mean_translation": 0.02485279557999223,
+        "max_translation": 2.316087710445653
+    },
+    "8a35ef3cfe": {
+        "mean_angle": 11.532132601568865,
+        "max_angle": 169.05501635798691,
+        "mean_translation": 0.13151150083220672,
+        "max_translation": 2.1024387280263435
+    },
+    "8a87c2ed7d": {
+        "mean_angle": 2.4416385822089035,
+        "max_angle": 40.33330286682598,
+        "mean_translation": 0.018130939648717613,
+        "max_translation": 0.3652627851493578
+    },
+    "8b2c0938d6": {
+        "mean_angle": 8.259317290209422,
+        "max_angle": 165.3408637621074,
+        "mean_translation": 0.07922768038754885,
+        "max_translation": 1.055866416013538
+    },
+    "8b5caf3398": {
+        "mean_angle": 10.605813329354254,
+        "max_angle": 29.034369306413875,
+        "mean_translation": 0.12227121164600263,
+        "max_translation": 0.319606024614157
+    },
+    "8bafc0c9d6": {
+        "mean_angle": 1.3700963782002051,
+        "max_angle": 14.257265772890834,
+        "mean_translation": 0.007805838470116355,
+        "max_translation": 0.07124844358818684
+    },
+    "8be0cd3817": {
+        "mean_angle": 6.392194459945527,
+        "max_angle": 122.70463325647815,
+        "mean_translation": 0.07592466028615338,
+        "max_translation": 1.6247374898153404
+    },
+    "8c3169b088": {
+        "mean_angle": 5.314052116947353,
+        "max_angle": 13.561764702929723,
+        "mean_translation": 0.02617223300539694,
+        "max_translation": 0.06740817231494257
+    },
+    "8d0f714398": {
+        "mean_angle": 0.6108457018985032,
+        "max_angle": 14.118789387645853,
+        "mean_translation": 0.005912649422606047,
+        "max_translation": 0.08728395468863195
+    },
+    "8d563fc2cc": {
+        "mean_angle": 14.250023447380665,
+        "max_angle": 126.4595461614069,
+        "mean_translation": 0.15743717594105458,
+        "max_translation": 1.0358131654556653
+    },
+    "8d82d0dac0": {
+        "mean_angle": 3.34823003135005,
+        "max_angle": 160.29016348395442,
+        "mean_translation": 0.045842622976869994,
+        "max_translation": 4.272108001748139
+    },
+    "8de35c04a3": {
+        "mean_angle": 3.749752613332493,
+        "max_angle": 23.546027002778214,
+        "mean_translation": 0.019836028096807196,
+        "max_translation": 0.2993523244738115
+    },
+    "8e00ac7f59": {
+        "mean_angle": 7.139543472578729,
+        "max_angle": 168.35808228208288,
+        "mean_translation": 0.06802222498510051,
+        "max_translation": 1.62156831980557
+    },
+    "8e22c48c20": {
+        "mean_angle": 2.6129799983605007,
+        "max_angle": 167.13183079205083,
+        "mean_translation": 0.03628008091530944,
+        "max_translation": 4.126385774139124
+    },
+    "8e6ff28354": {
+        "mean_angle": 3.26394632308486,
+        "max_angle": 163.41994278420546,
+        "mean_translation": 0.03896607582704076,
+        "max_translation": 2.6540499791398457
+    },
+    "8ea517a2fc": {
+        "mean_angle": 2.0586517540802767,
+        "max_angle": 33.017257309963796,
+        "mean_translation": 0.019632061202282003,
+        "max_translation": 0.4602265638463793
+    },
+    "8f82c394d6": {
+        "mean_angle": 4.522508610800219,
+        "max_angle": 131.22583625007042,
+        "mean_translation": 0.049741789138744046,
+        "max_translation": 1.6237828084226074
+    },
+    "8fc40ba77b": {
+        "mean_angle": 4.140521846215749,
+        "max_angle": 132.36081714679634,
+        "mean_translation": 0.04809169247292817,
+        "max_translation": 1.4897175025939193
+    },
+    "9071e139d9": {
+        "mean_angle": 1.0691040264630094,
+        "max_angle": 15.055972448838531,
+        "mean_translation": 0.021009875646731953,
+        "max_translation": 0.31958282834256224
+    },
+    "9084d4cd97": {
+        "mean_angle": 5.9908236908541195,
+        "max_angle": 169.1771642468741,
+        "mean_translation": 0.057843158347475526,
+        "max_translation": 1.8846117079526106
+    },
+    "909a9ea5fc": {
+        "mean_angle": 2.3116107880056473,
+        "max_angle": 163.0196975574687,
+        "mean_translation": 0.015200169997668486,
+        "max_translation": 0.6558241815442897
+    },
+    "90d8e25cee": {
+        "mean_angle": 1.9910720634499417,
+        "max_angle": 31.310106413765226,
+        "mean_translation": 0.013412773353969768,
+        "max_translation": 0.13460828137984263
+    },
+    "91fc568d84": {
+        "mean_angle": 3.4561636952629127,
+        "max_angle": 148.94490846350638,
+        "mean_translation": 0.01570486556919392,
+        "max_translation": 0.641359687385004
+    },
+    "924b364b9f": {
+        "mean_angle": 1.0345458254721154,
+        "max_angle": 36.68670996158492,
+        "mean_translation": 0.009161364865050856,
+        "max_translation": 0.20348460972057902
+    },
+    "927aacd5d1": {
+        "mean_angle": 4.446312612446108,
+        "max_angle": 179.46803052853684,
+        "mean_translation": 0.05051861853502356,
+        "max_translation": 2.566058826730274
+    },
+    "928c9da20c": {
+        "mean_angle": 5.2789910555650135,
+        "max_angle": 179.85531136267343,
+        "mean_translation": 0.05118520710435569,
+        "max_translation": 8.816565045656992
+    },
+    "934599022f": {
+        "mean_angle": 5.551945146831932,
+        "max_angle": 13.291488964710183,
+        "mean_translation": 0.024918218062514413,
+        "max_translation": 0.08101767875330787
+    },
+    "9444b90aaa": {
+        "mean_angle": 0.8025512228019545,
+        "max_angle": 93.02198386879667,
+        "mean_translation": 0.00811797959137392,
+        "max_translation": 0.9833232944932209
+    },
+    "9460c8889d": {
+        "mean_angle": 3.6845875667318313,
+        "max_angle": 160.97282316275684,
+        "mean_translation": 0.0682424664881748,
+        "max_translation": 2.808366849482648
+    },
+    "9471b8d485": {
+        "mean_angle": 10.60503970193076,
+        "max_angle": 44.104313288147154,
+        "mean_translation": 0.15106911717075544,
+        "max_translation": 3.033492517729043
+    },
+    "94b1acde81": {
+        "mean_angle": 1.089880242435879,
+        "max_angle": 4.169267180149473,
+        "mean_translation": 0.010953116698585782,
+        "max_translation": 0.05953155511408139
+    },
+    "94ee15e8ba": {
+        "mean_angle": 6.630814086820133,
+        "max_angle": 108.17410790501887,
+        "mean_translation": 0.070840714057898,
+        "max_translation": 1.4930264253271757
+    },
+    "951f01c9ad": {
+        "mean_angle": 3.8584353942388856,
+        "max_angle": 141.8736115518746,
+        "mean_translation": 0.029300032110807443,
+        "max_translation": 1.2342448422783152
+    },
+    "95450f0c4e": {
+        "mean_angle": 3.4751457918507227,
+        "max_angle": 7.896353309636831,
+        "mean_translation": 0.017079787314241028,
+        "max_translation": 0.047207864101606684
+    },
+    "954633ea01": {
+        "mean_angle": 22.788887401567663,
+        "max_angle": 102.81898380402076,
+        "mean_translation": 0.18643827457229717,
+        "max_translation": 1.056891825675252
+    },
+    "956e415fb1": {
+        "mean_angle": 3.772010503634585,
+        "max_angle": 16.53913030268339,
+        "mean_translation": 0.017997319161557754,
+        "max_translation": 0.18088316900583415
+    },
+    "95748dd597": {
+        "mean_angle": 1.0678664706017322,
+        "max_angle": 80.97812286027096,
+        "mean_translation": 0.014404883188305642,
+        "max_translation": 1.3816431096064725
+    },
+    "95b9971d01": {
+        "mean_angle": 3.4110319970679344,
+        "max_angle": 54.68848062881061,
+        "mean_translation": 0.0274195508362506,
+        "max_translation": 0.4492962848059699
+    },
+    "95c9a0f535": {
+        "mean_angle": 2.8700642451358975,
+        "max_angle": 30.57021789210365,
+        "mean_translation": 0.023933205590123487,
+        "max_translation": 0.2622271107514884
+    },
+    "95d525fbfd": {
+        "mean_angle": 2.050724863752383,
+        "max_angle": 155.32351816104892,
+        "mean_translation": 0.04187972866979704,
+        "max_translation": 8.344020862284596
+    },
+    "9610a81463": {
+        "mean_angle": 2.625594586320656,
+        "max_angle": 36.81315236353929,
+        "mean_translation": 0.022348550465209477,
+        "max_translation": 0.19811787932504385
+    },
+    "961911d451": {
+        "mean_angle": 1.3686500991449315,
+        "max_angle": 4.62932769342117,
+        "mean_translation": 0.019026131455546696,
+        "max_translation": 0.0622189893248001
+    },
+    "9663292843": {
+        "mean_angle": 18.32068598980287,
+        "max_angle": 158.67320913527644,
+        "mean_translation": 0.2160688456441414,
+        "max_translation": 4.205153210605142
+    },
+    "967d2a847a": {
+        "mean_angle": 2.2493115582190466,
+        "max_angle": 104.0733971678187,
+        "mean_translation": 0.026877908554190078,
+        "max_translation": 4.93414256858453
+    },
+    "96b7c379eb": {
+        "mean_angle": 3.163456650426737,
+        "max_angle": 177.83740453528134,
+        "mean_translation": 0.020171022068401982,
+        "max_translation": 1.0483991355193876
+    },
+    "979a852c94": {
+        "mean_angle": 4.538262229526539,
+        "max_angle": 127.44047104612854,
+        "mean_translation": 0.05427681223201547,
+        "max_translation": 2.657519396416533
+    },
+    "97e5512e91": {
+        "mean_angle": 2.232664039462193,
+        "max_angle": 50.3407790558187,
+        "mean_translation": 0.022669157251670593,
+        "max_translation": 3.330572861075123
+    },
+    "9816c49e97": {
+        "mean_angle": 2.406373076020844,
+        "max_angle": 17.401106407909225,
+        "mean_translation": 0.01895228521011781,
+        "max_translation": 0.21082772766331995
+    },
+    "9859de300f": {
+        "mean_angle": 1.5537827654624798,
+        "max_angle": 49.21091910872427,
+        "mean_translation": 0.01043629226790614,
+        "max_translation": 0.26613723957263663
+    },
+    "98b4ec142f": {
+        "mean_angle": 6.517399892663497,
+        "max_angle": 148.03535328052413,
+        "mean_translation": 0.08430886428477163,
+        "max_translation": 5.795051788655077
+    },
+    "98cc0b7c9a": {
+        "mean_angle": 5.024192755487199,
+        "max_angle": 156.29867648440154,
+        "mean_translation": 0.0284300618763291,
+        "max_translation": 3.4376943870738774
+    },
+    "98fe276aa8": {
+        "mean_angle": 12.178759182380793,
+        "max_angle": 54.35612967713022,
+        "mean_translation": 0.14023946986414904,
+        "max_translation": 2.8321998319741746
+    },
+    "99010a8938": {
+        "mean_angle": 1.8299582488792023,
+        "max_angle": 176.6753210130521,
+        "mean_translation": 0.02238283850103719,
+        "max_translation": 1.8750448982319459
+    },
+    "9906136b57": {
+        "mean_angle": 1.1232412754633758,
+        "max_angle": 39.56357381776632,
+        "mean_translation": 0.010105456936525705,
+        "max_translation": 1.0748528812638345
+    },
+    "992cd74f2c": {
+        "mean_angle": 0.9695311865458636,
+        "max_angle": 148.7514470444012,
+        "mean_translation": 0.011313400080924527,
+        "max_translation": 2.436049972300371
+    },
+    "99532296c7": {
+        "mean_angle": 1.992919638660428,
+        "max_angle": 175.82528277511886,
+        "mean_translation": 0.03341283026229248,
+        "max_translation": 7.86267444428284
+    },
+    "99a2503d63": {
+        "mean_angle": 4.2863991606435325,
+        "max_angle": 165.5181584853582,
+        "mean_translation": 0.03686678520841,
+        "max_translation": 0.7888025176805575
+    },
+    "99eae0b1f8": {
+        "mean_angle": 2.251793896210832,
+        "max_angle": 177.91632176235623,
+        "mean_translation": 0.03393102381444117,
+        "max_translation": 2.003556246767733
+    },
+    "99fa5c25e1": {
+        "mean_angle": 8.17862211257238,
+        "max_angle": 32.3787928216402,
+        "mean_translation": 0.0942269395089996,
+        "max_translation": 0.38278970148422353
+    },
+    "9ad3639fbe": {
+        "mean_angle": 3.527340366567066,
+        "max_angle": 12.5139951304148,
+        "mean_translation": 0.02291221948920014,
+        "max_translation": 0.06719238430747475
+    },
+    "9b74afd2d2": {
+        "mean_angle": 1.552826390603583,
+        "max_angle": 7.187516042329983,
+        "mean_translation": 0.019021681329486152,
+        "max_translation": 0.09995115621204034
+    },
+    "9bfbc75700": {
+        "mean_angle": 2.22610758485638,
+        "max_angle": 11.456297660638464,
+        "mean_translation": 0.017577861960360097,
+        "max_translation": 0.06796287872116905
+    },
+    "9cfea269dd": {
+        "mean_angle": 0.8270159052554834,
+        "max_angle": 161.4966489216045,
+        "mean_translation": 0.008357667972527242,
+        "max_translation": 1.1481774361010937
+    },
+    "9d7e20fbec": {
+        "mean_angle": 3.1910595942781232,
+        "max_angle": 91.83608709164812,
+        "mean_translation": 0.027111384190783502,
+        "max_translation": 1.3265711870897798
+    },
+    "9d8fc94966": {
+        "mean_angle": 1.287213721476145,
+        "max_angle": 4.549558060985917,
+        "mean_translation": 0.009889210648956771,
+        "max_translation": 0.03521711573097408
+    },
+    "9d8fcc4215": {
+        "mean_angle": 4.072302914652203,
+        "max_angle": 135.12648883302077,
+        "mean_translation": 0.02482201346824619,
+        "max_translation": 4.069700225659809
+    },
+    "9dc5ad040f": {
+        "mean_angle": 3.5769319907598978,
+        "max_angle": 177.48196023185153,
+        "mean_translation": 0.03289918717363754,
+        "max_translation": 2.67539558535336
+    },
+    "9e9d017ad1": {
+        "mean_angle": 3.661244519370016,
+        "max_angle": 101.587654502187,
+        "mean_translation": 0.032713778365034384,
+        "max_translation": 1.5837169897158525
+    },
+    "9ed27ac522": {
+        "mean_angle": 1.6156678607773751,
+        "max_angle": 6.840592835119779,
+        "mean_translation": 0.012486128854380213,
+        "max_translation": 0.060804069431051
+    },
+    "9ee1527aa6": {
+        "mean_angle": 4.448569726688181,
+        "max_angle": 9.200520788955181,
+        "mean_translation": 0.03254960900097463,
+        "max_translation": 0.09109675537687512
+    },
+    "9ef704a38d": {
+        "mean_angle": 2.3498097290230957,
+        "max_angle": 5.787281976880884,
+        "mean_translation": 0.01926417646446095,
+        "max_translation": 0.05465297412821605
+    },
+    "9f139a318d": {
+        "mean_angle": 6.18432212872652,
+        "max_angle": 178.04649074054717,
+        "mean_translation": 0.08032285658776003,
+        "max_translation": 3.0492788712801646
+    },
+    "9f21bdec45": {
+        "mean_angle": 2.5153849267425206,
+        "max_angle": 138.1974914542042,
+        "mean_translation": 0.0168582256351256,
+        "max_translation": 1.6408142259319551
+    },
+    "9f7641ce94": {
+        "mean_angle": 11.581201424462078,
+        "max_angle": 171.8431424432918,
+        "mean_translation": 0.07384105334741037,
+        "max_translation": 1.162992545362607
+    },
+    "9f79564dbf": {
+        "mean_angle": 6.6220427031009566,
+        "max_angle": 98.61157539144934,
+        "mean_translation": 0.09715232888627619,
+        "max_translation": 2.874892331404366
+    },
+    "a003a6585e": {
+        "mean_angle": 2.832320450074696,
+        "max_angle": 172.217210277897,
+        "mean_translation": 0.030295595019701946,
+        "max_translation": 2.297809615871299
+    },
+    "a05ee63164": {
+        "mean_angle": 4.909810370745183,
+        "max_angle": 161.36299912112295,
+        "mean_translation": 0.05626465625472684,
+        "max_translation": 1.6930732631340266
+    },
+    "a08d9a2476": {
+        "mean_angle": 4.609505575003944,
+        "max_angle": 178.28219023227214,
+        "mean_translation": 0.03532598797199706,
+        "max_translation": 3.1191358284001787
+    },
+    "a08dda47a8": {
+        "mean_angle": 17.479241809580966,
+        "max_angle": 178.86841083807454,
+        "mean_translation": 0.22682284657794513,
+        "max_translation": 4.091420502495771
+    },
+    "a16208dde3": {
+        "mean_angle": 3.3080216923127006,
+        "max_angle": 40.50642473783858,
+        "mean_translation": 0.023944043871525964,
+        "max_translation": 0.36247088703254515
+    },
+    "a1d9da703c": {
+        "mean_angle": 16.389203429161565,
+        "max_angle": 139.4143525973042,
+        "mean_translation": 0.23014362789412202,
+        "max_translation": 3.0944479591291683
+    },
+    "a23f391ba9": {
+        "mean_angle": 4.9151164456280485,
+        "max_angle": 171.31587390106483,
+        "mean_translation": 0.057670603539388327,
+        "max_translation": 6.706903135199787
+    },
+    "a24858e51e": {
+        "mean_angle": 16.559725654854375,
+        "max_angle": 165.27853696558012,
+        "mean_translation": 0.18508372827586023,
+        "max_translation": 2.000841253550928
+    },
+    "a24f64f7fb": {
+        "mean_angle": 1.832126523622962,
+        "max_angle": 5.253217783154572,
+        "mean_translation": 0.025344210996076012,
+        "max_translation": 0.14472322757631395
+    },
+    "a29cccc784": {
+        "mean_angle": 7.8329949085424975,
+        "max_angle": 172.18370859936647,
+        "mean_translation": 0.09123647200772197,
+        "max_translation": 3.9721870669872117
+    },
+    "a30646cae6": {
+        "mean_angle": 3.416333475828627,
+        "max_angle": 23.724829163525122,
+        "mean_translation": 0.029449104535117714,
+        "max_translation": 0.18494396267953514
+    },
+    "a30b666f83": {
+        "mean_angle": 1.1954408515709665,
+        "max_angle": 109.192846165332,
+        "mean_translation": 0.014874198471107969,
+        "max_translation": 0.973384240582089
+    },
+    "a31b2ef388": {
+        "mean_angle": 2.4049032403223984,
+        "max_angle": 154.84039701153498,
+        "mean_translation": 0.013882023992520223,
+        "max_translation": 0.5564324579237122
+    },
+    "a492fe77aa": {
+        "mean_angle": 1.6049832688152035,
+        "max_angle": 177.30968612675275,
+        "mean_translation": 0.02546171457560744,
+        "max_translation": 6.4860418674841585
+    },
+    "a4c043ac48": {
+        "mean_angle": 5.588305500178099,
+        "max_angle": 127.73683818027482,
+        "mean_translation": 0.043716741832358214,
+        "max_translation": 1.7570034321744272
+    },
+    "a4d48ea6b3": {
+        "mean_angle": 1.4017350568220948,
+        "max_angle": 3.8289010917417032,
+        "mean_translation": 0.014335262115377188,
+        "max_translation": 0.09075432919126053
+    },
+    "a4e227f506": {
+        "mean_angle": 1.6290139230733023,
+        "max_angle": 7.104789186743361,
+        "mean_translation": 0.019668273228145516,
+        "max_translation": 0.06142279983238176
+    },
+    "a4f10da05d": {
+        "mean_angle": 1.1290877450997223,
+        "max_angle": 176.16712474907038,
+        "mean_translation": 0.012042290699090012,
+        "max_translation": 2.274714465651452
+    },
+    "a5114ca13d": {
+        "mean_angle": 5.275933585654968,
+        "max_angle": 113.0039765482847,
+        "mean_translation": 0.05416527340624909,
+        "max_translation": 1.9906974282132053
+    },
+    "a56eda3549": {
+        "mean_angle": 2.2173384532603038,
+        "max_angle": 7.156656266733408,
+        "mean_translation": 0.054633571775566124,
+        "max_translation": 0.13208857029694396
+    },
+    "a5859cfd40": {
+        "mean_angle": 4.679638223501272,
+        "max_angle": 12.375155568282455,
+        "mean_translation": 0.029020150956041824,
+        "max_translation": 0.16090809374043244
+    },
+    "a5dc38bf22": {
+        "mean_angle": 4.204113643302576,
+        "max_angle": 178.33913919811957,
+        "mean_translation": 0.03833087799801524,
+        "max_translation": 2.4195098496304728
+    },
+    "a66af39cef": {
+        "mean_angle": 4.853108218608885,
+        "max_angle": 164.41960155674647,
+        "mean_translation": 0.038056914738328285,
+        "max_translation": 1.8760840451299226
+    },
+    "a6e1a3bdda": {
+        "mean_angle": 5.0082230215669,
+        "max_angle": 150.46785933557874,
+        "mean_translation": 0.035237515803424733,
+        "max_translation": 1.4979431144711932
+    },
+    "a72f31d6a6": {
+        "mean_angle": 2.34665019803647,
+        "max_angle": 174.80918342571383,
+        "mean_translation": 0.01985924421784078,
+        "max_translation": 1.7517131734285913
+    },
+    "a7631adbe7": {
+        "mean_angle": 2.879940472170937,
+        "max_angle": 171.1742948824142,
+        "mean_translation": 0.037694427609353494,
+        "max_translation": 4.25443789638056
+    },
+    "a766294249": {
+        "mean_angle": 4.713100291982167,
+        "max_angle": 10.576557926861641,
+        "mean_translation": 0.020243185369424186,
+        "max_translation": 0.07552409742403153
+    },
+    "a892730b61": {
+        "mean_angle": 2.6028155142947837,
+        "max_angle": 101.92337133256402,
+        "mean_translation": 0.02737854188926926,
+        "max_translation": 3.3316002568125413
+    },
+    "a897272241": {
+        "mean_angle": 18.77080553209877,
+        "max_angle": 170.7019264127706,
+        "mean_translation": 0.2702484130802572,
+        "max_translation": 4.720253111297587
+    },
+    "a8bf42d646": {
+        "mean_angle": 10.605609291132641,
+        "max_angle": 158.42191785611135,
+        "mean_translation": 0.13772892356078176,
+        "max_translation": 1.7449322976258774
+    },
+    "a8f7f66985": {
+        "mean_angle": 4.494673620392917,
+        "max_angle": 11.286735975694292,
+        "mean_translation": 0.03283328745675225,
+        "max_translation": 0.07530813771661925
+    },
+    "a980334473": {
+        "mean_angle": 2.059991999697002,
+        "max_angle": 85.30881879191169,
+        "mean_translation": 0.019966239320721002,
+        "max_translation": 1.1465138256410896
+    },
+    "a9e4791c7e": {
+        "mean_angle": 4.217893788322253,
+        "max_angle": 137.9925673856673,
+        "mean_translation": 0.03399994404515447,
+        "max_translation": 1.3182288951167256
+    },
+    "aa6e508f0c": {
+        "mean_angle": 7.5941223335398504,
+        "max_angle": 156.35013105468667,
+        "mean_translation": 0.07224292331438034,
+        "max_translation": 1.1208154213898207
+    },
+    "aa852f7871": {
+        "mean_angle": 2.7249946687020112,
+        "max_angle": 173.04866232172736,
+        "mean_translation": 0.038899294174290874,
+        "max_translation": 3.2173102221442718
+    },
+    "aaa11940d3": {
+        "mean_angle": 14.246919157550211,
+        "max_angle": 133.02631940809331,
+        "mean_translation": 0.1616365962892839,
+        "max_translation": 1.213708641509716
+    },
+    "aaa9c251de": {
+        "mean_angle": 0.7918878766117551,
+        "max_angle": 98.15723908732285,
+        "mean_translation": 0.009617170328299124,
+        "max_translation": 2.2825640193495085
+    },
+    "aab83fd6f1": {
+        "mean_angle": 1.09370881099972,
+        "max_angle": 136.8699686044348,
+        "mean_translation": 0.014255184206680559,
+        "max_translation": 2.3782822714727416
+    },
+    "aad55d46ad": {
+        "mean_angle": 3.499022435222165,
+        "max_angle": 170.7053683182634,
+        "mean_translation": 0.029508405171576185,
+        "max_translation": 1.370084115319773
+    },
+    "ab046f8faf": {
+        "mean_angle": 10.886188910493235,
+        "max_angle": 128.3838501550576,
+        "mean_translation": 0.11563679741491914,
+        "max_translation": 1.3937949991763554
+    },
+    "ab11145646": {
+        "mean_angle": 4.109608396821614,
+        "max_angle": 156.41166565742884,
+        "mean_translation": 0.04569101332175492,
+        "max_translation": 4.282692594036109
+    },
+    "ab252b28c0": {
+        "mean_angle": 5.811323063707471,
+        "max_angle": 15.113236677478845,
+        "mean_translation": 0.09273102102791714,
+        "max_translation": 0.8243773745510699
+    },
+    "ab4f373966": {
+        "mean_angle": 3.759743143238746,
+        "max_angle": 112.9075349811239,
+        "mean_translation": 0.021609431591954373,
+        "max_translation": 0.3973408729900037
+    },
+    "ab61802aec": {
+        "mean_angle": 1.4701416804893612,
+        "max_angle": 124.10663224523672,
+        "mean_translation": 0.013441782507942476,
+        "max_translation": 1.4249629878277164
+    },
+    "ab6983ae6c": {
+        "mean_angle": 7.776905806206126,
+        "max_angle": 149.25082595128924,
+        "mean_translation": 0.09087870904401316,
+        "max_translation": 1.3025950284482954
+    },
+    "abb6639ceb": {
+        "mean_angle": 4.722153729476508,
+        "max_angle": 162.26877020419911,
+        "mean_translation": 0.03965599904499337,
+        "max_translation": 1.4875378521410045
+    },
+    "abdb2a6169": {
+        "mean_angle": 4.850928974175408,
+        "max_angle": 156.24796740363752,
+        "mean_translation": 0.030488788239550785,
+        "max_translation": 3.43425911290779
+    },
+    "abf29d2474": {
+        "mean_angle": 4.993047112214249,
+        "max_angle": 178.15778069579633,
+        "mean_translation": 0.03954182525296787,
+        "max_translation": 6.352077978374192
+    },
+    "ac250f0ead": {
+        "mean_angle": 7.350703171652641,
+        "max_angle": 178.53869149834415,
+        "mean_translation": 0.06331944844873454,
+        "max_translation": 1.5074724351838846
+    },
+    "ac48a9b736": {
+        "mean_angle": 13.201844224377421,
+        "max_angle": 179.3073249168287,
+        "mean_translation": 0.26564320736124064,
+        "max_translation": 9.332472602016358
+    },
+    "ac650ac94e": {
+        "mean_angle": 1.3259757021310257,
+        "max_angle": 2.7972796065490693,
+        "mean_translation": 0.008690437743277659,
+        "max_translation": 0.023804612795971805
+    },
+    "ac78eb8124": {
+        "mean_angle": 3.568745737428064,
+        "max_angle": 172.86121965448572,
+        "mean_translation": 0.07336446481943186,
+        "max_translation": 9.646288628324484
+    },
+    "acc5c94ec9": {
+        "mean_angle": 3.913171535693832,
+        "max_angle": 106.23229527215481,
+        "mean_translation": 0.07138888364459586,
+        "max_translation": 1.5958372388902076
+    },
+    "accad58571": {
+        "mean_angle": 9.318087309625493,
+        "max_angle": 132.16469168078027,
+        "mean_translation": 0.1326754285146934,
+        "max_translation": 1.9373731409792343
+    },
+    "acd69a1746": {
+        "mean_angle": 8.723998568299246,
+        "max_angle": 157.00924498100284,
+        "mean_translation": 0.07855853758216398,
+        "max_translation": 2.82491853013726
+    },
+    "acd95847c5": {
+        "mean_angle": 3.2220583471403788,
+        "max_angle": 178.79783081714606,
+        "mean_translation": 0.04097098944717335,
+        "max_translation": 3.7181351610264013
+    },
+    "ad039341f9": {
+        "mean_angle": 5.213625345611181,
+        "max_angle": 176.73564933759334,
+        "mean_translation": 0.03949421980266499,
+        "max_translation": 2.033283574541439
+    },
+    "ad2d07fd11": {
+        "mean_angle": 7.32406961654392,
+        "max_angle": 128.8258144316961,
+        "mean_translation": 0.09050699599842027,
+        "max_translation": 1.7476761273517656
+    },
+    "ad562ce09b": {
+        "mean_angle": 1.8166903419679823,
+        "max_angle": 6.845924733285217,
+        "mean_translation": 0.014736726752898196,
+        "max_translation": 0.2088262791997585
+    },
+    "ada5304e41": {
+        "mean_angle": 10.156429156183487,
+        "max_angle": 34.50720479531005,
+        "mean_translation": 0.09231517012152865,
+        "max_translation": 1.001917291320933
+    },
+    "adf4ab4a53": {
+        "mean_angle": 4.043317823350362,
+        "max_angle": 97.06011278517587,
+        "mean_translation": 0.02084460792557245,
+        "max_translation": 0.23870197504089385
+    },
+    "aea84db0de": {
+        "mean_angle": 4.149467156212563,
+        "max_angle": 165.30655686360203,
+        "mean_translation": 0.054731465899279755,
+        "max_translation": 3.0051340520600682
+    },
+    "aee88e3a93": {
+        "mean_angle": 5.740313372996507,
+        "max_angle": 171.23555542598885,
+        "mean_translation": 0.09677658139952136,
+        "max_translation": 2.733344282721365
+    },
+    "af112b8903": {
+        "mean_angle": 7.074360298930999,
+        "max_angle": 138.8472336493577,
+        "mean_translation": 0.11865047689317189,
+        "max_translation": 2.1444912990122367
+    },
+    "afd049e07c": {
+        "mean_angle": 3.7693582017630702,
+        "max_angle": 10.549613732270483,
+        "mean_translation": 0.025763516502085568,
+        "max_translation": 0.08394327736076505
+    },
+    "b068706ef0": {
+        "mean_angle": 5.813294208413869,
+        "max_angle": 165.57439379898912,
+        "mean_translation": 0.03780100501823331,
+        "max_translation": 2.426838709917639
+    },
+    "b08a908f0f": {
+        "mean_angle": 2.148021485679519,
+        "max_angle": 138.37636697295505,
+        "mean_translation": 0.019961020656917013,
+        "max_translation": 1.0960600882429872
+    },
+    "b09431c547": {
+        "mean_angle": 10.457546589081167,
+        "max_angle": 150.23192828693288,
+        "mean_translation": 0.06634074076405354,
+        "max_translation": 0.9778864490476187
+    },
+    "b09b119466": {
+        "mean_angle": 2.338608736163841,
+        "max_angle": 156.25136731623854,
+        "mean_translation": 0.021883994703055226,
+        "max_translation": 1.062932179635005
+    },
+    "b0a08200c9": {
+        "mean_angle": 11.84538904755284,
+        "max_angle": 171.49235768464396,
+        "mean_translation": 0.11937725027212091,
+        "max_translation": 1.9995987855851627
+    },
+    "b0a6530a30": {
+        "mean_angle": 1.814110314671095,
+        "max_angle": 176.84083370463924,
+        "mean_translation": 0.024853643939594033,
+        "max_translation": 2.8207095351424516
+    },
+    "b0b004c40f": {
+        "mean_angle": 3.066363908264998,
+        "max_angle": 170.90943769235463,
+        "mean_translation": 0.03229932947984849,
+        "max_translation": 2.79457740703788
+    },
+    "b0f057c684": {
+        "mean_angle": 1.6454513336748504,
+        "max_angle": 18.228077571540656,
+        "mean_translation": 0.012225847067600286,
+        "max_translation": 0.37969194644519794
+    },
+    "b0fe0c610f": {
+        "mean_angle": 2.0276131378584363,
+        "max_angle": 85.49722295175675,
+        "mean_translation": 0.014448491921470208,
+        "max_translation": 0.473233366525049
+    },
+    "b119249da7": {
+        "mean_angle": 5.292830187839058,
+        "max_angle": 173.2368092601612,
+        "mean_translation": 0.042019164081585715,
+        "max_translation": 2.639104666784892
+    },
+    "b1d75ecd55": {
+        "mean_angle": 7.202625799990252,
+        "max_angle": 174.5621628712414,
+        "mean_translation": 0.07925441042767858,
+        "max_translation": 1.7290118344658023
+    },
+    "b20a261fdf": {
+        "mean_angle": 9.88194864850766,
+        "max_angle": 32.20571804051653,
+        "mean_translation": 0.09923861387809253,
+        "max_translation": 1.420334537640825
+    },
+    "b24697b3a1": {
+        "mean_angle": 2.896169757423883,
+        "max_angle": 176.26707307663486,
+        "mean_translation": 0.04974235020349187,
+        "max_translation": 4.489891026366565
+    },
+    "b2632b738a": {
+        "mean_angle": 0.7876335726179823,
+        "max_angle": 139.45547782555525,
+        "mean_translation": 0.0073585807846045315,
+        "max_translation": 1.016237521536627
+    },
+    "b26e64c4b0": {
+        "mean_angle": 2.3194633425847835,
+        "max_angle": 82.91662332227044,
+        "mean_translation": 0.03451579380896839,
+        "max_translation": 1.2075810861731728
+    },
+    "b37177e6c8": {
+        "mean_angle": 6.903470845085251,
+        "max_angle": 143.4180888579858,
+        "mean_translation": 0.07166142692736067,
+        "max_translation": 2.9069096864048065
+    },
+    "b37c033757": {
+        "mean_angle": 10.319487393066876,
+        "max_angle": 172.92082797919372,
+        "mean_translation": 0.2084270080871851,
+        "max_translation": 7.656835069503743
+    },
+    "b3ac0beef0": {
+        "mean_angle": 3.6042562990992675,
+        "max_angle": 176.4580146572095,
+        "mean_translation": 0.03223334887684942,
+        "max_translation": 3.074741561896526
+    },
+    "b4b39438f0": {
+        "mean_angle": 11.986185239255777,
+        "max_angle": 139.6511286686553,
+        "mean_translation": 0.1525460597268858,
+        "max_translation": 2.633412950088276
+    },
+    "b5918e4637": {
+        "mean_angle": 2.649293037348925,
+        "max_angle": 112.18858226573934,
+        "mean_translation": 0.030716107389866642,
+        "max_translation": 2.0662469500254477
+    },
+    "b6d73041c8": {
+        "mean_angle": 4.613881491791462,
+        "max_angle": 10.191517036822274,
+        "mean_translation": 0.022512202034022166,
+        "max_translation": 0.07146679572551981
+    },
+    "b73f5cdc41": {
+        "mean_angle": 7.051555101642051,
+        "max_angle": 59.65134518328835,
+        "mean_translation": 0.10054474714527492,
+        "max_translation": 0.7090145066008902
+    },
+    "b8d441d736": {
+        "mean_angle": 2.379907653818021,
+        "max_angle": 6.010539381856443,
+        "mean_translation": 0.020286562102540373,
+        "max_translation": 0.06388239541103023
+    },
+    "b97261909e": {
+        "mean_angle": 5.612841990454942,
+        "max_angle": 77.57019527014096,
+        "mean_translation": 0.055525750079986176,
+        "max_translation": 1.5244475845076024
+    },
+    "ba3f266e19": {
+        "mean_angle": 4.290639198916006,
+        "max_angle": 166.189449015099,
+        "mean_translation": 0.04580780867561382,
+        "max_translation": 1.702479027850446
+    },
+    "ba414a3e6f": {
+        "mean_angle": 8.751401629856593,
+        "max_angle": 103.74995907761783,
+        "mean_translation": 0.10702546797521127,
+        "max_translation": 2.500409822383783
+    },
+    "ba89245cfd": {
+        "mean_angle": 4.446897943509631,
+        "max_angle": 10.061548115395704,
+        "mean_translation": 0.01881696797829929,
+        "max_translation": 0.06433778954613677
+    },
+    "ba8e2bce5d": {
+        "mean_angle": 5.516699652933546,
+        "max_angle": 177.43825071211802,
+        "mean_translation": 0.03345216702768323,
+        "max_translation": 1.8621710657003896
+    },
+    "bac7ee3b1b": {
+        "mean_angle": 2.00732346685704,
+        "max_angle": 127.08162748833759,
+        "mean_translation": 0.02222015526661927,
+        "max_translation": 2.9562365950406724
+    },
+    "bace6b6013": {
+        "mean_angle": 2.662365669748113,
+        "max_angle": 30.215404282659456,
+        "mean_translation": 0.02301187766052991,
+        "max_translation": 0.5815810756919138
+    },
+    "bb05a0c48c": {
+        "mean_angle": 3.772866847374819,
+        "max_angle": 8.18846026176098,
+        "mean_translation": 0.019259954065259894,
+        "max_translation": 0.05574353735575951
+    },
+    "bb0ad8a081": {
+        "mean_angle": 2.782365157951803,
+        "max_angle": 42.994330901645775,
+        "mean_translation": 0.020532278478755238,
+        "max_translation": 0.26854811332344386
+    },
+    "bb87c292ad": {
+        "mean_angle": 9.854621092374973,
+        "max_angle": 175.17507004804236,
+        "mean_translation": 0.10090423662560462,
+        "max_translation": 3.530184592218423
+    },
+    "bc03d88fc3": {
+        "mean_angle": 2.5755587618011497,
+        "max_angle": 164.3750118094099,
+        "mean_translation": 0.025982243650817652,
+        "max_translation": 2.7663742405664427
+    },
+    "bc2fce1d81": {
+        "mean_angle": 14.965330782507625,
+        "max_angle": 169.58694495150107,
+        "mean_translation": 0.1822317012491981,
+        "max_translation": 3.121428187991265
+    },
+    "bc400d86e1": {
+        "mean_angle": 5.276665838305111,
+        "max_angle": 174.39658554789094,
+        "mean_translation": 0.054160227819386945,
+        "max_translation": 2.748913440531117
+    },
+    "bc94b31d5b": {
+        "mean_angle": 2.104537486262768,
+        "max_angle": 70.81390864061954,
+        "mean_translation": 0.019458024577539857,
+        "max_translation": 0.6647746238807258
+    },
+    "bcbc6e1d2d": {
+        "mean_angle": 4.736903659501042,
+        "max_angle": 9.940151741131539,
+        "mean_translation": 0.022137675429133967,
+        "max_translation": 0.07545705739538863
+    },
+    "bcd2436daf": {
+        "mean_angle": 6.866181484976829,
+        "max_angle": 108.9629619940748,
+        "mean_translation": 0.08361571411451982,
+        "max_translation": 1.2655041307920671
+    },
+    "bd7375297e": {
+        "mean_angle": 3.6341620329445337,
+        "max_angle": 171.64330723251865,
+        "mean_translation": 0.03216669839109788,
+        "max_translation": 3.6575456093746164
+    },
+    "bd9305480d": {
+        "mean_angle": 6.940343409012851,
+        "max_angle": 166.93114243763011,
+        "mean_translation": 0.048340114162973784,
+        "max_translation": 0.4785600251656237
+    },
+    "bde1e479ad": {
+        "mean_angle": 15.155556014831198,
+        "max_angle": 149.54111972489474,
+        "mean_translation": 0.23486617553636907,
+        "max_translation": 3.07891089235014
+    },
+    "be05b26a38": {
+        "mean_angle": 3.4325384938688117,
+        "max_angle": 8.588145493514975,
+        "mean_translation": 0.018917139051386127,
+        "max_translation": 0.16483491372286924
+    },
+    "be0ed6b33c": {
+        "mean_angle": 14.609165172614519,
+        "max_angle": 152.7466150529785,
+        "mean_translation": 0.11660215946404787,
+        "max_translation": 1.5538964332665695
+    },
+    "be2e10f16a": {
+        "mean_angle": 11.012971828304428,
+        "max_angle": 171.2223729655769,
+        "mean_translation": 0.109758094919887,
+        "max_translation": 1.408416088485348
+    },
+    "be6205d016": {
+        "mean_angle": 9.997388051011848,
+        "max_angle": 106.58970443390047,
+        "mean_translation": 0.0970583260009524,
+        "max_translation": 1.6668661783885972
+    },
+    "be66c57b92": {
+        "mean_angle": 7.179984149123411,
+        "max_angle": 70.72748214147248,
+        "mean_translation": 0.09036285237479451,
+        "max_translation": 2.5448729678661763
+    },
+    "be8367fcbe": {
+        "mean_angle": 1.1941548391447683,
+        "max_angle": 119.80177167458622,
+        "mean_translation": 0.017501293538785066,
+        "max_translation": 2.1690961087794505
+    },
+    "bf07750a0b": {
+        "mean_angle": 4.460869526820531,
+        "max_angle": 177.9045448226508,
+        "mean_translation": 0.022472721697550036,
+        "max_translation": 0.8117031788521237
+    },
+    "bf50f418ba": {
+        "mean_angle": 1.196132072625096,
+        "max_angle": 3.613980206785993,
+        "mean_translation": 0.008419944534709609,
+        "max_translation": 0.02564075102504726
+    },
+    "bf6e439e38": {
+        "mean_angle": 2.4937360546468614,
+        "max_angle": 84.8534652890509,
+        "mean_translation": 0.02666317459349687,
+        "max_translation": 2.5492290251032586
+    },
+    "bfcfe53c6a": {
+        "mean_angle": 6.2959461107763275,
+        "max_angle": 177.88847217207848,
+        "mean_translation": 0.069822117076172,
+        "max_translation": 5.3055795693208925
+    },
+    "bfd3fd54d2": {
+        "mean_angle": 8.317223216207758,
+        "max_angle": 25.150445673519236,
+        "mean_translation": 0.09212008849232814,
+        "max_translation": 0.2422917750920291
+    },
+    "c00b855082": {
+        "mean_angle": 2.6620559766765752,
+        "max_angle": 155.14503558021747,
+        "mean_translation": 0.030890994216950556,
+        "max_translation": 4.284195696655362
+    },
+    "c026d108e0": {
+        "mean_angle": 1.9718383848717023,
+        "max_angle": 11.0491105693724,
+        "mean_translation": 0.015560917484807318,
+        "max_translation": 0.2281371612397878
+    },
+    "c06a983e63": {
+        "mean_angle": 8.224606574562385,
+        "max_angle": 109.34640703796023,
+        "mean_translation": 0.09499739233855584,
+        "max_translation": 1.284545983132012
+    },
+    "c07c707449": {
+        "mean_angle": 6.020685106181971,
+        "max_angle": 13.358544309238535,
+        "mean_translation": 0.03059808781281362,
+        "max_translation": 0.1060514479246487
+    },
+    "c07c8a276d": {
+        "mean_angle": 1.5859867956220386,
+        "max_angle": 112.07989107395224,
+        "mean_translation": 0.018230221978503332,
+        "max_translation": 3.4892746799613255
+    },
+    "c085ff3df4": {
+        "mean_angle": 2.0091251074458727,
+        "max_angle": 169.59936365589957,
+        "mean_translation": 0.034224298298668764,
+        "max_translation": 10.264711920797652
+    },
+    "c08d1d52b7": {
+        "mean_angle": 4.473248755846883,
+        "max_angle": 179.6161210497615,
+        "mean_translation": 0.024868575949551684,
+        "max_translation": 0.857700209144226
+    },
+    "c0b3c65080": {
+        "mean_angle": 1.42091732228635,
+        "max_angle": 160.14405456231634,
+        "mean_translation": 0.017739697667332317,
+        "max_translation": 2.4858438148493582
+    },
+    "c0c863b72d": {
+        "mean_angle": 8.901047272646942,
+        "max_angle": 139.98910193449515,
+        "mean_translation": 0.0823910184045527,
+        "max_translation": 1.1712783765617267
+    },
+    "c0da8f4a4d": {
+        "mean_angle": 2.7655950971064103,
+        "max_angle": 145.01193932502602,
+        "mean_translation": 0.04648316807340761,
+        "max_translation": 5.45233431407565
+    },
+    "c0f5742640": {
+        "mean_angle": 5.220760189726234,
+        "max_angle": 62.76399314762748,
+        "mean_translation": 0.07777297764204086,
+        "max_translation": 1.0267654628028584
+    },
+    "c13c64461e": {
+        "mean_angle": 1.4431229448047176,
+        "max_angle": 55.1203469763962,
+        "mean_translation": 0.009330850878177786,
+        "max_translation": 0.2734335038169301
+    },
+    "c173f62b15": {
+        "mean_angle": 9.951726571995897,
+        "max_angle": 101.98318676887554,
+        "mean_translation": 0.13269650577165698,
+        "max_translation": 1.2771386252712915
+    },
+    "c178491bc5": {
+        "mean_angle": 0.8172011862945029,
+        "max_angle": 3.2243313125737165,
+        "mean_translation": 0.008455274165169068,
+        "max_translation": 0.03299861205252236
+    },
+    "c24f94007b": {
+        "mean_angle": 9.295363876577266,
+        "max_angle": 166.1467948096653,
+        "mean_translation": 0.10554232237802577,
+        "max_translation": 1.311105272143675
+    },
+    "c2522abc00": {
+        "mean_angle": 2.308818839235384,
+        "max_angle": 17.63224599880686,
+        "mean_translation": 0.01825096421782268,
+        "max_translation": 0.5202460225461203
+    },
+    "c285c82ade": {
+        "mean_angle": 1.6140554438312935,
+        "max_angle": 4.9395837152708415,
+        "mean_translation": 0.012207426141636044,
+        "max_translation": 0.038351834191064776
+    },
+    "c2d714d386": {
+        "mean_angle": 2.163889066491597,
+        "max_angle": 58.721806777017065,
+        "mean_translation": 0.01668303695487303,
+        "max_translation": 0.35287316676533076
+    },
+    "c31ebd4b22": {
+        "mean_angle": 4.091015143182978,
+        "max_angle": 159.5758519643973,
+        "mean_translation": 0.04054540173785892,
+        "max_translation": 4.5580854339787855
+    },
+    "c340418532": {
+        "mean_angle": 4.330445045952499,
+        "max_angle": 177.41103954466172,
+        "mean_translation": 0.05004947224969318,
+        "max_translation": 6.155229570295021
+    },
+    "c3bc5e82c5": {
+        "mean_angle": 1.1302220010830715,
+        "max_angle": 6.49548583748219,
+        "mean_translation": 0.007861631588452047,
+        "max_translation": 0.03343387248332619
+    },
+    "c40466a844": {
+        "mean_angle": 2.5050544352638573,
+        "max_angle": 7.386084959549137,
+        "mean_translation": 0.02480524624513466,
+        "max_translation": 0.07645011600110899
+    },
+    "c413b34238": {
+        "mean_angle": 10.7606262700671,
+        "max_angle": 174.07915240332264,
+        "mean_translation": 0.1545168877721495,
+        "max_translation": 3.708047555131594
+    },
+    "c465f388d1": {
+        "mean_angle": 1.5617320129106222,
+        "max_angle": 166.6722315031131,
+        "mean_translation": 0.02182379767192121,
+        "max_translation": 2.9413302516425817
+    },
+    "c47168fab2": {
+        "mean_angle": 3.469174793546695,
+        "max_angle": 159.68314522203548,
+        "mean_translation": 0.0331237135641609,
+        "max_translation": 2.0421759054434734
+    },
+    "c49a8c6cff": {
+        "mean_angle": 1.558482870158955,
+        "max_angle": 6.6264676337150314,
+        "mean_translation": 0.018100878042943132,
+        "max_translation": 0.05880969694378849
+    },
+    "c4aaedcfd1": {
+        "mean_angle": 2.0734131055133207,
+        "max_angle": 6.696313504808321,
+        "mean_translation": 0.016461327669122512,
+        "max_translation": 0.052673336370578555
+    },
+    "c4c04e6d6c": {
+        "mean_angle": 10.204250385288436,
+        "max_angle": 146.37123385432875,
+        "mean_translation": 0.2680911820468932,
+        "max_translation": 6.366728408728103
+    },
+    "c4d4cb61f6": {
+        "mean_angle": 1.670395847493425,
+        "max_angle": 171.29451339121002,
+        "mean_translation": 0.01676496241406155,
+        "max_translation": 2.730497964203667
+    },
+    "c4ed7b5ebe": {
+        "mean_angle": 2.68020117396918,
+        "max_angle": 170.35364689832343,
+        "mean_translation": 0.023649326579129163,
+        "max_translation": 1.4834922287997148
+    },
+    "c50d2d1d42": {
+        "mean_angle": 14.522749930854971,
+        "max_angle": 74.47115079663746,
+        "mean_translation": 0.1577296741586388,
+        "max_translation": 1.8342362416730826
+    },
+    "c5439f4607": {
+        "mean_angle": 6.017285173622314,
+        "max_angle": 118.78889283211095,
+        "mean_translation": 0.07782772770207849,
+        "max_translation": 1.4228206949544853
+    },
+    "c545851c4f": {
+        "mean_angle": 3.2026140798023452,
+        "max_angle": 176.8271553930851,
+        "mean_translation": 0.034803996427006274,
+        "max_translation": 2.731365932031864
+    },
+    "c5f701a8c7": {
+        "mean_angle": 6.186574974126106,
+        "max_angle": 176.03390451904065,
+        "mean_translation": 0.06016875075550759,
+        "max_translation": 4.355964314670252
+    },
+    "c601466b77": {
+        "mean_angle": 4.739509285244108,
+        "max_angle": 151.03871974195926,
+        "mean_translation": 0.036698382141770895,
+        "max_translation": 1.4094642611636763
+    },
+    "c6c184cec0": {
+        "mean_angle": 2.7972268051254274,
+        "max_angle": 115.56671754250873,
+        "mean_translation": 0.027935155734122738,
+        "max_translation": 6.019409619056756
+    },
+    "c6e247f6c3": {
+        "mean_angle": 5.237422426381385,
+        "max_angle": 166.96548372284715,
+        "mean_translation": 0.06342593247751625,
+        "max_translation": 3.995726026519981
+    },
+    "c768a82cd0": {
+        "mean_angle": 4.331268325246086,
+        "max_angle": 63.142651194632506,
+        "mean_translation": 0.027922963361980892,
+        "max_translation": 0.2890430460759801
+    },
+    "c842edbdf5": {
+        "mean_angle": 5.697877453303333,
+        "max_angle": 176.2818669253315,
+        "mean_translation": 0.0743160683033594,
+        "max_translation": 4.554529172996867
+    },
+    "c856c41c99": {
+        "mean_angle": 12.992575370512835,
+        "max_angle": 174.44516085044714,
+        "mean_translation": 0.15217970871627814,
+        "max_translation": 2.6798194306761043
+    },
+    "c8d099ecd8": {
+        "mean_angle": 3.662356287750777,
+        "max_angle": 8.081848942654254,
+        "mean_translation": 0.01642014903993418,
+        "max_translation": 0.05194579173636197
+    },
+    "c8eeef6427": {
+        "mean_angle": 1.633721642373162,
+        "max_angle": 3.568644508748662,
+        "mean_translation": 0.012897149088998626,
+        "max_translation": 0.03598403847923524
+    },
+    "c8f2218ee2": {
+        "mean_angle": 6.853004763559484,
+        "max_angle": 176.09806442256303,
+        "mean_translation": 0.061880925011664555,
+        "max_translation": 1.8785573606659904
+    },
+    "c8fc01c453": {
+        "mean_angle": 2.5327116526446902,
+        "max_angle": 6.03151907605745,
+        "mean_translation": 0.018758888362421372,
+        "max_translation": 0.06621442393609306
+    },
+    "c9a8357e8f": {
+        "mean_angle": 2.787357123715398,
+        "max_angle": 22.19167117307835,
+        "mean_translation": 0.021397775645529155,
+        "max_translation": 0.20376360453135062
+    },
+    "c9abde4c4b": {
+        "mean_angle": 5.7815637161078675,
+        "max_angle": 162.75294657134762,
+        "mean_translation": 0.04541485717176993,
+        "max_translation": 0.9677908676990854
+    },
+    "ca0c580422": {
+        "mean_angle": 2.9826279056260674,
+        "max_angle": 7.7744635222358225,
+        "mean_translation": 0.02431932232555506,
+        "max_translation": 0.06256095333440329
+    },
+    "ca3b651c23": {
+        "mean_angle": 4.113921204395401,
+        "max_angle": 178.70473827781106,
+        "mean_translation": 0.03157854327102627,
+        "max_translation": 5.997967151561599
+    },
+    "cab239278a": {
+        "mean_angle": 3.719058857399357,
+        "max_angle": 9.503785833316867,
+        "mean_translation": 0.01489249067285214,
+        "max_translation": 0.05211304424308373
+    },
+    "cb7785f6ad": {
+        "mean_angle": 4.564243823530036,
+        "max_angle": 67.38015140099002,
+        "mean_translation": 0.023495208694068823,
+        "max_translation": 0.41431100551142164
+    },
+    "cba701332a": {
+        "mean_angle": 1.969559339132771,
+        "max_angle": 6.2299607339911285,
+        "mean_translation": 0.013849929990004868,
+        "max_translation": 0.03353411652456613
+    },
+    "cbd4b3055e": {
+        "mean_angle": 3.864059121530851,
+        "max_angle": 153.01880952625265,
+        "mean_translation": 0.04754109515783892,
+        "max_translation": 4.216942317523977
+    },
+    "cc0aa81452": {
+        "mean_angle": 5.086593331448851,
+        "max_angle": 16.76059500763057,
+        "mean_translation": 0.03024623358076314,
+        "max_translation": 0.15248325854134517
+    },
+    "cc49215f67": {
+        "mean_angle": 9.635920826001247,
+        "max_angle": 132.15150823106876,
+        "mean_translation": 0.11387226242760894,
+        "max_translation": 1.3903401540123148
+    },
+    "cc5237fd77": {
+        "mean_angle": 1.6456070175890536,
+        "max_angle": 5.047698998192241,
+        "mean_translation": 0.021475763474851153,
+        "max_translation": 0.05640708359458865
+    },
+    "cc5ea8026c": {
+        "mean_angle": 1.3655938288581788,
+        "max_angle": 24.132646158349043,
+        "mean_translation": 0.008865007270374835,
+        "max_translation": 0.13986616967730944
+    },
+    "ccfd3ed9c7": {
+        "mean_angle": 5.965393033260139,
+        "max_angle": 83.1546815207611,
+        "mean_translation": 0.06550541260752257,
+        "max_translation": 0.36894240720907806
+    },
+    "cd0b6082d2": {
+        "mean_angle": 2.166728020464783,
+        "max_angle": 22.701698258153655,
+        "mean_translation": 0.014184165258402624,
+        "max_translation": 0.09783679530427103
+    },
+    "cd2994fcc1": {
+        "mean_angle": 15.230299512805686,
+        "max_angle": 104.5933783118451,
+        "mean_translation": 0.14462207746046715,
+        "max_translation": 0.752698955214646
+    },
+    "cd2e0629fe": {
+        "mean_angle": 1.208731287468627,
+        "max_angle": 107.31834519767774,
+        "mean_translation": 0.011349283294247765,
+        "max_translation": 1.1808681845753686
+    },
+    "cd88899edb": {
+        "mean_angle": 13.340951857026202,
+        "max_angle": 173.1449885783192,
+        "mean_translation": 0.14308089540838936,
+        "max_translation": 1.5582449095627067
+    },
+    "ce12db9e81": {
+        "mean_angle": 5.054967910716257,
+        "max_angle": 168.87932037450685,
+        "mean_translation": 0.04879895662779858,
+        "max_translation": 3.775450021558511
+    },
+    "ce3a7945ce": {
+        "mean_angle": 4.847059609267851,
+        "max_angle": 178.23090216188066,
+        "mean_translation": 0.044597079101489794,
+        "max_translation": 1.964855782595326
+    },
+    "cec8312f4e": {
+        "mean_angle": 5.110719032185635,
+        "max_angle": 175.9048742046763,
+        "mean_translation": 0.035023604867126995,
+        "max_translation": 4.131037705112974
+    },
+    "cf1ffd871d": {
+        "mean_angle": 3.0472432622134105,
+        "max_angle": 176.95912101995447,
+        "mean_translation": 0.024565104107242573,
+        "max_translation": 1.6601324487275602
+    },
+    "d054227009": {
+        "mean_angle": 0.9718436237090603,
+        "max_angle": 108.00156184441823,
+        "mean_translation": 0.01150672228786477,
+        "max_translation": 1.9010566115980976
+    },
+    "d070e22e3b": {
+        "mean_angle": 2.4865485921514656,
+        "max_angle": 154.05110831447686,
+        "mean_translation": 0.019579383161003164,
+        "max_translation": 1.1981597806248747
+    },
+    "d0cb61bc64": {
+        "mean_angle": 2.947348685557159,
+        "max_angle": 53.068199857631726,
+        "mean_translation": 0.01461689760637378,
+        "max_translation": 0.43633900844126156
+    },
+    "d110b8f8b0": {
+        "mean_angle": 3.7396098666750834,
+        "max_angle": 108.71672842194656,
+        "mean_translation": 0.01568147689583856,
+        "max_translation": 0.8630142147659491
+    },
+    "d1345a65c1": {
+        "mean_angle": 3.737696346229759,
+        "max_angle": 89.61746032566214,
+        "mean_translation": 0.01566088005477621,
+        "max_translation": 0.7478614898188514
+    },
+    "d14b81c0c2": {
+        "mean_angle": 5.234039408178883,
+        "max_angle": 171.11985725720191,
+        "mean_translation": 0.0379445012208539,
+        "max_translation": 1.727027188290474
+    },
+    "d1f82299d0": {
+        "mean_angle": 7.757213951711637,
+        "max_angle": 171.782665265646,
+        "mean_translation": 0.10030460354296272,
+        "max_translation": 4.127729188544448
+    },
+    "d240136ce4": {
+        "mean_angle": 3.404031107086734,
+        "max_angle": 133.77409094910757,
+        "mean_translation": 0.03248834011173183,
+        "max_translation": 3.9582437440211806
+    },
+    "d27235711b": {
+        "mean_angle": 1.6722087082276305,
+        "max_angle": 7.168935054791905,
+        "mean_translation": 0.025868777079586073,
+        "max_translation": 0.1476094593945372
+    },
+    "d290096f64": {
+        "mean_angle": 2.601064293523791,
+        "max_angle": 15.159238913011821,
+        "mean_translation": 0.01954457016266796,
+        "max_translation": 0.24985364571424312
+    },
+    "d2f44bf242": {
+        "mean_angle": 7.844507684550218,
+        "max_angle": 160.27542764578237,
+        "mean_translation": 0.09548941816517333,
+        "max_translation": 3.417742129188883
+    },
+    "d3a22366f4": {
+        "mean_angle": 2.163730829850409,
+        "max_angle": 25.94126657725338,
+        "mean_translation": 0.014043025570307193,
+        "max_translation": 0.2577603806822314
+    },
+    "d3b7d054c4": {
+        "mean_angle": 1.148755944480966,
+        "max_angle": 47.13678123741522,
+        "mean_translation": 0.013843468434319061,
+        "max_translation": 1.5739710488637544
+    },
+    "d3ba8b4232": {
+        "mean_angle": 4.803514149624725,
+        "max_angle": 173.14317929408165,
+        "mean_translation": 0.05558286714109308,
+        "max_translation": 4.521329221706385
+    },
+    "d415cc449b": {
+        "mean_angle": 7.120491737042339,
+        "max_angle": 122.6613089841237,
+        "mean_translation": 0.0943812800994577,
+        "max_translation": 1.5714242116494481
+    },
+    "d497bb124d": {
+        "mean_angle": 1.157293725552755,
+        "max_angle": 3.2258133961665756,
+        "mean_translation": 0.008714783443722462,
+        "max_translation": 0.03188484157179711
+    },
+    "d537ef1d41": {
+        "mean_angle": 1.0006142716806352,
+        "max_angle": 112.93901366741515,
+        "mean_translation": 0.013519495682157861,
+        "max_translation": 2.971067836733984
+    },
+    "d551dac194": {
+        "mean_angle": 2.8273794882526238,
+        "max_angle": 21.475318028544606,
+        "mean_translation": 0.019874782607460263,
+        "max_translation": 0.2736328621312606
+    },
+    "d593a4f87a": {
+        "mean_angle": 3.983593099502523,
+        "max_angle": 163.55214800628508,
+        "mean_translation": 0.043756866331335416,
+        "max_translation": 4.246017012788084
+    },
+    "d61691f945": {
+        "mean_angle": 1.511355823914909,
+        "max_angle": 6.973166465960612,
+        "mean_translation": 0.019694455295654875,
+        "max_translation": 0.11158446362684851
+    },
+    "d662592b54": {
+        "mean_angle": 13.59749255297245,
+        "max_angle": 175.14682036419865,
+        "mean_translation": 0.11645369686041245,
+        "max_translation": 1.192503587042593
+    },
+    "d6702c681d": {
+        "mean_angle": 15.568080270117038,
+        "max_angle": 116.25673989952857,
+        "mean_translation": 0.19412525148510326,
+        "max_translation": 1.731021776970206
+    },
+    "d6a77f7c22": {
+        "mean_angle": 1.5050160135975512,
+        "max_angle": 3.564774874342601,
+        "mean_translation": 0.012272109355819624,
+        "max_translation": 0.03672109253223675
+    },
+    "d6bb698875": {
+        "mean_angle": 1.6865234430120806,
+        "max_angle": 29.75376732421898,
+        "mean_translation": 0.014228346764148615,
+        "max_translation": 0.2771341355520147
+    },
+    "d6cbe4b28b": {
+        "mean_angle": 4.156552755195514,
+        "max_angle": 175.8236935347274,
+        "mean_translation": 0.04274190624564808,
+        "max_translation": 4.125783838927563
+    },
+    "d6d9ddb03f": {
+        "mean_angle": 3.2514049587559932,
+        "max_angle": 167.34682539974926,
+        "mean_translation": 0.029805308139521685,
+        "max_translation": 2.979887297367801
+    },
+    "d755b3d9d8": {
+        "mean_angle": 3.2580233154113634,
+        "max_angle": 176.54468478151742,
+        "mean_translation": 0.023330489891891668,
+        "max_translation": 1.1660263951420051
+    },
+    "d7abfc4b17": {
+        "mean_angle": 1.796273764827106,
+        "max_angle": 70.15581905764688,
+        "mean_translation": 0.026193726525747345,
+        "max_translation": 1.17355189565131
+    },
+    "d7b871aaa8": {
+        "mean_angle": 3.043641453443437,
+        "max_angle": 139.7409799669931,
+        "mean_translation": 0.047692642746843386,
+        "max_translation": 3.5841053600246
+    },
+    "d7fc87324e": {
+        "mean_angle": 4.087798667289225,
+        "max_angle": 10.9907742698204,
+        "mean_translation": 0.019150188833502058,
+        "max_translation": 0.16890834453937398
+    },
+    "d807fb583b": {
+        "mean_angle": 5.026423074806137,
+        "max_angle": 172.3752563822055,
+        "mean_translation": 0.06778990353073054,
+        "max_translation": 2.2146462631985964
+    },
+    "d82aaa88dc": {
+        "mean_angle": 0.5049501325340955,
+        "max_angle": 8.753133531423282,
+        "mean_translation": 0.006434208176757467,
+        "max_translation": 0.0639446463291173
+    },
+    "d902931864": {
+        "mean_angle": 3.0796585741884317,
+        "max_angle": 167.2817167729661,
+        "mean_translation": 0.0158514398302413,
+        "max_translation": 1.2135352221065525
+    },
+    "d918af9c5f": {
+        "mean_angle": 8.489963945311978,
+        "max_angle": 178.52908303616377,
+        "mean_translation": 0.08209260542839088,
+        "max_translation": 3.7743235035532163
+    },
+    "d986399f4c": {
+        "mean_angle": 1.6352194300796346,
+        "max_angle": 174.35120220197544,
+        "mean_translation": 0.017275164510048378,
+        "max_translation": 3.7994085328927745
+    },
+    "d9c781301e": {
+        "mean_angle": 2.1828843803966116,
+        "max_angle": 6.766911077012229,
+        "mean_translation": 0.019025553426534374,
+        "max_translation": 0.09989281788400071
+    },
+    "da1df716a5": {
+        "mean_angle": 1.203549078084039,
+        "max_angle": 172.8312469492161,
+        "mean_translation": 0.012501635561377617,
+        "max_translation": 0.9935842766447754
+    },
+    "da8043d54e": {
+        "mean_angle": 14.28294536262691,
+        "max_angle": 82.0313904323983,
+        "mean_translation": 0.18392576471712493,
+        "max_translation": 2.1731922459944153
+    },
+    "daffc70503": {
+        "mean_angle": 13.327591724297964,
+        "max_angle": 177.6772923394319,
+        "mean_translation": 0.1688169357367225,
+        "max_translation": 3.33171112181649
+    },
+    "db02238cdf": {
+        "mean_angle": 3.4590949536006494,
+        "max_angle": 38.13518226757525,
+        "mean_translation": 0.023683285943065544,
+        "max_translation": 0.35601752259091823
+    },
+    "db32da9b42": {
+        "mean_angle": 8.167877867378055,
+        "max_angle": 175.0599037475905,
+        "mean_translation": 0.12556362061583407,
+        "max_translation": 6.539496654947236
+    },
+    "db5293a870": {
+        "mean_angle": 2.707136300012496,
+        "max_angle": 29.831318908242046,
+        "mean_translation": 0.022256143438348176,
+        "max_translation": 0.8259865897729163
+    },
+    "dbd2a5961f": {
+        "mean_angle": 3.8432268353609427,
+        "max_angle": 41.06391563405761,
+        "mean_translation": 0.02960601605874751,
+        "max_translation": 0.30692829452204784
+    },
+    "dbd97b5bca": {
+        "mean_angle": 1.6630896530324994,
+        "max_angle": 146.235272212431,
+        "mean_translation": 0.020142202895061485,
+        "max_translation": 4.503348094025596
+    },
+    "dc204f59ae": {
+        "mean_angle": 5.136752392773355,
+        "max_angle": 13.6789220444645,
+        "mean_translation": 0.02676185428058813,
+        "max_translation": 0.1267806029919338
+    },
+    "dc263dfbf0": {
+        "mean_angle": 17.222909522429482,
+        "max_angle": 104.67749887657911,
+        "mean_translation": 0.2830343742113472,
+        "max_translation": 4.4697927603846885
+    },
+    "dc5f00843f": {
+        "mean_angle": 3.8642311032067442,
+        "max_angle": 106.05051952415376,
+        "mean_translation": 0.08230653726111561,
+        "max_translation": 4.702463413926595
+    },
+    "dd636ce603": {
+        "mean_angle": 2.2158213260857598,
+        "max_angle": 72.80710757583532,
+        "mean_translation": 0.015904496837023448,
+        "max_translation": 1.445093090995169
+    },
+    "dd685be466": {
+        "mean_angle": 0.6077594460287585,
+        "max_angle": 7.91169363215005,
+        "mean_translation": 0.006699989028827939,
+        "max_translation": 0.08525158489702515
+    },
+    "de3c77cecd": {
+        "mean_angle": 5.217265130312673,
+        "max_angle": 179.3065992544101,
+        "mean_translation": 0.06323182182293365,
+        "max_translation": 4.865176751450017
+    },
+    "de5881aa12": {
+        "mean_angle": 2.0065381854167765,
+        "max_angle": 176.5661283851923,
+        "mean_translation": 0.02754757490509729,
+        "max_translation": 2.9272912324088742
+    },
+    "de7dc9993f": {
+        "mean_angle": 2.027548325108451,
+        "max_angle": 7.676839313076646,
+        "mean_translation": 0.018245845611037814,
+        "max_translation": 0.06888697089833816
+    },
+    "de83a9c2d7": {
+        "mean_angle": 4.828654830338415,
+        "max_angle": 11.56564848358768,
+        "mean_translation": 0.029901513965156914,
+        "max_translation": 0.09712608729607876
+    },
+    "deb1867829": {
+        "mean_angle": 4.430137533616909,
+        "max_angle": 9.54577439611884,
+        "mean_translation": 0.023246599092836717,
+        "max_translation": 0.0694812065529569
+    },
+    "dec0b11090": {
+        "mean_angle": 4.668550952386081,
+        "max_angle": 174.97664511656586,
+        "mean_translation": 0.04819587990698073,
+        "max_translation": 6.129821108289501
+    },
+    "defd3457db": {
+        "mean_angle": 3.900527595646041,
+        "max_angle": 138.35768024018842,
+        "mean_translation": 0.04512253972883307,
+        "max_translation": 6.4615055309408005
+    },
+    "dfa70fb232": {
+        "mean_angle": 1.5603141641682035,
+        "max_angle": 176.92988746934813,
+        "mean_translation": 0.023709055939586485,
+        "max_translation": 5.563672989847846
+    },
+    "dfac5b38df": {
+        "mean_angle": 7.178852886700707,
+        "max_angle": 100.50050429656572,
+        "mean_translation": 0.12624605240681516,
+        "max_translation": 1.7270153221518119
+    },
+    "dffce1cf9a": {
+        "mean_angle": 10.943114128187528,
+        "max_angle": 32.083237629069814,
+        "mean_translation": 0.11454334149203543,
+        "max_translation": 0.3599575532085452
+    },
+    "e01b287af5": {
+        "mean_angle": 3.036277758841668,
+        "max_angle": 135.61198908887516,
+        "mean_translation": 0.022241526853978292,
+        "max_translation": 1.1826563202489422
+    },
+    "e050c15a8d": {
+        "mean_angle": 2.5826027084648695,
+        "max_angle": 153.47428733828292,
+        "mean_translation": 0.04402000703779552,
+        "max_translation": 12.826716268671898
+    },
+    "e0abd740ba": {
+        "mean_angle": 10.34971338240785,
+        "max_angle": 26.442733449944114,
+        "mean_translation": 0.107454129145398,
+        "max_translation": 0.2606160493772504
+    },
+    "e0d1ed2159": {
+        "mean_angle": 1.5408901274611646,
+        "max_angle": 4.2460201661372015,
+        "mean_translation": 0.010166893053038847,
+        "max_translation": 0.053458448455838296
+    },
+    "e0de253456": {
+        "mean_angle": 11.121405547510761,
+        "max_angle": 69.79932289697416,
+        "mean_translation": 0.1573456357688962,
+        "max_translation": 2.0393033258331466
+    },
+    "e1aa584dd5": {
+        "mean_angle": 4.433982697034463,
+        "max_angle": 149.57266952667186,
+        "mean_translation": 0.025681721596912482,
+        "max_translation": 1.2160332419611912
+    },
+    "e1b1d9de55": {
+        "mean_angle": 13.03251591536084,
+        "max_angle": 94.54705302721987,
+        "mean_translation": 0.13727125597929765,
+        "max_translation": 1.4501070083134528
+    },
+    "e1fb8626c8": {
+        "mean_angle": 0.9130091498777693,
+        "max_angle": 4.722607267085104,
+        "mean_translation": 0.009995506618864978,
+        "max_translation": 0.14426025163095105
+    },
+    "e2caaaf5b5": {
+        "mean_angle": 5.154424112314724,
+        "max_angle": 175.51971512162746,
+        "mean_translation": 0.05394552281925957,
+        "max_translation": 3.9818720190742742
+    },
+    "e35232b92f": {
+        "mean_angle": 0.5402951409076401,
+        "max_angle": 9.314454098177839,
+        "mean_translation": 0.0062201275543921014,
+        "max_translation": 0.06896910377945431
+    },
+    "e398684d27": {
+        "mean_angle": 21.008913899672756,
+        "max_angle": 156.49247240753004,
+        "mean_translation": 0.18379173191214912,
+        "max_translation": 2.0888496408850545
+    },
+    "e3ad7115db": {
+        "mean_angle": 4.107653261094357,
+        "max_angle": 9.118988887127125,
+        "mean_translation": 0.017418045947178867,
+        "max_translation": 0.05605626001689495
+    },
+    "e3b3b0d0c7": {
+        "mean_angle": 8.574003391597207,
+        "max_angle": 176.55142919344698,
+        "mean_translation": 0.10775314532032078,
+        "max_translation": 5.177980654155843
+    },
+    "e3c1da58dd": {
+        "mean_angle": 3.546264964007925,
+        "max_angle": 7.949457602459173,
+        "mean_translation": 0.02425670053041821,
+        "max_translation": 0.05990961549196277
+    },
+    "e3c39f4aea": {
+        "mean_angle": 4.932528774574704,
+        "max_angle": 156.71511654791757,
+        "mean_translation": 0.03005813260103334,
+        "max_translation": 2.020730367971584
+    },
+    "e3e0617f98": {
+        "mean_angle": 3.202163792387791,
+        "max_angle": 166.83869775149242,
+        "mean_translation": 0.030686459805423075,
+        "max_translation": 7.020616170033769
+    },
+    "e3ecd49e2b": {
+        "mean_angle": 3.067402410753095,
+        "max_angle": 179.39026618862133,
+        "mean_translation": 0.02831845414657578,
+        "max_translation": 1.4708419315468988
+    },
+    "e3ef8b690b": {
+        "mean_angle": 2.2036059731990156,
+        "max_angle": 45.80765318373227,
+        "mean_translation": 0.017514028839944216,
+        "max_translation": 0.19625012002543762
+    },
+    "e4007ff6b5": {
+        "mean_angle": 4.833461744843083,
+        "max_angle": 153.1950168759433,
+        "mean_translation": 0.04360054660676298,
+        "max_translation": 1.0279140303890042
+    },
+    "e4e625a3e4": {
+        "mean_angle": 3.281686529184347,
+        "max_angle": 107.82195908693959,
+        "mean_translation": 0.01906742813996795,
+        "max_translation": 0.5518335114893975
+    },
+    "e4fb2a623b": {
+        "mean_angle": 2.323281622978483,
+        "max_angle": 54.777717985149806,
+        "mean_translation": 0.021509316299008922,
+        "max_translation": 0.49443091750571644
+    },
+    "e51b753e48": {
+        "mean_angle": 1.599452997966156,
+        "max_angle": 13.918715279887353,
+        "mean_translation": 0.012050365219763147,
+        "max_translation": 0.07210626607502939
+    },
+    "e5a769dbf5": {
+        "mean_angle": 3.3963307118655415,
+        "max_angle": 60.457676939477636,
+        "mean_translation": 0.02472763982454839,
+        "max_translation": 0.341001761208644
+    },
+    "e6372539da": {
+        "mean_angle": 2.9251211891075517,
+        "max_angle": 16.46090873149064,
+        "mean_translation": 0.019982144084515957,
+        "max_translation": 0.8226288651592035
+    },
+    "e6671918c8": {
+        "mean_angle": 3.483538196713834,
+        "max_angle": 175.60636017438003,
+        "mean_translation": 0.031425649989670006,
+        "max_translation": 3.227230214127047
+    },
+    "e667e09fe6": {
+        "mean_angle": 2.0179188297553527,
+        "max_angle": 13.469433689985781,
+        "mean_translation": 0.01515897747339979,
+        "max_translation": 0.06222892274924306
+    },
+    "e69064f2f3": {
+        "mean_angle": 5.658347665220585,
+        "max_angle": 178.23273504570147,
+        "mean_translation": 0.048693892412648626,
+        "max_translation": 4.479528933733344
+    },
+    "e6afbe3753": {
+        "mean_angle": 15.692844235978708,
+        "max_angle": 164.69994790124315,
+        "mean_translation": 0.16501699812928025,
+        "max_translation": 1.684810708383652
+    },
+    "e7ac609391": {
+        "mean_angle": 9.504067800309935,
+        "max_angle": 155.3742365566156,
+        "mean_translation": 0.10697436930338412,
+        "max_translation": 5.29445573989808
+    },
+    "e7af285f7d": {
+        "mean_angle": 1.6737020311313628,
+        "max_angle": 6.373034000500052,
+        "mean_translation": 0.01716592436249103,
+        "max_translation": 0.06386594528326259
+    },
+    "e7ccd75e5d": {
+        "mean_angle": 3.2811729086356887,
+        "max_angle": 83.0923134241117,
+        "mean_translation": 0.02294196532266755,
+        "max_translation": 1.464706275380836
+    },
+    "e7d7e7799d": {
+        "mean_angle": 1.1889852339011295,
+        "max_angle": 128.20324665272386,
+        "mean_translation": 0.01414455558423627,
+        "max_translation": 3.600027341298462
+    },
+    "e814070fd4": {
+        "mean_angle": 3.6217995367446503,
+        "max_angle": 166.13887822229492,
+        "mean_translation": 0.01831937525307151,
+        "max_translation": 0.6389280882970965
+    },
+    "e81c8b3eec": {
+        "mean_angle": 4.426696102598255,
+        "max_angle": 75.1813374556879,
+        "mean_translation": 0.03819743934690968,
+        "max_translation": 0.887152004941737
+    },
+    "e86c6742b9": {
+        "mean_angle": 1.6053870187453432,
+        "max_angle": 162.76159974381207,
+        "mean_translation": 0.018370915938640445,
+        "max_translation": 2.5256344999537705
+    },
+    "e87f1ebcac": {
+        "mean_angle": 2.9822614242406065,
+        "max_angle": 101.21385818434702,
+        "mean_translation": 0.03226122781508757,
+        "max_translation": 2.813731826011137
+    },
+    "e898c76c1f": {
+        "mean_angle": 8.238308647449685,
+        "max_angle": 47.28750162959062,
+        "mean_translation": 0.10245662819453809,
+        "max_translation": 1.0365101497849387
+    },
+    "e8e81396b6": {
+        "mean_angle": 7.184353265591912,
+        "max_angle": 73.10600977284163,
+        "mean_translation": 0.12674634802303564,
+        "max_translation": 1.7778133858887692
+    },
+    "e8ea9b4da8": {
+        "mean_angle": 9.201801409333434,
+        "max_angle": 151.84465178948736,
+        "mean_translation": 0.09867450549356926,
+        "max_translation": 1.568450632118897
+    },
+    "e909f8213d": {
+        "mean_angle": 7.0640075481246205,
+        "max_angle": 144.713413292193,
+        "mean_translation": 0.0399710272967598,
+        "max_translation": 1.5006701834488176
+    },
+    "e91722b5a3": {
+        "mean_angle": 3.0806053824309814,
+        "max_angle": 128.8437889511977,
+        "mean_translation": 0.04570882671732746,
+        "max_translation": 2.1026795681312023
+    },
+    "e93cd5230e": {
+        "mean_angle": 0.9404533613248076,
+        "max_angle": 3.384740497188509,
+        "mean_translation": 0.009552798077808181,
+        "max_translation": 0.03095120084597433
+    },
+    "e945643bef": {
+        "mean_angle": 2.1667297728842194,
+        "max_angle": 6.805494928968623,
+        "mean_translation": 0.01574187201986,
+        "max_translation": 0.09239167211596654
+    },
+    "e9ac2fc517": {
+        "mean_angle": 4.429368928914835,
+        "max_angle": 140.8089848786721,
+        "mean_translation": 0.05532585615627821,
+        "max_translation": 2.381629406196269
+    },
+    "e9e16b6043": {
+        "mean_angle": 1.6573682940724532,
+        "max_angle": 15.49242440984221,
+        "mean_translation": 0.022832912101370714,
+        "max_translation": 0.09537593435664356
+    },
+    "ea15f3457c": {
+        "mean_angle": 9.646143923751646,
+        "max_angle": 39.324489153775275,
+        "mean_translation": 0.10990334742220943,
+        "max_translation": 0.6355576458027291
+    },
+    "ea3b3710a2": {
+        "mean_angle": 3.1238117643284626,
+        "max_angle": 70.71770035053378,
+        "mean_translation": 0.02919182295736388,
+        "max_translation": 0.7562694718325936
+    },
+    "ea42cd27e6": {
+        "mean_angle": 1.2852400937958097,
+        "max_angle": 130.78992069739977,
+        "mean_translation": 0.01627315275059009,
+        "max_translation": 3.770745601946347
+    },
+    "eaa6c90310": {
+        "mean_angle": 0.6638858387272187,
+        "max_angle": 51.25234546952309,
+        "mean_translation": 0.008286750456345046,
+        "max_translation": 2.331601802480082
+    },
+    "eaab7bcc15": {
+        "mean_angle": 2.095342472451908,
+        "max_angle": 21.4824549534969,
+        "mean_translation": 0.01660193954615985,
+        "max_translation": 0.17621037676102375
+    },
+    "eab5494dca": {
+        "mean_angle": 3.2921738521833563,
+        "max_angle": 67.67922722257364,
+        "mean_translation": 0.025716784791583278,
+        "max_translation": 3.589328004011882
+    },
+    "eb4bc76767": {
+        "mean_angle": 1.8006359757532684,
+        "max_angle": 143.88564241167828,
+        "mean_translation": 0.03361723280080383,
+        "max_translation": 3.544440923619206
+    },
+    "eb8ef9b4cc": {
+        "mean_angle": 1.3775738674776241,
+        "max_angle": 165.3419898652827,
+        "mean_translation": 0.015169554739902853,
+        "max_translation": 1.8212507511701077
+    },
+    "ebc200e928": {
+        "mean_angle": 2.0685945070658938,
+        "max_angle": 54.024189560114614,
+        "mean_translation": 0.01980031846292166,
+        "max_translation": 1.0493405322506932
+    },
+    "ec2cb8dae1": {
+        "mean_angle": 4.3864984351232525,
+        "max_angle": 178.67360049634652,
+        "mean_translation": 0.05537339263396414,
+        "max_translation": 3.2443570104330703
+    },
+    "ec614d4e30": {
+        "mean_angle": 2.9246147885365383,
+        "max_angle": 23.221550892824833,
+        "mean_translation": 0.02218088556370808,
+        "max_translation": 0.06572128759260884
+    },
+    "ec9ff6051d": {
+        "mean_angle": 3.287164384081453,
+        "max_angle": 11.55703473750555,
+        "mean_translation": 0.014846317273974936,
+        "max_translation": 0.0987658992845089
+    },
+    "ed2216380b": {
+        "mean_angle": 10.877440507600301,
+        "max_angle": 73.56675383460527,
+        "mean_translation": 0.09419586556493546,
+        "max_translation": 1.4262215818774093
+    },
+    "edbf65c385": {
+        "mean_angle": 4.4120603474552915,
+        "max_angle": 158.4129662562809,
+        "mean_translation": 0.039528678487721354,
+        "max_translation": 1.5418698613902082
+    },
+    "edced53026": {
+        "mean_angle": 3.068806222500813,
+        "max_angle": 86.71592927452087,
+        "mean_translation": 0.022638898512478616,
+        "max_translation": 0.8322388696962901
+    },
+    "eea4ad9c04": {
+        "mean_angle": 1.4334816536964499,
+        "max_angle": 5.671772689904894,
+        "mean_translation": 0.02728651598897219,
+        "max_translation": 0.06775372581714864
+    },
+    "eeddfe67f5": {
+        "mean_angle": 19.061846682986324,
+        "max_angle": 88.10124152854453,
+        "mean_translation": 0.1358531502201956,
+        "max_translation": 0.42126688957406777
+    },
+    "eee7eef8e5": {
+        "mean_angle": 8.700090275755826,
+        "max_angle": 103.18259794832854,
+        "mean_translation": 0.13047838986268429,
+        "max_translation": 1.7947835258935891
+    },
+    "eeeb9836b8": {
+        "mean_angle": 1.64992469593274,
+        "max_angle": 171.03083952376613,
+        "mean_translation": 0.013044102010380487,
+        "max_translation": 2.2385702444880016
+    },
+    "ef18cf0708": {
+        "mean_angle": 14.659204200323623,
+        "max_angle": 102.7645029039352,
+        "mean_translation": 0.1931743905156281,
+        "max_translation": 1.2612208564154146
+    },
+    "ef25276c25": {
+        "mean_angle": 2.438691855138436,
+        "max_angle": 121.43754580940609,
+        "mean_translation": 0.03173449520192425,
+        "max_translation": 3.9394394244773627
+    },
+    "ef60db4e8c": {
+        "mean_angle": 5.316434563497985,
+        "max_angle": 115.15589795306926,
+        "mean_translation": 0.06967732598538179,
+        "max_translation": 1.405313991582671
+    },
+    "ef69d58016": {
+        "mean_angle": 10.792564015323899,
+        "max_angle": 130.56412148838277,
+        "mean_translation": 0.1282309142175718,
+        "max_translation": 1.1700721276651602
+    },
+    "ef9428c5cd": {
+        "mean_angle": 4.280422904682404,
+        "max_angle": 152.2428167063634,
+        "mean_translation": 0.043517408220058146,
+        "max_translation": 4.652313571879391
+    },
+    "f07340dfea": {
+        "mean_angle": 6.08595459382994,
+        "max_angle": 126.89532055653423,
+        "mean_translation": 0.0754222154891754,
+        "max_translation": 2.9689034100455687
+    },
+    "f19ca0a52e": {
+        "mean_angle": 3.8794152174601106,
+        "max_angle": 10.355359674382122,
+        "mean_translation": 0.01923498788327703,
+        "max_translation": 0.06350716570512792
+    },
+    "f1e01af60a": {
+        "mean_angle": 1.2952895383578091,
+        "max_angle": 153.9445752304854,
+        "mean_translation": 0.016334095025906617,
+        "max_translation": 1.679060889703018
+    },
+    "f1efd25854": {
+        "mean_angle": 2.941151138190115,
+        "max_angle": 12.952353449963084,
+        "mean_translation": 0.010448311251867097,
+        "max_translation": 0.11045209942234258
+    },
+    "f20ccd91de": {
+        "mean_angle": 1.3665961852676096,
+        "max_angle": 154.2030119802819,
+        "mean_translation": 0.016818088553414216,
+        "max_translation": 2.8491677808222513
+    },
+    "f248c2bcdc": {
+        "mean_angle": 9.001828811887714,
+        "max_angle": 136.43913936320436,
+        "mean_translation": 0.10421034326651991,
+        "max_translation": 2.3598764869344886
+    },
+    "f25f5e6f63": {
+        "mean_angle": 7.446274764814902,
+        "max_angle": 172.3370038253068,
+        "mean_translation": 0.11893065030436124,
+        "max_translation": 3.619144212300392
+    },
+    "f2dc06b1d2": {
+        "mean_angle": 3.3354370964234734,
+        "max_angle": 172.87923307352176,
+        "mean_translation": 0.022988865994051113,
+        "max_translation": 0.8264764176499825
+    },
+    "f2e6c43543": {
+        "mean_angle": 1.099729199866459,
+        "max_angle": 128.145577232688,
+        "mean_translation": 0.012553743976137573,
+        "max_translation": 1.4979563398984543
+    },
+    "f2ec1f6a04": {
+        "mean_angle": 4.320609497235259,
+        "max_angle": 106.11500234977636,
+        "mean_translation": 0.043811487119002665,
+        "max_translation": 1.358684127090797
+    },
+    "f311090fa6": {
+        "mean_angle": 2.1693158810501045,
+        "max_angle": 150.23687439485664,
+        "mean_translation": 0.027117213473215947,
+        "max_translation": 2.427260097160463
+    },
+    "f33e242463": {
+        "mean_angle": 1.6043666361283524,
+        "max_angle": 25.281110961618555,
+        "mean_translation": 0.011569642993302522,
+        "max_translation": 0.09017151848779832
+    },
+    "f34d532901": {
+        "mean_angle": 10.15122907273538,
+        "max_angle": 28.669888645934,
+        "mean_translation": 0.10459857426686005,
+        "max_translation": 0.23458185585075308
+    },
+    "f3685d06a9": {
+        "mean_angle": 18.407537005935914,
+        "max_angle": 164.00000513558138,
+        "mean_translation": 0.13896709744089464,
+        "max_translation": 1.9576873379823418
+    },
+    "f368a1f730": {
+        "mean_angle": 1.3290143817242723,
+        "max_angle": 8.277062283398276,
+        "mean_translation": 0.014382225415046967,
+        "max_translation": 0.2180945329716638
+    },
+    "f36e3e1e53": {
+        "mean_angle": 0.8726498697456008,
+        "max_angle": 89.3361759981214,
+        "mean_translation": 0.009735140712041249,
+        "max_translation": 0.45326658538879305
+    },
+    "f38b0108a1": {
+        "mean_angle": 5.32301925141708,
+        "max_angle": 12.135893119272483,
+        "mean_translation": 0.023539539972690572,
+        "max_translation": 0.0690729992418893
+    },
+    "f3d64c30f8": {
+        "mean_angle": 9.573027350832794,
+        "max_angle": 159.82998185834506,
+        "mean_translation": 0.11083649033834693,
+        "max_translation": 2.03325343730599
+    },
+    "f3f016ba3f": {
+        "mean_angle": 4.408943697647159,
+        "max_angle": 132.98881511463856,
+        "mean_translation": 0.03194347795267192,
+        "max_translation": 1.3061542808875215
+    },
+    "f47ec86138": {
+        "mean_angle": 3.9084801892145866,
+        "max_angle": 172.1786488273332,
+        "mean_translation": 0.053465070087318996,
+        "max_translation": 5.074084140297719
+    },
+    "f4c5b0646f": {
+        "mean_angle": 0.7343948576123795,
+        "max_angle": 10.297704399987627,
+        "mean_translation": 0.008112966571121035,
+        "max_translation": 0.1222060062214649
+    },
+    "f5401524e5": {
+        "mean_angle": 3.7042893751732184,
+        "max_angle": 115.54943374456445,
+        "mean_translation": 0.022621391304033935,
+        "max_translation": 0.6485539221933608
+    },
+    "f5726eeeb2": {
+        "mean_angle": 1.318242902789688,
+        "max_angle": 4.867762793927466,
+        "mean_translation": 0.015938123903756544,
+        "max_translation": 0.055980248003972
+    },
+    "f576071590": {
+        "mean_angle": 1.4562390659492526,
+        "max_angle": 97.1727394345341,
+        "mean_translation": 0.017832856126276206,
+        "max_translation": 2.1979477737947546
+    },
+    "f6659a3107": {
+        "mean_angle": 3.7079024718128046,
+        "max_angle": 131.34986773967222,
+        "mean_translation": 0.04212224967530021,
+        "max_translation": 2.068585600644087
+    },
+    "f6a9b64a0d": {
+        "mean_angle": 6.045997443874751,
+        "max_angle": 157.3491328878081,
+        "mean_translation": 0.0735327432462482,
+        "max_translation": 2.7439166377492588
+    },
+    "f7a60ba2a2": {
+        "mean_angle": 7.550455436354822,
+        "max_angle": 170.75369120004808,
+        "mean_translation": 0.08001134284201046,
+        "max_translation": 2.4631476968629684
+    },
+    "f7d34e6706": {
+        "mean_angle": 7.082324199038706,
+        "max_angle": 166.30706866988695,
+        "mean_translation": 0.062192953429605714,
+        "max_translation": 3.93424431519532
+    },
+    "f7da3f0714": {
+        "mean_angle": 3.8283111529981957,
+        "max_angle": 177.14947507859492,
+        "mean_translation": 0.01923234013275979,
+        "max_translation": 0.9615394070200417
+    },
+    "f8062cb7ce": {
+        "mean_angle": 15.456613854347275,
+        "max_angle": 48.7077360848729,
+        "mean_translation": 0.13261350838688282,
+        "max_translation": 0.9341291420646308
+    },
+    "f847086d15": {
+        "mean_angle": 2.0903762354045003,
+        "max_angle": 144.9249746685619,
+        "mean_translation": 0.022655542411836007,
+        "max_translation": 1.3768329289965644
+    },
+    "f8d5147d1d": {
+        "mean_angle": 3.6645767104128537,
+        "max_angle": 149.70899844427018,
+        "mean_translation": 0.04729245087733193,
+        "max_translation": 2.1893026301619094
+    },
+    "f8e13ab4ae": {
+        "mean_angle": 0.9259862044274771,
+        "max_angle": 169.14729147550662,
+        "mean_translation": 0.010969601589569826,
+        "max_translation": 1.799261365243111
+    },
+    "f8eac0ad24": {
+        "mean_angle": 2.427595378010973,
+        "max_angle": 7.039611038582778,
+        "mean_translation": 0.01762001766404724,
+        "max_translation": 0.05838733871157072
+    },
+    "f8f12e4e6b": {
+        "mean_angle": 13.031504170482453,
+        "max_angle": 165.29864761565233,
+        "mean_translation": 0.1602229552377936,
+        "max_translation": 2.686848429360304
+    },
+    "f9397af4cb": {
+        "mean_angle": 1.5905282998198405,
+        "max_angle": 102.03762223169886,
+        "mean_translation": 0.024531702402594596,
+        "max_translation": 1.7042777883938653
+    },
+    "f94c225e84": {
+        "mean_angle": 7.621264697629121,
+        "max_angle": 25.15035352825006,
+        "mean_translation": 0.10409806812433614,
+        "max_translation": 0.2296229062527975
+    },
+    "f97de2c3e9": {
+        "mean_angle": 5.0685272283127345,
+        "max_angle": 175.45752032886065,
+        "mean_translation": 0.05052689408645237,
+        "max_translation": 2.5847207153268847
+    },
+    "f9f95681fd": {
+        "mean_angle": 2.6675145567190857,
+        "max_angle": 130.84122651644074,
+        "mean_translation": 0.01959859381568078,
+        "max_translation": 0.8151179718882008
+    },
+    "faba6e97d7": {
+        "mean_angle": 4.576434990517777,
+        "max_angle": 8.40272040455891,
+        "mean_translation": 0.016016059154890776,
+        "max_translation": 0.05999003727424598
+    },
+    "faec2f0468": {
+        "mean_angle": 2.7696144290973335,
+        "max_angle": 150.30214624795389,
+        "mean_translation": 0.05058706643392195,
+        "max_translation": 4.163425012694565
+    },
+    "fb05e13ad1": {
+        "mean_angle": 2.862882754685228,
+        "max_angle": 129.17152842694472,
+        "mean_translation": 0.029330817448406155,
+        "max_translation": 1.7122422259367776
+    },
+    "fb152519ad": {
+        "mean_angle": 4.298597175776976,
+        "max_angle": 140.7609096942899,
+        "mean_translation": 0.026249474433280077,
+        "max_translation": 2.5644327257703545
+    },
+    "fb564c935d": {
+        "mean_angle": 16.37017065685238,
+        "max_angle": 74.33210048546213,
+        "mean_translation": 0.20673879743583573,
+        "max_translation": 3.0741635062088712
+    },
+    "fb893ffaf3": {
+        "mean_angle": 1.612574618163328,
+        "max_angle": 178.67503170181925,
+        "mean_translation": 0.029891476769451156,
+        "max_translation": 7.376816442448468
+    },
+    "fb9b4c2f15": {
+        "mean_angle": 2.4756281252901857,
+        "max_angle": 61.77489419775311,
+        "mean_translation": 0.018800781036079597,
+        "max_translation": 0.18950130337143584
+    },
+    "fc2875ea52": {
+        "mean_angle": 2.9295717660710383,
+        "max_angle": 176.87714638606872,
+        "mean_translation": 0.027092302644303252,
+        "max_translation": 2.3735643729012903
+    },
+    "fc85fb414c": {
+        "mean_angle": 2.93736515013091,
+        "max_angle": 30.46599713796806,
+        "mean_translation": 0.022598138604415983,
+        "max_translation": 0.3076019097480502
+    },
+    "fd361ab85f": {
+        "mean_angle": 13.283222846871842,
+        "max_angle": 99.62486594288738,
+        "mean_translation": 0.16104821027293842,
+        "max_translation": 3.639044958446396
+    },
+    "fd8560cfd6": {
+        "mean_angle": 3.7760014225764507,
+        "max_angle": 165.56388117936515,
+        "mean_translation": 0.03878993560255812,
+        "max_translation": 2.2100012821112585
+    },
+    "fdf7f5cd5d": {
+        "mean_angle": 3.751737006894308,
+        "max_angle": 50.74733963561426,
+        "mean_translation": 0.025880906127541348,
+        "max_translation": 0.6597339340447357
+    },
+    "fe1733741f": {
+        "mean_angle": 9.94570207549483,
+        "max_angle": 78.1121191644529,
+        "mean_translation": 0.13353868579686398,
+        "max_translation": 1.650944297091115
+    },
+    "fe3fc057a1": {
+        "mean_angle": 3.9449278225568585,
+        "max_angle": 121.37297161541825,
+        "mean_translation": 0.0261285905051813,
+        "max_translation": 1.7062258575776688
+    },
+    "fe5fe0a8a4": {
+        "mean_angle": 3.5657938161774667,
+        "max_angle": 101.55329724661935,
+        "mean_translation": 0.02086810155406203,
+        "max_translation": 3.1939696506840036
+    },
+    "ff17657f71": {
+        "mean_angle": 5.808339251711011,
+        "max_angle": 97.72896743086851,
+        "mean_translation": 0.050353295133089206,
+        "max_translation": 1.7025154851678104
+    }
+}

@@ -6,6 +6,7 @@
 [Guanghao Li*](https://lightingooo.github.io/), [Kerui Ren*](https://cskrren.github.io/), [Linning Xu](https://eveneveno.github.io/lnxu/),
 [Zhewen Zheng](https://github.com/QuantumEPR), [Changjian Jiang](https://scholar.google.com/citations?hl=en&user=V4miywEAAAAJ), [Xin Gao](https://gaoxin492.github.io/), [Bo Dai](https://daibo.info/), [Jian Pu<sup>†</sup>](https://scholar.google.com/citations?user=9pUCoOkAAAAJ&hl=en), [Mulin Yu<sup>†</sup>](https://mulinyu.github.io/), [Jiangmiao Pang](https://oceanpang.github.io/) <br/>
 
+[2026.02.19] Training code is released.
 [2026.01.26] Our paper is accepted by ICLR 2026.
 
 ## Frontend and Backend Modules
@@ -15,3 +16,104 @@
 ## Mapping Module
 ![img](assets/pipeline2.png)
 When a keyframe or mapper frame arrives from the backend, new Gaussians are added to the scene. Multi-resolution inputs are analyzed with the Laplacian of Gaussian (LoG) operator to identify regions that require refinement, and new Gaussians are initialized at the corresponding monocular depth positions in the current view. Common frames are not used to add Gaussians but contribute through gradient-based refinement. Each primitive stores position, spherical harmonics (SH), base scale, opacity, local feature, dmax, and voxel index vid. For rendering, the dmax attribute determines whether a Gaussian is included at a given viewing distance, enabling consistent level-of-detail control.
+
+
+## Installation
+Our code are tested on Python 3.11 + PyTorch 2.3.1 + CUDA 12.1 and Python 3.12 + PyTorch 2.7.1 + CUDA 12.8, it should work with other Pytorch/CUDA versions as well.
+
+**Clone the repo.**
+```bash
+git clone https://github.com/InternRobotics/ARTDECO.git
+cd ARTDECO/
+```
+
+**Create the environment and install PyTorch.**
+```bash
+# python 3.11 + cuda 12.1 + pytorch 2.5.1
+conda create -n artdeco python=3.11
+conda activate artdeco
+conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 pytorch-cuda=12.1 -c pytorch -c nvidia
+```
+or
+```bash
+# python 3.12 + cuda 12.8 + pytorch 2.7.1
+conda create -n artdeco python=3.12
+conda activate artdeco
+pip install torch==2.7.1 torchvision==0.22.1 torchaudio==2.7.1 --index-url https://download.pytorch.org/whl/cu128
+```
+
+**Build VSLAM and download VSLAM checkpoints.**
+```bash
+# Install VSLAM thirdparty
+cd VSLAM
+pip install -e thirdparty/mast3r --no-build-isolation
+pip install -e thirdparty/in3d --no-build-isolation
+pip install -e . --no-build-isolation
+
+# Install Pypose and GeoCalib
+pip install pypose
+python -m pip install -e "git+https://github.com/cvg/GeoCalib#egg=geocalib"
+
+# Download MASt3R checkpoints
+mkdir -p models/
+wget https://download.europe.naverlabs.com/ComputerVision/MASt3R/MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric.pth -P models/
+wget https://download.europe.naverlabs.com/ComputerVision/MASt3R/MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric_retrieval_trainingfree.pth -P models/
+wget https://download.europe.naverlabs.com/ComputerVision/MASt3R/MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric_retrieval_codebook.pkl -P models/
+
+cd ..
+```
+Download [Pi3 Checkpoints](https://huggingface.co/yyfz233/Pi3/resolve/main/model.safetensors?download=true) to models/model.safetensors
+
+**Build Reconstruct.**
+```bash
+# Install gsplat
+pip install gsplat
+
+# Install submodules
+cd Reconstruct
+pip install submodules/fused-ssim --no-build-isolation
+pip install submodules/simple-knn --no-build-isolation
+pip install submodules/graphdecoviewer
+
+cd ..
+```
+Then install other pip packages.
+
+## Training
+
+We prepare [PINGPONG](https://drive.google.com/file/d/1sllaCqCLt5mS0ZfDNY_tb-CZ3ruMhU2P/view?usp=sharing) as a test example. the data structure should be:
+```
+<location>
+|---pingpong
+|   |---images
+|   |   |---${timestamp}(.png/.jpg)
+|   (|---intr.yaml)
+```
+intr.yaml
+```width: 2592
+height: 1944
+# fx, fy, cx, cy ...
+calibration:  [1478.95393660578, 1478.95393660578, 1296.0, 972.0]
+```
+
+Then we train this scen with this command.
+
+```bash
+bash run.sh
+```
+
+## Contact
+- Kerui Ren: renkerui@sjtu.edu.cn
+
+## Citation
+
+If you find our work helpful, please consider citing:
+
+```
+@article{li2025artdeco,
+  title={Artdeco: Towards efficient and high-fidelity on-the-fly 3d reconstruction with structured scene representation},
+  author={Li, Guanghao and Ren, Kerui and Xu, Linning and Zheng, Zhewen and Jiang, Changjian and Gao, Xin and Dai, Bo and Pu, Jian and Yu, Mulin and Pang, Jiangmiao},
+  journal={arXiv preprint arXiv:2510.08551},
+  year={2025}
+}
+```

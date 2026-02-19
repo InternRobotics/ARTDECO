@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools==70.0.0", "torch"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "MAST3R-SLAM"
+version = "0.0.1"
+dependencies = [
+    "numpy==1.26.4",
+    "einops",
+    "pyrealsense2",
+    "evo",
+    "natsort",
+    "plyfile",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["mast3r_slam"]
+namespaces = false

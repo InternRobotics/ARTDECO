@@ -1,0 +1,61 @@
+use_calib: True
+undistortion: True
+
+dataset:
+  center_principle_point: True    # 预处理内参矩阵的时候是否要将光心放在图像中间，从而获得新的内参矩阵
+
+matching:
+  # 基于点的匹配（角度，距离）
+  max_iter: 10 # 高斯牛顿法的迭代次数
+  lambda_init: 1e-8 # 高斯牛顿法的阻尼项的初始值
+  convergence_thresh: 1e-6 # 基于点的角度匹配迭代误差小于这个代表匹配结果收敛
+  dist_thresh: 3e-1 # 匹配的点之间的距离要小于这个
+  # 基于特征的匹配,這兩個參數實際上是一個，在已知初始匹配的方式下：
+  # 以这两个参数相乘为半径，找这个半径内的像素的特征，计算特征点成分数最高的像素作为匹配像素
+  # 中心为匹配像素，直径为2 * radius * dilation_max的区域
+  radius: 5
+  dilation_max: 5
+
+tracking:
+  min_match_frac: 0.05    # 匹配的点的数量占所有的点的数量的阈值，如果小于这个比例认为匹配失败
+  max_iters: 50           # 迭代求解两帧相对位姿时的最大迭代次数
+  C_conf: 0.0             # 匹配分数阈值，匹配的点之间的预测分数需要大于这个分数
+  Q_conf: 1.5             # 匹配分数阈值，匹配的点之间的特征预测分数需要大于这个分数
+  rel_error: 1e-3         # 在位姿估计的时候，如果相邻两次迭代的损失降低百分比小于这个，则认为收敛
+  delta_norm: 1e-3        # 在位姿估计的时候，如果当前迭代的sim(3)左扰动量的模小于这个值则认为收敛
+  huber: 1.345            # huber核中残差阈值，小于阈值正常权重，大于阈值衰减权重
+  match_frac_thresh: 0.333 # 关键帧阈值，匹配百分比小于这个阈值表示需要增加新的关键帧
+  sigma_ray: 0.003        # 在位姿估计的时候，对单位向量残差的权重
+  sigma_dist: 1e+1        # 在位姿估计的时候，对模长的权重
+  sigma_pixel: 1.0        # 在位姿估计的时候，对投影像素误差的权重（已知内参）
+  sigma_depth: 1e+1 # NOTE: log-depth! # 在位姿估计的时候，对投影像素深度的权重（已知内参）
+  sigma_point: 0.05
+  pixel_border: -10 # Only in calib (negative means allow pixels outside image up to that distance) 重投影的像素需要在边界+该值的范围内
+  depth_eps: 1e-6 # Only in calib case， 相机坐标系下的点云z坐标需要大于该值，否则认为无效。设置为0
+
+
+local_opt:
+  pin: 1                # 全局优化的因子途中最少的关键帧数量
+  window_size: 1e+6   
+  C_conf: 0.0
+  Q_conf: 1.5           # 特征分数大于这个认为特征合理
+  min_match_frac: 0.1   # 建立因子图的时候因子图，其上相连的关键帧之间最低的匹配百分比。因子相连的两帧互相匹配都必须大于这个百分比才可以作为真的因子
+  pixel_border: -10 # Only in calib (negative means allow pixels outside image up to that distance)
+  depth_eps: 1e-6 # Only in calib case
+  max_iters: 10         # 高斯牛顿法的迭代次数
+  sigma_ray: 0.003
+  sigma_dist: 1e+1
+  sigma_pixel: 1.0
+  sigma_depth: 1e+1 # NOTE: log-depth!
+  sigma_point: 0.05
+  delta_norm: 1e-8
+  use_cuda: True
+
+retrieval:
+  k: 3                     # 找到与当前关键帧相关的前k帧
+  min_thresh: 5e-3         # 相似度分数大于这个被认为是与当前关键帧相似
+  accurate_min: 0.15
+
+reloc:
+  min_match_frac: 0.3      # 重定位，当前帧与可能匹配的关键帧得最小的匹配百分比
+  strict: True             # 严格模式：找出的与当前需要重定位的帧所有相关的帧都得匹配上才认为重定位成功

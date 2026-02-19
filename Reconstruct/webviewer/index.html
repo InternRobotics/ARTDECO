@@ -1,0 +1,348 @@
+<!--
+ Copyright (C) 2025, Inria
+ GRAPHDECO research group, https://team.inria.fr/graphdeco
+ All rights reserved.
+
+ This software is free for non-commercial, research and evaluation use 
+ under the terms of the LICENSE.md file.
+
+ For inquiries contact  george.drettakis@inria.fr
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WebSocket Image Receiver</title>
+    <script type="importmap">
+        {
+        "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@0.176.0/build/three.module.js",
+            "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.176.0/examples/jsm/"
+        }
+        }
+    </script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            touch-action: none;
+        }
+
+        #container {
+            width: 100vw;
+            height: 100vh;
+            background-color: black;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+            transform-origin: center center;
+            transition: transform 0.05s linear;
+        }
+
+        #controls {
+            position: absolute;
+            bottom: 10px;
+            /* left: 10px; */
+            z-index: 10;
+            width: 100vw;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        #status {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 40px;
+            z-index: 10;
+            background-color: blue;
+            color: white;
+            border-radius: 6px;
+            opacity: 70%;
+        }
+
+        button {
+            background-color: #2e8b57;
+            color: white;
+            cursor: pointer;
+
+            font-size: 40px;
+            border-radius: 6px;
+            margin: 5px;
+            padding: 8px 16px;
+            border: none;
+            opacity: 70%;
+        }
+
+        #snap {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background-color: blue;
+            opacity: 70%;
+            z-index: 10;
+            padding: 8px 16px;
+            border-radius: 6px;
+            color: white;
+            font-size: 40px;
+            border: none;
+        }
+
+        .checkbox {
+            background-color: #888;
+            color: white;
+            border-radius: inherit;
+            font-size: inherit;
+
+            border-radius: inherit;
+            font-size: inherit;
+            margin: inherit;
+            padding: inherit;
+            border: inherit;
+        }
+
+        button.red {
+            background-color: red;
+        }
+
+        button:disabled {
+            background-color: #888;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <div id="controls">
+        <button id="startBtn" disabled>Start</button>
+        <button id="stopBtn" disabled>Pause</button>
+        <button id="finishBtn" class="red" disabled>Finish</button>
+    </div>
+    <button id="snap">Free view</button>
+
+    <div id="status">
+        <p id="statusText">Status: <span id="statusValue">Disconnected</span></p>
+    </div>
+    <canvas id="canvas" style="width: 100vw; height: 100vh"></canvas>
+
+    <script type="module">
+        import * as THREE from 'three';
+        import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+        import { FirstPersonControls } from 'three/addons/controls/FirstPersonControls.js';
+
+        // Scene translation bounds
+        const minBounds = new THREE.Vector3(-1, -1, -1);
+        const maxBounds = new THREE.Vector3(1, 1, 1);
+        const cameraToWorld = new THREE.Matrix4();
+
+        const _v = new THREE.Vector3();
+        class CustomControls extends OrbitControls {
+            update( deltaTime = null ) {
+                const position = this.object.position;
+
+                // Set spherical based upon vector from position to target
+                _v.copy( position ).sub( this.target );
+                // rotate offset to "y-axis-is-up" space
+                _v.applyQuaternion( this._quat );
+                // angle from z-axis around y-axis
+                this._spherical.setFromVector3( _v );
+
+                // Handle Pan
+                _v.copy(position);
+                position.add(this._panOffset);
+                position.clamp(minBounds, maxBounds);
+                this.target.sub(_v.sub(position));
+                this._panOffset.set(0, 0, 0);
+
+                // Set spherical based upon vector from position to target
+                _v.copy( position ).sub( this.target );
+                // rotate offset to "y-axis-is-up" space
+                _v.applyQuaternion( this._quat );
+                // angle from z-axis around y-axis
+                this._spherical.setFromVector3( _v );
+
+                // Handle Zoom
+                this._spherical.radius *= this._scale;
+                this._scale = 1; // Reset scale after zoom
+                // Apply transform to camera and clamp
+                _v.setFromSpherical(this._spherical); 
+                _v.applyQuaternion(this._quatInverse);
+                position.copy(this.target).add(_v);
+                position.clamp(minBounds, maxBounds);
+
+                // Set spherical based upon vector from position to target
+                _v.copy( position ).sub( this.target );
+                // rotate offset to "y-axis-is-up" space
+                _v.applyQuaternion( this._quat );
+                // angle from z-axis around y-axis
+                this._spherical.setFromVector3( _v );
+
+                // Handle rotation
+                this._spherical.theta += this._sphericalDelta.theta;
+                this._spherical.phi += this._sphericalDelta.phi;
+                this._sphericalDelta.set(0, 0, 0);
+                this._spherical.makeSafe();
+
+                // Apply transform to camera and clamp
+                _v.setFromSpherical(this._spherical); 
+                _v.applyQuaternion(this._quatInverse);
+                position.copy(this.target).add(_v);
+                this.object.lookAt(this.target);
+            }
+        };
+
+        let ws;
+        let state = 'stop';
+        const reconnectInterval = 1000;
+        const startBtn = document.getElementById('startBtn');
+        const stopBtn = document.getElementById('stopBtn');
+        const finishBtn = document.getElementById('finishBtn');
+        const snap = document.getElementById('snap');
+        const statusValue = document.getElementById('statusValue');
+        const canvas = document.getElementById('canvas');
+        
+        const renderer = new THREE.WebGLRenderer({ canvas });
+        
+        // Camera
+        const camera = new THREE.PerspectiveCamera(45, 1, 0.1, 1000);
+        camera.up.set(0, -1, 0);
+
+        // Controls
+        const controls = new CustomControls(camera, canvas);
+        controls.target = new THREE.Vector3(0, 0, 1);
+        controls.update();
+        
+        const scene = new THREE.Scene();
+        const loader = new THREE.TextureLoader();
+
+        function connectWebSocket() {
+            console.log("Attempting to connect to WebSocket...");
+
+            ws = new WebSocket(`ws://${window.location.hostname}:6009`);
+            ws.binaryType = 'blob';
+            
+            // Reset state
+            state = 'stop';
+
+            ws.onopen = () => {
+                console.log('WebSocket connected');
+                statusValue.innerText = 'Connected, waiting for training loop to begin...';
+                startBtn.disabled = false;
+                stopBtn.disabled = true;
+                finishBtn.disabled = false;
+            };
+
+            ws.onmessage = (event) => {
+                let data = event.data;
+                if (data instanceof Blob) {
+                    const url = URL.createObjectURL(data);
+                    loader.load(url, (texture) => {texture.colorSpace = THREE.SRGBColorSpace; scene.background = texture;});
+                } else {
+                    let data = JSON.parse(event.data);
+                    if (data.trainer_state === "running") {
+                        statusValue.innerText = state === 'start' ? 'Running' : 'Paused';
+                    } else if (data.trainer_state === "finish") {
+                        statusValue.innerText = "Finished";
+                        startBtn.disabled = true;
+                        stopBtn.disabled = true;
+                        finishBtn.disabled = true;
+                    }
+                    
+                    // Set updated bounds
+                    minBounds.set(data.min_pos[0], data.min_pos[1], data.min_pos[2])
+                    maxBounds.set(data.max_pos[0], data.max_pos[1], data.max_pos[2])
+                    cameraToWorld.fromArray(data.mean_pose).transpose(); // We receive in row_major but THREE.js uses column_major
+
+                    data = {
+                        res_x: canvas.clientWidth,
+                        res_y: canvas.clientHeight,
+                        state: state,
+                        pose: camera.matrixWorld.elements,
+                        snapToLast: snap.innerText === 'Free view' ? true: false
+                    }
+                    ws.send(JSON.stringify(data));
+                }
+            };
+
+            ws.onerror = (err) => {
+                console.error('WebSocket error:', err);
+            };
+
+            ws.onclose = () => {
+                console.warn('WebSocket closed. Trying to reconnect in 5 seconds...');
+                startBtn.disabled = true;
+                stopBtn.disabled = true;
+                finishBtn.disabled = true;
+                statusValue.innerText = 'Disconnected';
+                setTimeout(connectWebSocket, reconnectInterval);
+            };
+        }
+
+        // Initialize connection
+        connectWebSocket();
+
+        startBtn.addEventListener('click', () => {
+            state = 'start';
+            startBtn.disabled = true;
+            stopBtn.disabled = false;
+        });
+
+        stopBtn.addEventListener('click', () => {
+            state = 'stop';
+            startBtn.disabled = false;
+            stopBtn.disabled = true;
+        });
+
+        finishBtn.addEventListener('click', () => {
+            state = 'finish';
+            startBtn.disabled = true;
+            stopBtn.disabled = true;
+            finishBtn.disabled = true;
+        });
+
+        snap.addEventListener('click', () => {
+            if (snap.innerText === 'Free view') {
+                snap.innerText = 'Snap to last';
+                controls.enabled = true;
+
+                // Update camera to middle camera
+                _v.setFromMatrixPosition(cameraToWorld);
+                controls.target.set( 0, 0, - 1 )
+                    .transformDirection( cameraToWorld )
+                    .multiplyScalar( 1 )
+                    .add( _v );
+                camera.position.copy(_v);
+                camera.lookAt(controls.target);
+                controls.update();
+            } else {
+                snap.innerText = 'Free view';
+
+                controls.enabled = false;
+                controls.update();
+            }
+        });
+
+        function resizeRendererToDisplaySize() {
+            const width = canvas.clientWidth;
+            const height = canvas.clientHeight;
+            const needResize = canvas.width !== width || canvas.height !== height;
+            if (needResize) {
+                renderer.setSize(width, height, false );
+            }
+
+            return needResize;
+        }
+
+        function render( time ) {
+            if (resizeRendererToDisplaySize()) {
+                camera.aspect = canvas.clientWidth / canvas.clientHeight;
+                camera.updateProjectionMatrix();
+            }
+            renderer.render(scene, camera)
+            requestAnimationFrame(render);
+        }
+
+        requestAnimationFrame(render);
+    </script>
+</body>
+</html>

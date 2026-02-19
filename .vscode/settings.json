@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.asm": "bat",
-        "*.py": "python",
-        "plyconfig.json": "jsonc"
-    }
-}
