@@ -76,12 +76,14 @@ cd ..
 ```
 
 3. Build Reconstruct Module.
+!!! Please use the `diff_gaussian_rasterization` module located in the [on-the-fly-nvs submodule](https://github.com/graphdeco-inria/on-the-fly-nvs/tree/main/submodules/diff-gaussian-rasterization). Note that this version is intended strictly for optimizing Gaussians, not for rendering.
 ```bash
 # Install gsplat
 pip install gsplat
 
 # Install submodules
 cd Reconstruct
+pip install submodules/diff_gaussian_rasterization --no-build-isolation
 pip install submodules/fused-ssim --no-build-isolation
 pip install submodules/simple-knn --no-build-isolation
 pip install submodules/graphdecoviewer
